@@ -2,7 +2,7 @@ from googleapiclient.discovery import build
 import datetime
 
 # 設定 API 金鑰
-api_key = 'YOUTUBE_API_KEY'
+api_key = 'YOUR_YOUTUBE_API_KEY'
 
 # 建立 YouTube API 客戶端
 youtube = build('youtube', 'v3', developerKey=api_key)
