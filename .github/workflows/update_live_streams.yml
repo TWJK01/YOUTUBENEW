@@ -1,4 +1,6 @@
 name: Update Live Streams
+permissions:
+  contents: write
 
 on:
   schedule:
