@@ -6,9 +6,9 @@ API_KEY = os.environ.get("YOUTUBE_API_KEY")
 
 # 請將下列頻道ID替換成實際頻道的ID
 CHANNELS = {
-    "中天新聞": "UCxxxxx_CtiNews",   # 替換成中天新聞的頻道ID
-    "TVBS": "UCxxxxx_TVBS",          # 替換成TVBS的頻道ID
-    "ChopChopShow": "UCxxxxx_ChopChop"  # 替換成ChopChopShow的頻道ID
+    "中天新聞": "UCpu3bemTQwAU8PqM4kJdoEQ",   # 替換成中天新聞的頻道ID
+    "TVBS": "UC5nwNW4KdC0SzrhF9BXEYOQ",          # 替換成TVBS的頻道ID
+    "11點熱吵店": "UCnZDTHNQ77SqXOF-hKmLoXA"  # 替換成ChopChopShow的頻道ID
 }
 
 OUTPUT_FILE = "live_streams.txt"
