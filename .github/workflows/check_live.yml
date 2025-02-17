@@ -2,8 +2,8 @@ name: Check YouTube Live Streams
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # 每兩小時執行一次，使用UTC時間
-  workflow_dispatch:  # 允許手動觸發
+    - cron: '0 */2 * * *'  # 每兩小時執行一次（使用UTC時間）
+  workflow_dispatch:
 
 jobs:
   check_live:
@@ -25,28 +25,18 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python fetch_live_streams.py
 
-      - name: Configure Git
+      - name: Commit and Push Changes if Updated
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
-      - name: Pull latest changes
-        run: |
-          git stash || true
-          git pull --rebase origin main
-          git stash pop
-          git add -A
-          git commit -m "Update live streams"
-          git push origin main
-
-      - name: Commit and Push Changes
-        run: |
-         git add live_streams.txt
-         git commit -m "Update live streams" || echo "No changes to commit"
-         git push origin main
+          # 檢查是否有未提交的變更
+          if [ -n "$(git status --porcelain)" ]; then
+            git add live_streams.txt
+            git commit -m "Update live streams"
+            # 嘗試拉取遠端更新並合併
+            git pull --rebase origin main
+            # 推送本地更改到遠端
+            git push origin main
           else
-            echo "No live stream updates."
+            echo "No changes to commit"
           fi
-
-
-
