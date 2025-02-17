@@ -33,6 +33,10 @@ jobs:
           touch live_streams.txt
           git add live_streams.txt
 
+      - name: Pull and merge changes from remote
+        run: |
+          git pull --rebase origin main
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
