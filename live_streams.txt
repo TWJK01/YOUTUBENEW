@@ -1,2 +1,5 @@
 中天新聞,https://www.youtube.com/watch?v=XWrunRo9Z4Y
-ChopChopShow,https://www.youtube.com/watch?v=3SGPDYbW78g
+TVBS新聞,https://www.youtube.com/watch?v=7vB_UxW86d4
+TVBS新聞,https://www.youtube.com/watch?v=hlVUiWuPmmk
+TVBS新聞,https://www.youtube.com/watch?v=o_-hSMgpAzs
+ChopChopShow,https://www.youtube.com/watch?v=nLi9sJV_SSU
