@@ -1,32 +1,45 @@
-from googleapiclient.discovery import build
-import datetime
+import os
+import requests
 
-# 設定 API 金鑰
-api_key = 'YOUR_YOUTUBE_API_KEY'
+# 從環境變數取得 API 金鑰（請在 GitHub Secrets 中設定 YOUTUBE_API_KEY）
+API_KEY = os.environ.get("YOUTUBE_API_KEY")
+if not API_KEY:
+    raise Exception("請設定環境變數 YOUTUBE_API_KEY")
 
-# 建立 YouTube API 客戶端
-youtube = build('youtube', 'v3', developerKey=api_key)
+# 頻道名稱與對應的頻道 ID（請根據實際情況確認 channel id）
+CHANNELS = {
+    '中天新聞': 'UC5l1Yto5oOIgRXlI4p4VKbw',
+    'TVBS新聞': 'UC5nwNW4KdC0SzrhF9BXEYOQ',
+    'ChopChopShow': 'UCnZDTHNQ77SqXOF-hKmLoXA'
+}
 
-# 指定要查詢的頻道 ID
-channel_ids = ['UC5l1Yto5oOIgRXlI4p4VKbw', 'UC5nwNW4KdC0SzrhF9BXEYOQ', 'UCnZDTHNQ77SqXOF-hKmLoXA']
+BASE_URL = "https://www.googleapis.com/youtube/v3/search"
+live_streams = []
 
-# 開啟文字檔以寫入直播資訊
-with open('live_streams.txt', 'w', encoding='utf-8') as file:
-    for channel_id in channel_ids:
-        # 呼叫 API 獲取頻道的直播資訊
-        request = youtube.search().list(
-            part='snippet',
-            channelId=channel_id,
-            eventType='live',
-            type='video',
-            publishedAfter=(datetime.datetime.now() - datetime.timedelta(hours=2)).isoformat() + 'Z'
-        )
-        response = request.execute()
+for name, channel_id in CHANNELS.items():
+    params = {
+        'part': 'snippet',
+        'channelId': channel_id,
+        'type': 'video',
+        'eventType': 'live',
+        'key': API_KEY
+    }
+    response = requests.get(BASE_URL, params=params)
+    data = response.json()
 
-        # 檢查是否有直播
-        if response['items']:
-            for item in response['items']:
-                title = item['snippet']['title']
-                video_id = item['id']['videoId']
-                url = f'https://www.youtube.com/watch?v={video_id}'
-                file.write(f'{title},{url}\n')
+    for item in data.get("items", []):
+        title = item["snippet"]["title"]
+        # 判斷標題中是否包含「直播中」或「LIVE」(不區分大小寫)
+        if "直播中" in title or "LIVE" in title.upper():
+            video_id = item["id"]["videoId"]
+            video_url = f"https://www.youtube.com/watch?v={video_id}"
+            # 以「中文名稱,網址」格式存入結果
+            live_streams.append(f"{name},{video_url}")
+
+# 若有符合條件的直播才寫入檔案，否則不更新檔案
+if live_streams:
+    with open("live_streams.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(live_streams))
+    print("已更新 live_streams.txt")
+else:
+    print("目前無符合條件的直播，不更新檔案")
