@@ -29,10 +29,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          if [ -n "$(git status --porcelain)" ]; then
-            git add live_streams.txt
-            git commit -m "Update live streams"
-            git push
+          git pull --rebase  # 拉取遠端更新，並嘗試rebase本地更改
+          git add live_streams.txt
+          git commit -m "Update live streams" || echo "No changes to commit"
+          git push
+
           else
             echo "No live stream updates."
           fi
