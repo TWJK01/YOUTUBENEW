@@ -31,7 +31,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git pull --rebase  # 拉取遠端更新，並嘗試rebase本地更改
           git add live_streams.txt
-          git commit -m "Update live streams" || echo "No changes to commit"
+          git commit -m "Pre-pull commit: commit unstaged changes"
           git push
 
           else
