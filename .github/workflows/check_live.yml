@@ -2,8 +2,8 @@ name: Check YouTube Live Streams
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # 每兩小時執行一次（使用UTC時間）
-  workflow_dispatch:
+    - cron: '0 */2 * * *'  # 每兩小時執行一次，使用UTC時間
+  workflow_dispatch:  # 允許手動觸發
 
 jobs:
   check_live:
@@ -29,12 +29,11 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull --rebase  # 拉取遠端更新，並嘗試rebase本地更改
-          git add live_streams.txt
-          git commit -m "Pre-pull commit: commit unstaged changes"
-          git push
-
+          # 若有更新，提交並推送
+          if [ -n "$(git status --porcelain)" ]; then
+            git add live_streams.txt
+            git commit -m "Update live streams"
+            git push
           else
             echo "No live stream updates."
           fi
- 
