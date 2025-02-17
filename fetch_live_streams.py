@@ -10,7 +10,7 @@ if not API_KEY:
 CHANNELS = {
     '中天新聞': 'UC5l1Yto5oOIgRXlI4p4VKbw',
     'TVBS新聞': 'UC5nwNW4KdC0SzrhF9BXEYOQ',
-    'ChopChopShow': 'UCnZDTHNQ77SqXOF-hKmLoXA'
+    '11點熱吵店': 'UCnZDTHNQ77SqXOF-hKmLoXA'
 }
 
 BASE_URL = "https://www.googleapis.com/youtube/v3/search"
