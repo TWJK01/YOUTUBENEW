@@ -8,7 +8,7 @@ api_key = 'YOUR_YOUTUBE_API_KEY'
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 # 指定要查詢的頻道 ID
-channel_ids = ['UC1234567890abcdef', 'UCabcdef1234567890', 'UCabcdefabcdef1234']
+channel_ids = ['UC5l1Yto5oOIgRXlI4p4VKbw', 'UC5nwNW4KdC0SzrhF9BXEYOQ', 'UCnZDTHNQ77SqXOF-hKmLoXA']
 
 # 開啟文字檔以寫入直播資訊
 with open('live_streams.txt', 'w', encoding='utf-8') as file:
