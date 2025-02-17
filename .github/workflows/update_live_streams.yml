@@ -35,7 +35,7 @@ jobs:
 
       - name: Pull and merge changes from remote
         run: |
-          git pull --rebase origin main
+          git pull --rebase origin main  # 拉取遠端的更新並合併
 
       - name: Commit and push changes
         run: |
@@ -45,6 +45,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update live streams"
-            git push
+            git push origin main
           fi
- 
