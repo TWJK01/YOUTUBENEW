@@ -25,15 +25,23 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python fetch_live_streams.py
 
-      - name: Commit and Push Changes if Updated
+      - name: Configure Git
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # 若有更新，提交並推送
-          if [ -n "$(git status --porcelain)" ]; then
-            git add live_streams.txt
-            git commit -m "Update live streams"
-            git push
+
+      - name: Pull latest changes
+        run: |
+          git pull --rebase origin main
+
+      - name: Commit and Push Changes
+        run: |
+         git add live_streams.txt
+         git commit -m "Update live streams" || echo "No changes to commit"
+         git push origin main
           else
             echo "No live stream updates."
           fi
+
+
+
