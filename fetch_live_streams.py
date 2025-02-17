@@ -9,8 +9,9 @@ if not API_KEY:
 # 設定頻道名稱與對應的頻道 ID
 CHANNELS = {
     '中天新聞CtiNews': 'UCpu3bemTQwAU8PqM4kJdoEQ',
-    'tvbschannel': 'UCD2SNRlEjxJODlwaKx-BoRw',
-    'chopchopshow': 'UCnZDTHNQ77SqXOF-hKmLoXA'
+    'TVBS NEWS': 'UC5nwNW4KdC0SzrhF9BXEYOQ',
+    '智林體育台': 'UCrS3_3lRhFD27BxVYl8Y1Cw',
+    '11點熱吵店': 'UCnZDTHNQ77SqXOF-hKmLoXA'
 }
 
 BASE_URL = 'https://www.googleapis.com/youtube/v3/search'
