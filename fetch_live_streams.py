@@ -9,7 +9,7 @@ if not API_KEY:
 # 頻道名稱與對應的頻道 ID（請根據實際情況確認 channel id）
 CHANNELS = {
     '中天新聞': 'UCpu3bemTQwAU8PqM4kJdoEQ',
-    'TVBS新聞': 'UCD2SNRlEjxJODlwaKx-BoRw',
+    'TVBS新聞': 'UCL0_NxCvkcXwZHpvqgMZY-A',
     'ChopChopShow': 'UCnZDTHNQ77SqXOF-hKmLoXA'
 }
 
