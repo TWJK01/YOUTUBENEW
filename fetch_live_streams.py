@@ -8,9 +8,9 @@ if not API_KEY:
 
 # 頻道名稱與對應的頻道 ID（請根據實際情況確認 channel id）
 CHANNELS = {
-    '中天新聞': 'UC5l1Yto5oOIgRXlI4p4VKbw',
-    'TVBS新聞': 'UC5nwNW4KdC0SzrhF9BXEYOQ',
-    '11點熱吵店': 'UCnZDTHNQ77SqXOF-hKmLoXA'
+    "中天新聞": "UC5l1Yto5oOIgRXlI4p4VKbw",
+    "TVBS新聞": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+    "11點熱吵店": "UCnZDTHNQ77SqXOF-hKmLoXA"
 }
 
 BASE_URL = "https://www.googleapis.com/youtube/v3/search"
