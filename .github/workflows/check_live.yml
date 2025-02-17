@@ -32,7 +32,12 @@ jobs:
 
       - name: Pull latest changes
         run: |
+          git stash
           git pull --rebase origin main
+          git stash pop
+          git add -A
+          git commit -m "Update live streams"
+          git push origin main
 
       - name: Commit and Push Changes
         run: |
