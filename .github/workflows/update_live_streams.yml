@@ -28,11 +28,15 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python fetch_live_streams.py
 
+      - name: Ensure live_streams.txt exists
+        run: |
+          touch live_streams.txt
+          git add live_streams.txt
+
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add live_streams.txt
           if git diff-index --quiet HEAD; then
             echo "No changes to commit"
           else
