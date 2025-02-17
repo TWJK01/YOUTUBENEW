@@ -37,5 +37,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update live streams"
-            git push
+            git push --force origin main
           fi
