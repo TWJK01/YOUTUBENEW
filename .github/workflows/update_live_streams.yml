@@ -33,9 +33,16 @@ jobs:
           touch live_streams.txt
           git add live_streams.txt
 
+      # 將未提交的變更 stash 起來，避免 git pull --rebase 失敗
+      - name: Stash uncommitted changes
+        run: git stash --include-untracked
+
       - name: Pull and merge changes from remote
-        run: |
-          git pull --rebase origin main  # 拉取遠端的更新並合併
+        run: git pull --rebase origin main
+
+      # 還原之前 stash 的變更（如果有）
+      - name: Pop stashed changes
+        run: git stash pop || true
 
       - name: Commit and push changes
         run: |
