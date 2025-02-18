@@ -48,11 +48,12 @@ def save_to_file(live_streams):
     """儲存直播網址到文件"""
     if live_streams:
         with open("live_streams.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(live_streams) + "\n")
+            f.write("\n".join(live_streams) + "\n")  # ✅ 確保這行有縮進
         print("已更新 live_streams.txt")
     else:
         print("沒有正在直播的頻道，建立空白檔案")
         with open("live_streams.txt", "w", encoding="utf-8") as f:
+            f.write("")  # ✅ 這行也要縮進
 
 
 def main():
