@@ -34,8 +34,6 @@ jobs:
         run: python youtube_live_scraper.py
       
       - name: 提交更新
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
@@ -43,10 +41,10 @@ jobs:
           git fetch origin main
           git reset --hard origin/main
           git pull --rebase
+     
+          touch live_streams.txt  # 確保檔案存在
+          git add live_streams.txt || echo "No live_streams.txt to add"
     
-          git add live_streams.txt
           git commit -m "Update live streams" || echo "No changes to commit"
-    
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/TWJK01/YOUTUBENEW.git
-
+          git push || echo "No changes to push"
 
