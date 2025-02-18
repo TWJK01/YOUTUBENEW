@@ -1,0 +1,37 @@
+name: Update Live Streams
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # 每 2 小時執行一次
+  workflow_dispatch:  # 可手動觸發
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 下載儲存庫
+        uses: actions/checkout@v3
+
+      - name: 設定 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.9"
+
+      - name: 安裝相依套件
+        run: |
+          sudo apt update
+          sudo apt install -y wget unzip
+          pip install selenium webdriver-manager google-api-python-client
+
+      - name: 執行爬蟲腳本
+        run: python youtube_live_scraper.py
+
+      - name: 檢查是否有變更
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add live_streams.txt
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update live streams"
+
+      - name: 推送更新
+        run: git push
