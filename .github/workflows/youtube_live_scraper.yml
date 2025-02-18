@@ -17,15 +17,17 @@ jobs:
         with:
           python-version: '3.x'
       
-      - name: 安裝依賴
-        run: pip install requests
+      - name: 安裝 Python 依賴
+        run: |
+          pip install selenium requests beautifulsoup4 webdriver-manager
 
-      - name: 安裝 ChromeDriver
+      - name: 安裝 Chrome 和 ChromeDriver
         run: |
           sudo apt update
-          sudo apt install -y chromium-chromedriver
-          pip install webdriver-manager
-
+          sudo apt install -y chromium-browser chromium-chromedriver
+          echo "CHROME_BIN=/usr/bin/chromium-browser" >> $GITHUB_ENV
+          echo "CHROMEDRIVER_BIN=/usr/bin/chromedriver" >> $GITHUB_ENV
+      
       - name: 執行爬蟲
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
@@ -35,15 +37,8 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
-    
-          # 確保遠端倉庫是最新的
           git fetch origin main
-          git reset --hard origin/main  # 這行確保同步遠端版本，避免衝突
-    
-          # 重新執行檔案變更
+          git reset --hard origin/main
           git add live_streams.txt
           git commit -m "Update live streams" || echo "No changes to commit"
           git push
-
-
-
