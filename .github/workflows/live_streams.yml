@@ -28,16 +28,25 @@ jobs:
         run: |
           python crawler.py
 
-      - name: Commit and push changes if any
+      - name: Checkout and update repository
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull --rebase origin main
+
+      - name: Run crawler script
+        run: |
+          python crawler.py
+
+      - name: Commit and push changes if any
+        run: |
           git add live_streams.txt
           if ! git diff --cached --quiet; then
-            git pull --rebase origin main
-            git commit -m "Update live streams list"
-            git push origin main
-          else
-            echo "No changes to commit."
+          git commit -m "Update live streams list"
+          git push origin main
+        else
+          echo "No changes to commit."
           exit 0
-          fi
+        fi
+
+
