@@ -11,11 +11,22 @@ API_KEY = os.environ.get("YOUTUBE_API_KEY", "YOUR_API_KEY")
 CHANNELS = {
     "台視新聞": "https://www.youtube.com/@TTV_NEWS/streams",
     "中視新聞": "https://www.youtube.com/@chinatvnews/streams",
+    "中視新聞 HD": "https://www.youtube.com/@twctvnews/streams",
     "華視新聞": "https://www.youtube.com/@CtsTw/streams",
     "民視新聞網": "https://www.youtube.com/@FTV_News/streams",
+    "公視": "https://www.youtube.com/@ptslivestream/streams",
+    "公視新聞網": "https://www.youtube.com/@PNNPTS/streams",
+    "公視台語台": "https://www.youtube.com/@ptstaigitai/streams",
+    "大愛電視": "https://www.youtube.com/@DaAiVideo/streams",
     "中天新聞CtiNews": "https://www.youtube.com/@中天新聞CtiNews/streams",
     "中天電視CtiTv": "https://www.youtube.com/@中天電視CtiTv/streams",
+    "民視讚夯": "https://www.youtube.com/@FTV_Forum/streams",
     "TVBS 優選頻道": "https://www.youtube.com/@tvbschannel/streams",
+    "台視時光機": "https://www.youtube.com/@TTVClassic/streams",
+    "中視經典戲劇": "https://www.youtube.com/@ctvdrama_classic/streams",
+    "中視經典綜藝": "https://www.youtube.com/@ctvent_classic/streams",
+    "華視戲劇頻道": "https://www.youtube.com/@cts_drama/streams",
+    "華視綜藝頻道": "https://www.youtube.com/@CTSSHOW/streams",
     "11點熱吵店": "https://www.youtube.com/@chopchopshow/streams"
 }
 
