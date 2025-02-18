@@ -34,12 +34,14 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain live_streams.txt)" ]; then
-            git pull --rebase origin main
             git add live_streams.txt
+            # 使用 --autostash 讓 git 自動 stash 未提交變更
+            git pull --rebase --autostash origin main
             git commit -m "更新直播清單"
             git push
           else
             echo "無直播更新，不進行 commit。"
           fi
+
 
  
