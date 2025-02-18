@@ -39,10 +39,12 @@ jobs:
             git reset --soft origin/main
             git add live_streams.txt
             git commit -m "更新直播清單"
-            git push
+            # 使用 force-with-lease 來推送更新
+            git push --force-with-lease
           else
             echo "無直播更新，不進行 commit。"
           fi
+
 
 
 
