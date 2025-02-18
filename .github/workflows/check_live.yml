@@ -35,15 +35,15 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain live_streams.txt)" ]; then
             git fetch origin main
-            # 將 HEAD 軟重設到遠端 main，但保留工作目錄的變更
             git reset --soft origin/main
             git add live_streams.txt
             git commit -m "更新直播清單"
-            # 使用 force-with-lease 來推送更新
             git push --force-with-lease
           else
             echo "無直播更新，不進行 commit。"
+            exit 0
           fi
+
 
 
 
