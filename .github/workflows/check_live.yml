@@ -33,10 +33,11 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # 檢查 live_streams.txt 是否有變更
-          if git diff --quiet live_streams.txt; then
-            echo "無直播更新，跳過 commit。"
+
+          git pull --rebase origin main  # 確保與遠端同步
+          git add live_streams.txt
+          git commit -m "更新直播清單" || echo "沒有變更需要提交"
+          git push origin main || echo "推送失敗，可能無變更"
             exit 0
           fi
           
