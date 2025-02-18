@@ -47,13 +47,12 @@ def get_live_streams_selenium():
 def save_to_file(live_streams):
     """儲存直播網址到文件"""
     if live_streams:
-        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        with open("live_streams.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(live_streams) + "\n")
         print("已更新 live_streams.txt")
     else:
-        print("沒有正在直播的頻道")
-        if os.path.exists(OUTPUT_FILE):
-            os.remove(OUTPUT_FILE)  # 沒有直播時刪除檔案
+        print("沒有正在直播的頻道，建立空白檔案")
+        with open("live_streams.txt", "w", encoding="utf-8") as f:
 
 
 def main():
@@ -63,3 +62,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
