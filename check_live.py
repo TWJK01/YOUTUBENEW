@@ -10,6 +10,7 @@ API_KEY = os.environ.get("YOUTUBE_API_KEY", "YOUR_API_KEY")
 # 要查詢的頻道名稱與對應 /streams 網址
 CHANNELS = {
     "中天新聞CtiNews": "https://www.youtube.com/@中天新聞CtiNews/streams",
+    "中天電視": "https://www.youtube.com/@中天電視CtiTv/streams",
     "TVBS": "https://www.youtube.com/@tvbschannel/streams",
     "ChopChopShow": "https://www.youtube.com/@chopchopshow/streams"
 }
