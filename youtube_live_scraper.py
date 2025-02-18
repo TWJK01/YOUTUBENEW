@@ -2,10 +2,20 @@ import os
 import time
 import requests
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
-from bs4 import BeautifulSoup
+
+def get_driver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # 無頭模式
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+
+    service = Service(ChromeDriverManager().install())  # 自動下載 chromedriver
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    return driver
+
 
 # 設定 YouTube Data API Key
 API_KEY = os.getenv("YOUTUBE_API_KEY")  # GitHub Actions 環境變數
