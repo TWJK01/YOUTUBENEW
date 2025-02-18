@@ -19,7 +19,13 @@ jobs:
       
       - name: 安裝依賴
         run: pip install requests
-      
+
+      - name: 安裝 ChromeDriver
+        run: |
+          sudo apt update
+          sudo apt install -y chromium-chromedriver
+          pip install webdriver-manager
+
       - name: 執行爬蟲
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
