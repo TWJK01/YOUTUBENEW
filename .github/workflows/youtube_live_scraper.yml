@@ -29,6 +29,10 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+          git pull --rebase  # 這一行確保先拉取最新變更，避免推送衝突
           git add live_streams.txt
           git commit -m "Update live streams" || echo "No changes to commit"
           git push
+
+
+
