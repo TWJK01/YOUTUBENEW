@@ -1,13 +1,11 @@
-#!/usr/bin/env python
 import requests
 import re
 import json
-import os
 
-# 設定你的 YouTube Data API key
-API_KEY = os.environ.get("YOUTUBE_API_KEY", "YOUR_API_KEY")
+# 設定 API 金鑰
+API_KEY = "你的 YouTube Data API 金鑰"
 
-# 要查詢的頻道名稱與對應 /streams 網址
+# 頻道清單
 CHANNELS = {
     "台視新聞": "https://www.youtube.com/@TTV_NEWS/streams",
     "中視新聞": "https://www.youtube.com/@chinatvnews/streams",
@@ -41,23 +39,13 @@ CHANNELS = {
     "三立華劇 SET Drama": "https://www.youtube.com/@SETdrama/streams",
     "TVBS劇在一起": "https://www.youtube.com/@tvbsdrama/streams",
     "11點熱吵店": "https://www.youtube.com/@chopchopshow/streams",
-    "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
+    "國會頻道": "https://www.youtube.com/@parliamentarytv/streams",
 }
 
-# 用來儲存直播結果
+# 儲存直播結果的列表
 live_results = []
 
-def extract_video_ids(data_obj, collected):
-    """遞迴搜尋 JSON 物件中的 videoId"""
-    if isinstance(data_obj, dict):
-        if "videoId" in data_obj:
-            collected.add(data_obj["videoId"])
-        for value in data_obj.values():
-            extract_video_ids(value, collected)
-    elif isinstance(data_obj, list):
-        for item in data_obj:
-            extract_video_ids(item, collected)
-
+# 用來抓取影片的直播資訊
 def get_live_video_info(video_id):
     """利用 YouTube Data API 查詢影片是否為直播，同時取得影片標題"""
     api_url = "https://www.googleapis.com/youtube/v3/videos"
@@ -67,9 +55,12 @@ def get_live_video_info(video_id):
         "key": API_KEY
     }
     response = requests.get(api_url, params=params)
+    
     if response.status_code != 200:
         print(f"Error fetching video {video_id}: HTTP {response.status_code}")
         return None
+    
+    print(f"API 回傳資料: {response.json()}")  # 顯示 API 回傳的資料以進行調試
 
     data = response.json()
     if "items" in data and len(data["items"]) > 0:
@@ -79,7 +70,18 @@ def get_live_video_info(video_id):
             return item
     return None
 
+# 解析頻道頁面的 HTML 並提取影片 ID
+def extract_video_ids(data, video_ids):
+    """解析頁面中所有的影片 ID"""
+    # 檢查是否有正在直播的影片
+    try:
+        for item in data["contents"]["twoColumnBrowseResultsRenderer"]["tabs"][1]["tabRenderer"]["content"]["liveBroadcastsRenderer"]["items"]:
+            video_ids.add(item["liveBroadcastRenderer"]["videoId"])
+    except KeyError:
+        pass
+
 def process_channel(channel_name, url):
+    """處理頻道頁面，提取所有直播影片的網址"""
     print(f"處理頻道：{channel_name}")
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36"
@@ -94,6 +96,9 @@ def process_channel(channel_name, url):
         return
 
     html = resp.text
+    # 輸出 HTML 頁面內容以便檢查
+    print(f"抓取的 HTML 頁面內容：{html[:500]}...")  # 輸出前 500 字元
+
     # 嘗試抓取內嵌 JSON 資料 (ytInitialData)
     m = re.search(r"var ytInitialData = ({.*?});", html)
     if not m:
@@ -122,9 +127,16 @@ def process_channel(channel_name, url):
             print(f"找到直播：{title} - {video_url}")
 
 def main():
+    """主程式，處理所有頻道並更新 live_streams.txt"""
     for channel_name, url in CHANNELS.items():
         process_channel(channel_name, url)
-
+    
+    # 單獨加入台視的直播網址
+    live_results.append("台視,https://www.youtube.com/live/uDqQo8a7Xmk?si=uulfuI90lvJdmEGc")
+    
+    if not live_results:
+        print("目前沒有找到任何直播影片。")
+    
     # 寫入結果到 live_streams.txt，若無直播則清空檔案內容
     with open("live_streams.txt", "w", encoding="utf-8") as f:
         for line in live_results:
