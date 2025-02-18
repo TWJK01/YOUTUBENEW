@@ -44,7 +44,7 @@ jobs:
           git reset --soft origin/main
           git add live_streams.txt
           git commit -m "更新直播清單"
-          git push --force-with-lease
+          git push origin main --force
           exit 0
 
 
