@@ -8,7 +8,7 @@ if not YOUTUBE_API_KEY:
 
 # 設定要查詢的頻道，請自行填入各頻道的 channelId
 channels = [
-    {"name": "中天新聞CtiNews", "channel_id": "UC5l1Yto5oOIgRXlI4p4VKbw"},
+    {"name": "中天新聞CtiNews", "channel_id": "UCpu3bemTQwAU8PqM4kJdoEQ"},
     {"name": "TVBS", "channel_id": "UC5nwNW4KdC0SzrhF9BXEYOQ"},
     {"name": "11點熱吵店", "channel_id": "UCnZDTHNQ77SqXOF-hKmLoXA"}
 ]
