@@ -34,8 +34,10 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add live_streams.txt
           if ! git diff --cached --quiet; then
+            git pull --rebase origin main
             git commit -m "Update live streams list"
-            git push
+            git push origin main
           else
             echo "No changes to commit."
           fi
+
