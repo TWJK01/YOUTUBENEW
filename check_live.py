@@ -29,7 +29,7 @@ def extract_video_ids(data_obj, collected):
             extract_video_ids(item, collected)
 
 def get_live_video_info(video_id):
-    """利用 YouTube Data API 查詢影片是否為直播"""
+    """利用 YouTube Data API 查詢影片是否為直播，同時取得影片標題"""
     api_url = "https://www.googleapis.com/youtube/v3/videos"
     params = {
         "id": video_id,
@@ -84,9 +84,12 @@ def process_channel(channel_name, url):
     for vid in video_ids:
         info = get_live_video_info(vid)
         if info:
+            # 取得影片標題 (中文名稱)
+            title = info["snippet"].get("title", "無標題")
             video_url = f"https://www.youtube.com/watch?v={vid}"
-            live_results.append(f"{channel_name},{video_url}")
-            print(f"找到直播：{video_url}")
+            # 輸出格式： 影片標題,影片網址
+            live_results.append(f"{title},{video_url}")
+            print(f"找到直播：{title} - {video_url}")
 
 def main():
     for channel_name, url in CHANNELS.items():
