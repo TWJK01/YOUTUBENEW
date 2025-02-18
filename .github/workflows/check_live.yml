@@ -40,3 +40,4 @@ jobs:
           else
             echo "無直播更新，不進行 commit。"
           fi
+ 
