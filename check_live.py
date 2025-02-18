@@ -18,6 +18,10 @@ CHANNELS = {
     "公視新聞網": "https://www.youtube.com/@PNNPTS/streams",
     "公視台語台": "https://www.youtube.com/@ptstaigitai/streams",
     "大愛電視": "https://www.youtube.com/@DaAiVideo/streams",
+    "鏡新聞": "https://www.youtube.com/@mnews-tw/streams",
+    "東森新聞": "https://www.youtube.com/@newsebc/streams",
+    "三立iNEWS": "https://www.youtube.com/@setinews/streams",
+    "三立LIVE新聞": "https://www.youtube.com/@setnews/streams",
     "中天新聞CtiNews": "https://www.youtube.com/@中天新聞CtiNews/streams",
     "中天電視CtiTv": "https://www.youtube.com/@中天電視CtiTv/streams",
     "TVBS NEWS": "https://www.youtube.com/@TVBSNEWS01/streams",
@@ -34,8 +38,10 @@ CHANNELS = {
     "華視戲劇頻道": "https://www.youtube.com/@cts_drama/streams",
     "華視綜藝頻道": "https://www.youtube.com/@CTSSHOW/streams",
     "民視戲劇館": "https://www.youtube.com/@FTVDRAMA/streams",
+    "三立華劇 SET Drama": "https://www.youtube.com/@SETdrama/streams",
     "TVBS劇在一起": "https://www.youtube.com/@tvbsdrama/streams",
-    "11點熱吵店": "https://www.youtube.com/@chopchopshow/streams"
+    "11點熱吵店": "https://www.youtube.com/@chopchopshow/streams",
+    "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
 }
 
 # 用來儲存直播結果
