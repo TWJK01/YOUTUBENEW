@@ -6,9 +6,9 @@ from datetime import datetime
 # 設定 YouTube Data API Key
 API_KEY = os.getenv("YOUTUBE_API_KEY")  # 可以在 GitHub Actions 設定環境變數
 CHANNEL_IDS = {
-    "中天新聞CtiNews": "UCwbtZdhuhANYFNRPa99-16Q",
+    "中天新聞CtiNews": "UCpu3bemTQwAU8PqM4kJdoEQ",
     "TVBS": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-    "ChopChopShow": "UCzz5X7k0r1I9W5w2ayCpDhw"
+    "11點熱吵店": "UCnZDTHNQ77SqXOF-hKmLoXA"
 }
 
 # 文字檔存放路徑
