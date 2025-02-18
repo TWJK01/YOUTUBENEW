@@ -1,48 +1,63 @@
-import requests
-import json
 import os
-from datetime import datetime
+import time
+import requests
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from webdriver_manager.chrome import ChromeDriverManager
+from bs4 import BeautifulSoup
 
 # 設定 YouTube Data API Key
-API_KEY = os.getenv("YOUTUBE_API_KEY")  # 可以在 GitHub Actions 設定環境變數
-CHANNEL_IDS = {
-    "中天新聞CtiNews": "UCpu3bemTQwAU8PqM4kJdoEQ",
-    "TVBS": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-    "11點熱吵店": "UCnZDTHNQ77SqXOF-hKmLoXA"
+API_KEY = os.getenv("YOUTUBE_API_KEY")  # GitHub Actions 環境變數
+CHANNEL_URLS = {
+    "中天新聞CtiNews": "https://www.youtube.com/@中天新聞CtiNews/streams",
+    "TVBS": "https://www.youtube.com/@tvbschannel/streams",
+    "ChopChopShow": "https://www.youtube.com/@chopchopshow/streams"
 }
 
 # 文字檔存放路徑
 OUTPUT_FILE = "live_streams.txt"
 
 
-def get_live_streams():
+def get_live_streams_selenium():
+    """使用 Selenium 爬取 YouTube 頻道的直播連結"""
+    options = Options()
+    options.add_argument("--headless")  # 無頭模式，避免開啟瀏覽器
+    options.add_argument("--disable-gpu")
+    options.add_argument("--no-sandbox")
+
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    
     live_streams = []
-    for name, channel_id in CHANNEL_IDS.items():
-        url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&channelId={channel_id}&type=video&eventType=live&key={API_KEY}"
-        response = requests.get(url)
-        data = response.json()
+    for name, url in CHANNEL_URLS.items():
+        driver.get(url)
+        time.sleep(3)  # 等待頁面加載
+
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        videos = soup.select("a#video-title[href*='watch']")  # 抓取所有影片連結
         
-        if "items" in data and len(data["items"]) > 0:
-            video_id = data["items"][0]["id"]["videoId"]
-            video_url = f"https://www.youtube.com/watch?v={video_id}"
+        for video in videos:
+            video_url = "https://www.youtube.com" + video["href"]
             live_streams.append(f"{name},{video_url}")
 
+    driver.quit()
     return live_streams
 
 
 def save_to_file(live_streams):
+    """儲存直播網址到文件"""
     if live_streams:
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write("\n".join(live_streams) + "\n")
-        print(f"{datetime.now()} - 已更新 {OUTPUT_FILE}")
+        print("已更新 live_streams.txt")
     else:
-        print(f"{datetime.now()} - 沒有正在直播的頻道")
+        print("沒有正在直播的頻道")
         if os.path.exists(OUTPUT_FILE):
             os.remove(OUTPUT_FILE)  # 沒有直播時刪除檔案
 
 
 def main():
-    live_streams = get_live_streams()
+    live_streams = get_live_streams_selenium()
     save_to_file(live_streams)
 
 
