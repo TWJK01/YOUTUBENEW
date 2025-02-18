@@ -20,13 +20,21 @@ CHANNELS = {
     "大愛電視": "https://www.youtube.com/@DaAiVideo/streams",
     "中天新聞CtiNews": "https://www.youtube.com/@中天新聞CtiNews/streams",
     "中天電視CtiTv": "https://www.youtube.com/@中天電視CtiTv/streams",
-    "民視讚夯": "https://www.youtube.com/@FTV_Forum/streams",
+    "TVBS NEWS": "https://www.youtube.com/@TVBSNEWS01/streams",
+    "寰宇新聞": "https://www.youtube.com/@globalnewstw/streams",
+    "新唐人亞太電視台": "https://www.youtube.com/@NTDAPTV/streams",
     "TVBS 優選頻道": "https://www.youtube.com/@tvbschannel/streams",
+    "少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
+    "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams",
+    "民視讚夯": "https://www.youtube.com/@FTV_Forum/streams",
+    "寰宇財經新聞": "https://www.youtube.com/@globalmoneytv/streams",
     "台視時光機": "https://www.youtube.com/@TTVClassic/streams",
     "中視經典戲劇": "https://www.youtube.com/@ctvdrama_classic/streams",
     "中視經典綜藝": "https://www.youtube.com/@ctvent_classic/streams",
     "華視戲劇頻道": "https://www.youtube.com/@cts_drama/streams",
     "華視綜藝頻道": "https://www.youtube.com/@CTSSHOW/streams",
+    "民視戲劇館": "https://www.youtube.com/@FTVDRAMA/streams",
+    "TVBS劇在一起": "https://www.youtube.com/@tvbsdrama/streams",
     "11點熱吵店": "https://www.youtube.com/@chopchopshow/streams"
 }
 
