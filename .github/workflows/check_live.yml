@@ -33,19 +33,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          git pull --rebase origin main  # 確保與遠端同步
-          git add live_streams.txt
-          git commit -m "更新直播清單" || echo "沒有變更需要提交"
-          git push origin main || echo "推送失敗，可能無變更"
-            exit 0
-          fi
-          
-          git fetch origin main
-          git reset --soft origin/main
+          git stash --include-untracked
+          git pull --rebase origin main
+          git stash pop || true
           git add live_streams.txt
           git commit -m "更新直播清單"
-          git push origin main --force
-          exit 0
+          git push --force-with-lease
+
 
 
