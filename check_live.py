@@ -129,7 +129,7 @@ CHANNELS = {
     "momo購物二台": "https://www.youtube.com/@momoch3571/streams",
     "ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",	
     "Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams",		
-    "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
+    "國會頻道": "https://www.youtube.com/@parliamentarytv/streams",
 }
 
 # 用來儲存直播結果
