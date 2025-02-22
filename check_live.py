@@ -3,11 +3,15 @@ import requests
 import re
 import json
 import os
+import itertools
 
-# 設定你的 YouTube Data API key
-API_KEY = os.environ.get("YOUTUBE_API_KEY", "YOUR_API_KEY")
+# 設定多組 YouTube Data API Keys (用逗號分隔的環境變數)
+API_KEYS = os.environ.get("YOUTUBE_API_KEYS", "YOUR_API_KEY_1,YOUR_API_KEY_2,YOUR_API_KEY_3").split(",")
 
-# 要查詢的頻道名稱與對應 /streams 網址
+# 建立 API Key 迭代器
+api_key_cycle = itertools.cycle(API_KEYS)
+
+# 要查詢的頻道
 CHANNELS = {
     "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
     "台視新聞": "https://www.youtube.com/@TTV_NEWS/streams",
@@ -144,23 +148,27 @@ def extract_video_ids(data_obj, collected):
 
 def get_live_video_info(video_id):
     """利用 YouTube Data API 查詢影片是否為直播，同時取得影片標題"""
-    api_url = "https://www.googleapis.com/youtube/v3/videos"
-    params = {
-        "id": video_id,
-        "part": "snippet,liveStreamingDetails",
-        "key": API_KEY
-    }
-    response = requests.get(api_url, params=params)
-    if response.status_code != 200:
-        print(f"Error fetching video {video_id}: HTTP {response.status_code}")
-        return None
+    for _ in range(len(API_KEYS)):  # 嘗試每一個 API Key
+        api_key = next(api_key_cycle)
+        api_url = "https://www.googleapis.com/youtube/v3/videos"
+        params = {
+            "id": video_id,
+            "part": "snippet,liveStreamingDetails",
+            "key": api_key
+        }
+        response = requests.get(api_url, params=params)
 
-    data = response.json()
-    if "items" in data and len(data["items"]) > 0:
-        item = data["items"][0]
-        # snippet.liveBroadcastContent 可為 "live", "none", "upcoming"
-        if item["snippet"].get("liveBroadcastContent") == "live":
-            return item
+        if response.status_code == 200:
+            data = response.json()
+            if "items" in data and len(data["items"]) > 0:
+                item = data["items"][0]
+                if item["snippet"].get("liveBroadcastContent") == "live":
+                    return item  # 回傳直播影片資訊
+            return None  # 不是直播
+        else:
+            print(f"API Key {api_key} 失敗，狀態碼: {response.status_code}")
+
+    print(f"所有 API Keys 都失敗，無法查詢 {video_id}")
     return None
 
 def process_channel(channel_name, url):
@@ -178,7 +186,6 @@ def process_channel(channel_name, url):
         return
 
     html = resp.text
-    # 嘗試抓取內嵌 JSON 資料 (ytInitialData)
     m = re.search(r"var ytInitialData = ({.*?});", html)
     if not m:
         print("找不到 ytInitialData")
@@ -190,18 +197,14 @@ def process_channel(channel_name, url):
         print(f"JSON 解析錯誤: {e}")
         return
 
-    # 取得頁面中所有 videoId
     video_ids = set()
     extract_video_ids(data, video_ids)
 
-    # 檢查每支影片是否為直播
     for vid in video_ids:
         info = get_live_video_info(vid)
         if info:
-            # 取得影片標題 (中文名稱)
             title = info["snippet"].get("title", "無標題")
             video_url = f"https://www.youtube.com/watch?v={vid}"
-            # 輸出格式： 影片標題,影片網址
             live_results.append(f"{title},{video_url}")
             print(f"找到直播：{title} - {video_url}")
 
@@ -209,7 +212,6 @@ def main():
     for channel_name, url in CHANNELS.items():
         process_channel(channel_name, url)
 
-    # 寫入結果到 live_streams.txt，若無直播則清空檔案內容
     with open("live_streams.txt", "w", encoding="utf-8") as f:
         for line in live_results:
             f.write(line + "\n")
