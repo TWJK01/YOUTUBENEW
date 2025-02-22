@@ -2,7 +2,7 @@ name: Check YouTube Live Streams
 
 on:
   schedule:
-    # 每 5 小時執行一次
+    # 每5小時執行一次
     - cron: '0 */5 * * *'
   workflow_dispatch:
 
@@ -29,19 +29,13 @@ jobs:
         run: |
           python check_live.py
 
-      - name: Commit and Push changes
+      - name: Commit changes if any
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # 確保當前倉庫是最新的
           git stash --include-untracked
-          git pull --rebase origin main || (git rebase --abort && git reset --hard origin/main)
+          git pull --rebase origin main
           git stash pop || true
-
-          # 提交變更
           git add live_streams.txt
-          git diff --cached --quiet || git commit -m "更新直播清單"
-
-          # 推送變更，確保遠端沒有新提交才推送
+          git commit -m "更新直播清單"
           git push --force-with-lease
