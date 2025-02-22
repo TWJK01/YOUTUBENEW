@@ -6,7 +6,7 @@ import os
 import itertools
 
 # 設定多組 YouTube Data API Keys (用逗號分隔的環境變數)
-API_KEYS = os.environ.get("YOUTUBE_API_KEYS", "YOUR_API_KEY_1,YOUR_API_KEY_2,YOUR_API_KEY_3").split(",")
+API_KEYS = os.environ.get("YOUTUBE_API_KEYS", "YOUR_API_KEY_1,YOUR_API_KEY_2").split(",")
 
 # 建立 API Key 迭代器
 api_key_cycle = itertools.cycle(API_KEYS)
