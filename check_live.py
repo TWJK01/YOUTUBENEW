@@ -63,6 +63,7 @@ CHANNELS = {
     "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/streams",	
     "57怪奇物語": "https://www.youtube.com/@57StrangerThings/streams",
     "台灣啟示錄": "https://www.youtube.com/@ebcapocalypse/streams",
+    "緯來日本台": "https://www.youtube.com/@VideolandJapan/streams",	
     "非凡大探索": "https://www.youtube.com/@ustvfoody/streams",
     "BIF相信未來 官方頻道": "https://www.youtube.com/@BelieveinfutureTV/streams",
     "原視 TITV+": "https://www.youtube.com/@titv8932/videos",	
