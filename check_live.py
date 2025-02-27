@@ -166,7 +166,7 @@ CHANNELS = {
     "Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams",		
     "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
 }
-
+ 
 # 用來儲存直播結果
 live_results = []
 
