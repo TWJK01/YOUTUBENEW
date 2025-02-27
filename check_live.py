@@ -89,6 +89,7 @@ CHANNELS = {
     "戲說台灣": "https://www.youtube.com/@TWStoryTV/streams",
     "三立電視 SET TV": "https://www.youtube.com/@SETTV/streams",
     "三立華劇 SET Drama": "https://www.youtube.com/@SETdrama/streams",
+    "三立台劇 SET Drama": "https://www.youtube.com/@setdramatw/streams",	
     "終極系列": "https://www.youtube.com/@KOONERETURN/streams",
     "TVBS劇在一起": "https://www.youtube.com/@tvbsdrama/streams",
     "TVBS戲劇-女兵日記 女力報到": "https://www.youtube.com/@tvbs-1587/streams",	
