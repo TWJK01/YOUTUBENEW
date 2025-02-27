@@ -69,6 +69,7 @@ CHANNELS = {
     "緯來日本台": "https://www.youtube.com/@VideolandJapan/streams",
     "我愛小明星大跟班": "https://www.youtube.com/@我愛小明星大跟班/streams",
     "204檔案": "https://www.youtube.com/@204/streams",
+    "WTO姐妹會": "https://www.youtube.com/@WTOSS/streams",	
     "好看娛樂": "https://www.youtube.com/@好看娛樂/streams",
     "TVBS女人我最大": "https://www.youtube.com/@tvbsqueen/streams",
     "型男大主廚": "https://www.youtube.com/@twcookingshow/streams",	
