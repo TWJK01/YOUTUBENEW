@@ -1,1 +1,4 @@
+<<<<<<< Updated upstream
 台灣地震監視(地震速報、強震即時警報),https://www.youtube.com/watch?v=Owke6Quk7T0
+=======
+>>>>>>> Stashed changes
