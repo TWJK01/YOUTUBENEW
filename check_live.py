@@ -91,7 +91,8 @@ CATEGORIES = {
         "戲說台灣": "https://www.youtube.com/@TWStoryTV/streams"	
     },
     "影劇,#genre#": {
-        "CCTV纪录": "https://www.youtube.com/@CCTVDocumentary/streams",	
+        "CCTV纪录": "https://www.youtube.com/@CCTVDocumentary/streams",
+	"大愛劇場 DaAiDrama": "https://www.youtube.com/@DaAiDrama/streams",	
         "台視時光機": "https://www.youtube.com/@TTVClassic/streams",
         "中視經典戲劇": "https://www.youtube.com/@ctvdrama_classic/streams",
         "華視戲劇頻道": "https://www.youtube.com/@cts_drama/streams",
