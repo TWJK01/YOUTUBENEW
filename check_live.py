@@ -185,6 +185,7 @@ CATEGORIES = {
     "體育,#genre#": {
         "愛爾達體育家族": "https://www.youtube.com/@ELTASPORTSHD/streams",
         "緯來體育台": "https://www.youtube.com/@vlsports/streams",
+	"公視體育": "https://www.youtube.com/@pts_sports/streams",    
         "庫泊運動賽事": "https://www.youtube.com/@coopersport-live/streams",	
         "智林體育台": "https://www.youtube.com/@oursport_tv1/streams",
         "博斯體育台": "https://www.youtube.com/@Sportcasttw/streams",	
@@ -198,9 +199,9 @@ CATEGORIES = {
     },
 	"購物,#genre#": {
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
-		"momo購物二台": "https://www.youtube.com/@momoch3571/streams",
-		"ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
-		"Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams"		
+	"momo購物二台": "https://www.youtube.com/@momoch3571/streams",
+	"ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
+	"Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams"		
     },
     "國會,#genre#": {
         "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
