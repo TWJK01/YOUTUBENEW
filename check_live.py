@@ -134,28 +134,6 @@ CATEGORIES = {
         "贵州卫视官方频道": "https://www.youtube.com/@gztvofficial/streams",	
         "SMG音乐频道": "https://www.youtube.com/@SMGMusic/streams"				
     },
-    "政論,#genre#": {
-        "壹電視NEXT TV": "https://www.youtube.com/@%E5%A3%B9%E9%9B%BB%E8%A6%96NEXTTV/streams",
-        "庶民大頭家": "https://www.youtube.com/@庶民大頭家/streams",
-        "TVBS 優選頻道": "https://www.youtube.com/@tvbschannel/streams",
-        "街頭麥克風": "https://www.youtube.com/@street-mic/streams",
-        "全球大視野": "https://www.youtube.com/@全球大視野Global_Vision/streams",	
-        "民視讚夯": "https://www.youtube.com/@FTV_Forum/streams",
-        "新台派上線": "https://www.youtube.com/@NewTaiwanonline/streams",	
-        "94要客訴": "https://www.youtube.com/@94politics/streams",	
-        "大新聞大爆卦": "https://www.youtube.com/@大新聞大爆卦HotNewsTalk/streams",	
-        "新聞大白話": "https://www.youtube.com/@tvbstalk/streams",
-        "國民大會": "https://www.youtube.com/@tvbscitizenclub/streams",	
-        "中時新聞網": "https://www.youtube.com/@ChinaTimes/streams",
-        "新聞挖挖哇！": "https://www.youtube.com/@newswawawa/streams",	
-        "前進新台灣": "https://www.youtube.com/@SETTaiwanGo/streams",
-        "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
-        "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
-        "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
-	"少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
-        "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams", 
-        "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"				
-    },
     "少兒,#genre#": {
         "YOYOTV": "https://www.youtube.com/@yoyotvebc/streams",
         "momokids親子台": "https://www.youtube.com/@momokidsYT/streams",
@@ -186,7 +164,7 @@ CATEGORIES = {
     "體育,#genre#": {
         "愛爾達體育家族": "https://www.youtube.com/@ELTASPORTSHD/streams",
         "緯來體育台": "https://www.youtube.com/@vlsports/streams",
-	    "公視體育": "https://www.youtube.com/@pts_sports/streams",    
+	"公視體育": "https://www.youtube.com/@pts_sports/streams",    
         "庫泊運動賽事": "https://www.youtube.com/@coopersport-live/streams",	
         "智林體育台": "https://www.youtube.com/@oursport_tv1/streams",
         "博斯體育台": "https://www.youtube.com/@Sportcasttw/streams",	
@@ -199,11 +177,45 @@ CATEGORIES = {
         "WWE": "https://www.youtube.com/@WWE/streams",
 	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
+	"音樂,#genre#": {
+	"KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",	    
+	"抖音音樂台": "https://www.youtube.com/@douyinyinyuetai/streams",
+	"青春音乐铺": "https://www.youtube.com/@青春音乐铺/streams",
+	"水月琴音": "https://www.youtube.com/@Shuiyueqinyin/streams",	    
+	"Cherry 葵": "https://www.youtube.com/@Cherriexin/streams",			
+	"「KING AMUSEMENT CREATIVE」公式チャンネル": "https://www.youtube.com/@KAC_official/streams",
+	"Mellowbeat Seeker": "https://www.youtube.com/@mellowbeatseeker/streams",
+	"The Good Life Radio x Sensual Musique": "https://www.youtube.com/@TheGoodLiferadio/streams",	
+        "Best of Mix": "https://www.youtube.com/@bestofmixlive/streams",
+	"Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams"		
+    },	
+    "政論,#genre#": {
+        "壹電視NEXT TV": "https://www.youtube.com/@壹電視NEXTTV/streams",
+        "庶民大頭家": "https://www.youtube.com/@庶民大頭家/streams",
+        "TVBS 優選頻道": "https://www.youtube.com/@tvbschannel/streams",
+        "街頭麥克風": "https://www.youtube.com/@street-mic/streams",
+        "全球大視野": "https://www.youtube.com/@全球大視野Global_Vision/streams",	
+        "民視讚夯": "https://www.youtube.com/@FTV_Forum/streams",
+        "新台派上線": "https://www.youtube.com/@NewTaiwanonline/streams",	
+        "94要客訴": "https://www.youtube.com/@94politics/streams",	
+        "大新聞大爆卦": "https://www.youtube.com/@大新聞大爆卦HotNewsTalk/streams",	
+        "新聞大白話": "https://www.youtube.com/@tvbstalk/streams",
+        "國民大會": "https://www.youtube.com/@tvbscitizenclub/streams",	
+        "中時新聞網": "https://www.youtube.com/@ChinaTimes/streams",
+        "新聞挖挖哇！": "https://www.youtube.com/@newswawawa/streams",	
+        "前進新台灣": "https://www.youtube.com/@SETTaiwanGo/streams",
+        "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
+        "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
+        "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
+	"少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
+        "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams", 
+        "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"				
+    },	
 	"購物,#genre#": {
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
-	"momo購物二台": "https://www.youtube.com/@momoch3571/streams",
-	"ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
-	"Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams"		
+	    "momo購物二台": "https://www.youtube.com/@momoch3571/streams",
+	    "ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
+	    "Live東森購物台": "https://www.youtube.com/@HotsaleTV/streams"		
     },
     "國會,#genre#": {
         "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
