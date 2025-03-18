@@ -87,11 +87,12 @@ CATEGORIES = {
         "BIF相信未來 官方頻道": "https://www.youtube.com/@BelieveinfutureTV/streams",
         "原視 TITV+": "https://www.youtube.com/@titv8932/videos",
         "Taste The World": "https://www.youtube.com/@TasteTheWorld66/streams",
-        "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams",	
-        "戲說台灣": "https://www.youtube.com/@TWStoryTV/streams"	
+        "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams"	
+        
     },
     "影劇,#genre#": {
-        "CCTV纪录": "https://www.youtube.com/@CCTVDocumentary/streams",
+        "戲說台灣": "https://www.youtube.com/@TWStoryTV/streams",	
+	"CCTV纪录": "https://www.youtube.com/@CCTVDocumentary/streams",
 	"大愛劇場 DaAiDrama": "https://www.youtube.com/@DaAiDrama/streams",	
         "台視時光機": "https://www.youtube.com/@TTVClassic/streams",
         "中視經典戲劇": "https://www.youtube.com/@ctvdrama_classic/streams",
@@ -151,7 +152,7 @@ CATEGORIES = {
         "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
-		"少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
+	"少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
         "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams", 
         "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"				
     },
