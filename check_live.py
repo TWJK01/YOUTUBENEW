@@ -186,7 +186,7 @@ CATEGORIES = {
     "體育,#genre#": {
         "愛爾達體育家族": "https://www.youtube.com/@ELTASPORTSHD/streams",
         "緯來體育台": "https://www.youtube.com/@vlsports/streams",
-	"公視體育": "https://www.youtube.com/@pts_sports/streams",    
+	    "公視體育": "https://www.youtube.com/@pts_sports/streams",    
         "庫泊運動賽事": "https://www.youtube.com/@coopersport-live/streams",	
         "智林體育台": "https://www.youtube.com/@oursport_tv1/streams",
         "博斯體育台": "https://www.youtube.com/@Sportcasttw/streams",	
@@ -207,7 +207,37 @@ CATEGORIES = {
     },
     "國會,#genre#": {
         "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
-    }	
+    },	
+    "風景,#genre#": {
+        "和平島公園即時影像": "https://www.youtube.com/@和平島公園即時影像/streams",
+		"台北觀光即時影像": "https://www.youtube.com/@taipeitravelofficial/streams",
+		"陽明山國家公園": "https://www.youtube.com/@ymsnpinfo/streams",
+		"大新店有線電視": "https://www.youtube.com/@CGNEWS8888/streams",
+		"新北旅客 New Taipei Tour": "https://www.youtube.com/@ntctour/streams",
+		"紅樹林有線電視": "https://www.youtube.com/@紅樹林有線電視-h7k/streams",
+		"necoast nsa": "https://www.youtube.com/@necoastnsa2903/streams",
+		"野柳即時影像": "https://www.youtube.com/@野柳即時影像/streams",
+		"遊桃園 Taoyuan Travel": "https://www.youtube.com/@TaoyuanTravel/streams",
+		"雪霸國家公園 Shei-Pa National Park": "https://www.youtube.com/@spnp852/streams",
+		"交通部觀光署-參山風管處": "https://www.youtube.com/@trimtnsa/streams",
+		"大玩台中-臺中觀光旅遊局": "https://www.youtube.com/@大玩台中-臺中觀光旅/streams",
+		"台灣即時影像監視器": "https://www.youtube.com/@twipcam/streams",
+		"Amos YANG": "https://www.youtube.com/@feng52/streams",
+		"國家森林遊樂區即時影像": "https://www.youtube.com/@fancarecreation/streams",
+		"阿里山國家風景區管理處": "https://www.youtube.com/@Alishannsa/streams",
+		"大台南新聞": "https://www.youtube.com/@大台南新聞南天地方新/streams",
+		"內政部國家公園署台江國家公園管理處": "https://www.youtube.com/@taijiangnationalpark/streams",
+		"高雄旅遊網": "https://www.youtube.com/@travelkhh/streams",
+		"茂林國家風景區": "https://www.youtube.com/@茂林國家風景區/streams",
+		"南喃夕語": "https://www.youtube.com/@thesouth.2022/streams",
+		"ktnpworld": "https://www.youtube.com/@ktnpworld/streams",
+		"斯爾本科技有限公司": "https://www.youtube.com/@Suburban-Security/streams",
+		"花蓮縣政府觀光處七星潭風景區": "https://www.youtube.com/@花蓮縣政府觀光處七星/streams",
+		"東部海岸國家風景管理處": "https://www.youtube.com/@eastcoastnsa0501/streams",
+		"Amazing Taitung 台東就醬玩": "https://www.youtube.com/@taitungamazing7249/streams",
+		"ervnsa": "https://www.youtube.com/@ervnsa/streams",
+		"樂遊金門": "https://www.youtube.com/@kinmentravel/streams"		
+    }
 }
 
 # 用來儲存直播結果
