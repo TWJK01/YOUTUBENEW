@@ -196,7 +196,8 @@ CATEGORIES = {
         "GoHoops": "https://www.youtube.com/@GoHoops/streams",
         "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",	
         "日本B聯盟": "https://www.youtube.com/@b.leagueinternational/streams",	
-        "WWE": "https://www.youtube.com/@WWE/streams"		
+        "WWE": "https://www.youtube.com/@WWE/streams",
+	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
 	"購物,#genre#": {
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
