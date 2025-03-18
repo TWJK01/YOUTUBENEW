@@ -178,7 +178,9 @@ CATEGORIES = {
 	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
     "音樂,#genre#": {
-	"KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",	    
+	"KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",
+	"Douyin Chill": "https://www.youtube.com/@DouyinChill-xr2yk/streams",
+	"生活乐章": "https://www.youtube.com/@生活乐章/streams",	    
 	"抖音音樂台": "https://www.youtube.com/@douyinyinyuetai/streams",
 	"青春音乐铺": "https://www.youtube.com/@青春音乐铺/streams",
 	"水月琴音": "https://www.youtube.com/@Shuiyueqinyin/streams",	    
@@ -211,7 +213,7 @@ CATEGORIES = {
         "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams", 
         "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"				
     },	
-	"購物,#genre#": {
+    "購物,#genre#": {
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
 	"momo購物二台": "https://www.youtube.com/@momoch3571/streams",
 	"ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
