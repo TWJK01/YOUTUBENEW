@@ -177,7 +177,7 @@ CATEGORIES = {
         "WWE": "https://www.youtube.com/@WWE/streams",
 	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
-	"音樂,#genre#": {
+    "音樂,#genre#": {
 	"KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",	    
 	"抖音音樂台": "https://www.youtube.com/@douyinyinyuetai/streams",
 	"青春音乐铺": "https://www.youtube.com/@青春音乐铺/streams",
