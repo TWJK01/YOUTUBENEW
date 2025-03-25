@@ -9,6 +9,7 @@ import itertools
 API_KEYS = [
     os.getenv("YOUTUBE_API_KEY_1"),
     os.getenv("YOUTUBE_API_KEY_2"),
+    os.getenv("YOUTUBE_API_KEY_3"),	
 ]
 
 # 移除 None 值，確保 API_KEYS 都是有效的
