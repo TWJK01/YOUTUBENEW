@@ -102,10 +102,13 @@ CATEGORIES = {
         "BIF相信未來 官方頻道": "https://www.youtube.com/@BelieveinfutureTV/streams",
         "原視 TITV+": "https://www.youtube.com/@titv8932/videos",
         "Taste The World": "https://www.youtube.com/@TasteTheWorld66/streams",
+        "現在宅知道": "https://www.youtube.com/@cbotaku/streams",
+        "靖天電視台": "https://www.youtube.com/@goldentvdrama/streams",		
         "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams"	
         
     },
     "影劇,#genre#": {
+        "超級影迷 正版電影免費看": "https://www.youtube.com/@MegaFilmLovers/streams",		
         "戲說台灣": "https://www.youtube.com/@TWStoryTV/streams",	
 	"CCTV纪录": "https://www.youtube.com/@CCTVDocumentary/streams",
 	"大愛劇場 DaAiDrama": "https://www.youtube.com/@DaAiDrama/streams",	
@@ -123,7 +126,8 @@ CATEGORIES = {
         "八大劇樂部": "https://www.youtube.com/@gtv-drama/streams",
         "GTV DRAMA English": "https://www.youtube.com/@gtvdramaenglish/streams",
         "萌萌愛追劇": "https://www.youtube.com/@mengmengaizhuijuminidrama/streams",	
-        "龍華電視": "https://www.youtube.com/@ltv_tw/streams",	
+        "龍華電視": "https://www.youtube.com/@ltv_tw/streams",
+        "緯來戲劇台": "https://www.youtube.com/@Vldrama43/streams",		
         "愛爾達綜合台": "https://www.youtube.com/@ELTAWORLD/streams",
         "愛爾達影劇台": "https://www.youtube.com/@eltadrama/streams",
         "VBL Series": "https://www.youtube.com/@variety_between_love/streams",	
@@ -187,12 +191,15 @@ CATEGORIES = {
         "DAZN 台灣": "https://www.youtube.com/@DAZNTaiwan/streams",	
         "動滋Sports": "https://www.youtube.com/@Sport_sa_taiwan/streams",
         "GoHoops": "https://www.youtube.com/@GoHoops/streams",
-        "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",	
+        "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",
+        "CPBL 中華職棒": "https://www.youtube.com/@CPBL/streams",		
         "日本B聯盟": "https://www.youtube.com/@b.leagueinternational/streams",	
         "WWE": "https://www.youtube.com/@WWE/streams",
 	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
     "音樂,#genre#": {
+	"Eight FM 线上收听！": "https://www.youtube.com/@eight-audio/streams",
+	"Hot TV": "https://www.youtube.com/@hotfm976/streams",		
 	"KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",
 	"Douyin Chill": "https://www.youtube.com/@DouyinChill-xr2yk/streams",
 	"生活乐章": "https://www.youtube.com/@生活乐章/streams",	    
@@ -204,6 +211,8 @@ CATEGORIES = {
 	"Mellowbeat Seeker": "https://www.youtube.com/@mellowbeatseeker/streams",
 	"The Good Life Radio x Sensual Musique": "https://www.youtube.com/@TheGoodLiferadio/streams",	
         "Best of Mix": "https://www.youtube.com/@bestofmixlive/streams",
+        "Rock FM": "https://www.youtube.com/@rockfm1/streams",
+        "Radio Mix": "https://www.youtube.com/@liveradiomix/streams",		
 	"Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams"		
     },	
     "政論,#genre#": {
@@ -224,9 +233,12 @@ CATEGORIES = {
         "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
+        "頭條開講": "https://www.youtube.com/@頭條開講HeadlinesTalk/streams",		
 	"少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
-        "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams", 
-        "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"				
+        "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams",
+        "萬事通事務所": "https://www.youtube.com/@sciencewillwin/streams",		
+        "中天深喉嚨": "https://www.youtube.com/@ctitalkshow/streams",
+        "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"		
     },	
     "購物,#genre#": {
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
@@ -266,7 +278,7 @@ CATEGORIES = {
 	"Amazing Taitung 台東就醬玩": "https://www.youtube.com/@taitungamazing7249/streams",
 	"ervnsa": "https://www.youtube.com/@ervnsa/streams",
 	"樂遊金門": "https://www.youtube.com/@kinmentravel/streams"		
-    }
+    }	
 }
 
 # 用來儲存直播結果
