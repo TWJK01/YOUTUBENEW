@@ -2,8 +2,8 @@ name: Check YouTube Live Streams
 
 on:
   schedule:
-    # 每3小時執行一次
-    - cron: '0 */3 * * *'
+    # 每4小時執行一次
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 jobs:
