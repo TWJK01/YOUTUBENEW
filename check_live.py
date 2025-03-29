@@ -19,6 +19,7 @@ CATEGORIES = {
         "公視": "https://www.youtube.com/@ptslivestream/streams",
         "公視新聞網": "https://www.youtube.com/@PNNPTS/streams",
         "公視台語台": "https://www.youtube.com/@ptstaigitai/streams",
+        "TaiwanPlus": "https://www.youtube.com/@TaiwanPlusLive/streams",		
         "大愛電視": "https://www.youtube.com/@DaAiVideo/streams",
         "鏡新聞": "https://www.youtube.com/@mnews-tw/streams",
         "東森新聞": "https://www.youtube.com/@newsebc/streams",	
@@ -68,8 +69,7 @@ CATEGORIES = {
         "豬哥會社": "https://www.youtube.com/@FTV_ZhuGeClub/streams",
         "百變智多星": "https://www.youtube.com/@百變智多星/streams",	
         "東森綜合台": "https://www.youtube.com/@中天娛樂CtiEntertainment/streams",
-        "中天娛樂頻道": "https://www.youtube.com/@ettv32/streams",	
-        "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/streams",	
+        "中天娛樂頻道": "https://www.youtube.com/@ettv32/streams",		
         "57怪奇物語": "https://www.youtube.com/@57StrangerThings/streams",
         "命運好好玩": "https://www.youtube.com/@eravideo004/streams",	
         "TVBS娛樂頭條": "https://www.youtube.com/@tvbsenews/streams",	
@@ -85,15 +85,18 @@ CATEGORIES = {
         "非凡大探索": "https://www.youtube.com/@ustvfoody/streams",
         "你好, 星期六 Hello Saturday Official": "https://www.youtube.com/@HelloSaturdayOfficial/streams",	
         "BIF相信未來 官方頻道": "https://www.youtube.com/@BelieveinfutureTV/streams",
-        "原視 TITV+": "https://www.youtube.com/@titv8932/videos",
+        "原視 TITV+": "https://www.youtube.com/@titv8932/streams",
         "Taste The World": "https://www.youtube.com/@TasteTheWorld66/streams",
         "現在宅知道": "https://www.youtube.com/@cbotaku/streams",
-        "靖天電視台": "https://www.youtube.com/@goldentvdrama/streams",		
-        "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams"	
+        "靖天電視台": "https://www.youtube.com/@goldentvdrama/streams",
+        "綜藝一級棒": "https://www.youtube.com/@NO1TVSHOW/streams",		
+        "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams",
+        "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/streams",
+        "爆梗TV": "https://www.youtube.com/@爆梗PunchlineTV/streams",
+        "北京廣播電視台生活頻道": "https://www.youtube.com/@btvfinance/streams"		
         
     },
-    "影劇,#genre#": {
-        "超級影迷 正版電影免費看": "https://www.youtube.com/@MegaFilmLovers/streams",		
+    "影劇,#genre#": {	
         "戲說台灣": "https://www.youtube.com/@TWStoryTV/streams",	
 	"CCTV纪录": "https://www.youtube.com/@CCTVDocumentary/streams",
 	"大愛劇場 DaAiDrama": "https://www.youtube.com/@DaAiDrama/streams",	
@@ -120,7 +123,12 @@ CATEGORIES = {
         "百纳经典独播剧场": "https://www.youtube.com/@BainationTVSeriesOfficial/streams",
         "华录百納熱播劇場": "https://www.youtube.com/@Baination/streams",	
         "iQIYI 爱奇艺": "https://www.youtube.com/@iQIYIofficial/streams",
-        "iQIYI Indonesia": "https://www.youtube.com/@iQIYIIndonesia/streams",	
+        "iQIYI Show Giải Trí Vietnam": "https://www.youtube.com/@iQIYI_ShowGiảiTríVietnam/streams",		
+        "iQIYI Indonesia": "https://www.youtube.com/@iQIYIIndonesia/streams",
+        "爱奇艺大电影": "https://www.youtube.com/@iQIYIMOVIETHEATER/streams",
+        "iQIYI 慢綜藝": "https://www.youtube.com/@iQIYILifeShow/streams",		
+        "iQIYI 潮綜藝": "https://www.youtube.com/@iQIYISuperShow/streams",
+        "iQIYI 爆笑宇宙": "https://www.youtube.com/@iQIYIHappyWorld/streams",		
         "MangoTV Shorts": "https://www.youtube.com/@MangoTVShorts/streams",
         "芒果TV古裝劇場": "https://www.youtube.com/@TVMangoTVCostume-yw1hj/streams",	
         "芒果TV青春剧场": "https://www.youtube.com/@MangoTVDramaOfficial/streams",	
@@ -135,7 +143,10 @@ CATEGORIES = {
         "中国东方卫视官方频道": "https://www.youtube.com/@SMGDragonTV/streams",
         "北京广播电视台官方频道": "https://www.youtube.com/@Brtvofficialchannel/streams",
         "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/streams",
-        "贵州卫视官方频道": "https://www.youtube.com/@gztvofficial/streams",	
+        "贵州卫视官方频道": "https://www.youtube.com/@gztvofficial/streams",
+        "喜剧大联盟": "https://www.youtube.com/@SuperComedyLeague/streams",		
+        "超級影迷 正版電影免費看": "https://www.youtube.com/@MegaFilmLovers/streams",
+        "電影想飛 正版電影免費看": "https://www.youtube.com/@moviesintheair/streams",			
         "SMG音乐频道": "https://www.youtube.com/@SMGMusic/streams"				
     },
     "少兒,#genre#": {
@@ -176,7 +187,8 @@ CATEGORIES = {
         "DAZN 台灣": "https://www.youtube.com/@DAZNTaiwan/streams",	
         "動滋Sports": "https://www.youtube.com/@Sport_sa_taiwan/streams",
         "GoHoops": "https://www.youtube.com/@GoHoops/streams",
-        "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",	
+        "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",
+        "CPBL 中華職棒": "https://www.youtube.com/@CPBL/streams",		
         "日本B聯盟": "https://www.youtube.com/@b.leagueinternational/streams",	
         "WWE": "https://www.youtube.com/@WWE/streams",
 	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
@@ -224,7 +236,7 @@ CATEGORIES = {
         "中天深喉嚨": "https://www.youtube.com/@ctitalkshow/streams",
         "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"		
     },	
-	"購物,#genre#": {
+    "購物,#genre#": {
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
 	"momo購物二台": "https://www.youtube.com/@momoch3571/streams",
 	"ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
@@ -261,7 +273,9 @@ CATEGORIES = {
 	"東部海岸國家風景管理處": "https://www.youtube.com/@eastcoastnsa0501/streams",
 	"Amazing Taitung 台東就醬玩": "https://www.youtube.com/@taitungamazing7249/streams",
 	"ervnsa": "https://www.youtube.com/@ervnsa/streams",
-	"樂遊金門": "https://www.youtube.com/@kinmentravel/streams"		
+	"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
+	"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
+	"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
     }	
 }
 
