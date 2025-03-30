@@ -49,7 +49,8 @@ CATEGORIES = {
         "POP Radio聯播網": "https://www.youtube.com/@917POPRadio/streams",
         "Eight FM": "https://www.youtube.com/@eight-audio/streams",	
         "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvhk/streams",
-        "鳳凰資訊 PhoenixTVNews": "https://www.youtube.com/@phoenixtvnews7060/streams",	
+        "鳳凰資訊 PhoenixTVNews": "https://www.youtube.com/@phoenixtvnews7060/streams",
+        "HOY 資訊台 × 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
         "CCTV中文": "https://www.youtube.com/@LiveNow24H/streams",
         "8world": "https://www.youtube.com/@8worldSG/streams"
     },
@@ -93,6 +94,8 @@ CATEGORIES = {
         "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams",
         "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/streams",
         "爆梗TV": "https://www.youtube.com/@爆梗PunchlineTV/streams",
+        "灿星官方频道": "https://www.youtube.com/@CanxingMediaOfficialChannel/streams",
+        "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/streams",		
         "北京廣播電視台生活頻道": "https://www.youtube.com/@btvfinance/streams"		
         
     },
@@ -130,6 +133,8 @@ CATEGORIES = {
         "iQIYI 潮綜藝": "https://www.youtube.com/@iQIYISuperShow/streams",
         "iQIYI 爆笑宇宙": "https://www.youtube.com/@iQIYIHappyWorld/streams",		
         "MangoTV Shorts": "https://www.youtube.com/@MangoTVShorts/streams",
+        "MangoTV English": "https://www.youtube.com/@MangoTVEnglishOfficial/streams",
+        "MangoTV Malaysia": "https://www.youtube.com/@MangoTVMalaysia/streams",		
         "芒果TV古裝劇場": "https://www.youtube.com/@TVMangoTVCostume-yw1hj/streams",	
         "芒果TV青春剧场": "https://www.youtube.com/@MangoTVDramaOfficial/streams",	
         "芒果TV季风频道": "https://www.youtube.com/@MangoMonsoon/streams",	
@@ -139,12 +144,15 @@ CATEGORIES = {
         "CCTV电视剧": "https://www.youtube.com/@CCTVDrama/streams",	
         "SMG上海电视台官方频道": "https://www.youtube.com/@SMG-Official/streams",
         "SMG上海东方卫视欢乐频道": "https://www.youtube.com/@SMG-Comedy/streams",
+        "SMG电视剧": "https://www.youtube.com/@SMGDrama/streams",
+        "老广一起睇": "https://www.youtube.com/@老广一起睇/streams",		
         "安徽衛視官方頻道": "https://www.youtube.com/@chinaanhuitvofficialchanne8354/streams",	
         "中国东方卫视官方频道": "https://www.youtube.com/@SMGDragonTV/streams",
         "北京广播电视台官方频道": "https://www.youtube.com/@Brtvofficialchannel/streams",
         "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/streams",
         "贵州卫视官方频道": "https://www.youtube.com/@gztvofficial/streams",
         "喜剧大联盟": "https://www.youtube.com/@SuperComedyLeague/streams",		
+        "正午阳光官方频道": "https://www.youtube.com/@DaylightEntertainmentDrama/streams",		
         "超級影迷 正版電影免費看": "https://www.youtube.com/@MegaFilmLovers/streams",
         "電影想飛 正版電影免費看": "https://www.youtube.com/@moviesintheair/streams",			
         "SMG音乐频道": "https://www.youtube.com/@SMGMusic/streams"				
