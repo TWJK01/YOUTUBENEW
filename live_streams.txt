@@ -1,11 +1,20 @@
 台灣,#genre#
 台灣地震監視(地震速報、強震即時警報),https://www.youtube.com/watch?v=Owke6Quk7T0
+<<<<<<< Updated upstream
 台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브,https://www.youtube.com/watch?v=xL0ch83RAK8
 2025.04.11 整點大頭條：女騎士遭撞卡車底 堆高機即刻救援解危【台視1300整點新聞】,https://www.youtube.com/watch?v=1XKwchGl7i4
 【完整公開】LIVE 收復萬九再續漲？ 台股最新動態,https://www.youtube.com/watch?v=ylYE6ewIiR0
 #中視午間新聞線上看 20250411 (週四),https://www.youtube.com/watch?v=8uegfuWH76w
 🔴【LIVE直播】大甲媽遶境Day7　員林前進彰化市區追鑾轎│中視新聞 20250411,https://www.youtube.com/watch?v=DammcL2rkaA
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널,https://www.youtube.com/watch?v=AGdxQWYSrI8
+=======
+2025.04.11 整點大頭條：女騎士遭撞卡車底 堆高機即刻救援解危【台視1300整點新聞】,https://www.youtube.com/watch?v=1XKwchGl7i4
+【完整公開】LIVE 收復萬九再續漲？ 台股最新動態,https://www.youtube.com/watch?v=ylYE6ewIiR0
+台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널,https://www.youtube.com/watch?v=AGdxQWYSrI8
+#中視午間新聞線上看 20250411 (週四),https://www.youtube.com/watch?v=8uegfuWH76w
+🔴【LIVE直播】大甲媽遶境Day7　員林前進彰化市區追鑾轎│中視新聞 20250411,https://www.youtube.com/watch?v=DammcL2rkaA
+>>>>>>> Stashed changes
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널  | (生放送),https://www.youtube.com/watch?v=TCnaIE_SAtM
 地震即時警報與監測直播｜華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=7lxXN3zIr-I
 【LIVE】0411 運動品牌XRukuten獨家聯名發佈 陳晨威、陳冠宇任形象大使樂天女孩賽前應援｜民視快新聞｜,https://www.youtube.com/watch?v=Z4gpx0euzZA
@@ -15,6 +24,7 @@
 公視台語台網路直播 |  PTS Tai-gi Live,https://www.youtube.com/watch?v=6KlRR_DGhmI
 TaiwanPlus TV Livestream | News & Shows from Taiwan | 台湾のニュースと番組を24時間配信 | 대만채널뉴스 24/7시간 생방송,https://www.youtube.com/watch?v=gvV_mJsKLWQ
 大愛二臺HD Live 臺灣直播  | 現正播映：美善劇場_少女的時代 (13集),https://www.youtube.com/watch?v=OKvWtVoDR8I
+<<<<<<< Updated upstream
 大愛一臺HD Live 全球直播 | 現正播映：大愛劇_九如一家人 (1集),https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛二臺HD Live 全球直播  | 現正播映：大愛劇_九如一家人 (1集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
 川普防中洗產地！  陳玉珍幫中開後門？  扯台灣後腿？  徐巧芯翻車貼文修改八次假道歉？  還想施壓息事寧人？｜有話鏡來講 20250411,https://www.youtube.com/watch?v=Jd_SE_XSoPo
@@ -32,14 +42,39 @@ LIVE直播│「應要求全台灣人都到中國申請除戶證明自己沒有�
 【中天直播 #LIVE】韓國瑜主持警消人員條例覆議案表決  20250411 @中天新聞CtiNews​,https://www.youtube.com/watch?v=ejZuM3UiB9U
 【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv,https://www.youtube.com/watch?v=vr3XyVCR4T0
 【中天直播 #LIVE】川普等不到習近平電話 美債拉警報美股狂洩 最新台股亞股 20250411 ‪@中天財經頻道CtiFinance,https://www.youtube.com/watch?v=yNwgxsvaYqw
+=======
+大愛二臺HD Live 全球直播  | 現正播映：大愛劇_九如一家人 (1集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
+大愛一臺HD Live 全球直播 | 現正播映：大愛劇_九如一家人 (1集),https://www.youtube.com/watch?v=MIqUplvSRWA
+鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan News 24H Live｜台湾のニュース24時間オンライン放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
+川普防中洗產地！  陳玉珍幫中開後門？  扯台灣後腿？  徐巧芯翻車貼文修改八次假道歉？  還想施壓息事寧人？｜有話鏡來講 20250411,https://www.youtube.com/watch?v=Jd_SE_XSoPo
+🔴【川普宣布暫緩75國關稅90天】東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=V1p33hqPrUk
+EBC 東森新聞 51 頻道 24小時線上直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=E0zhe2gkXBs
+iNEWS新聞LIVE│三立iNEWS 24小時 CH48新聞直播 ON AIR │SET iNEWS LIVE│SET iNEWS ニュースオンライン生放送,https://www.youtube.com/watch?v=pF507BLtbqU
+LIVE直播│「應要求全台灣人都到中國申請除戶證明自己沒有中國戶籍」翁曉玲怒轟移民署濫用公權力 荒謬言論引發熱議！│三立新聞台,https://www.youtube.com/watch?v=v6if6Wkc-Tg
+🔴海外直播 三立新聞 24小時LIVE │SET Live NEWS│SET LIVE ニュースオンライン放送│대만 채널SET뉴스 24시간 생방송 @setinews,https://www.youtube.com/watch?v=hGJkDZDchYI
+🔴不斷電直播｜三立新聞 24小時LIVE｜即時消息看 三立+SET+｜ 24hrs LIVE news│台湾 SET+ 24hrs ニュースオンライン放送│대만 채널 SET+ 뉴스 생방송,https://www.youtube.com/watch?v=MV9mI0GChwo
+LIVE直播│立法院國是論壇 國民黨發起甲動！卓榮泰關稅專案報告、表決覆議案！│三立新聞台,https://www.youtube.com/watch?v=1wJBEsSmYzU
+【🔴LIVE直播中】川普涉股市內線交易? 美國市場危機曝!關稅戰中國有勝算?罷免進清大校園? 徐巧芯陷危機! 立法院覆議案表決最新!｜張雅婷/鄭亦真 報新聞 20250411 @中天新聞CtiNews,https://www.youtube.com/watch?v=b7YwZyRiDEk
+【中天直播 #LIVE】川普等不到習近平電話 美債拉警報美股狂洩 最新台股亞股 20250411 ‪@中天財經頻道CtiFinance,https://www.youtube.com/watch?v=yNwgxsvaYqw
+【中天直播 #LIVE】大甲媽遶境Day7 員林前進彰化市區追鑾轎 20250411 @中天新聞CtiNews,https://www.youtube.com/watch?v=4zAtFbfGDKs
+【中天直播 #LIVE】韓國瑜主持警消人員條例覆議案表決  20250411 @中天新聞CtiNews​,https://www.youtube.com/watch?v=ejZuM3UiB9U
+【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv,https://www.youtube.com/watch?v=vr3XyVCR4T0
+【挺中華民國萬萬歲 我+1】主播攝影棚「楚門秀」會員專屬視角   @中天電視CtiTv,https://www.youtube.com/watch?v=6Oua-Km6NV4
+>>>>>>> Stashed changes
 【24H LIVE】 中天亞洲台 CTI ASIA  | International News and Commentary & Lifestyle Comprehensive Channel,https://www.youtube.com/watch?v=dKkyfjn8xq8
 🔴04/11【LIVE】TVBS NEWS午間整點新聞 重點直播 Taiwan News 20250411,https://www.youtube.com/watch?v=FnDAvgFj4_Q
 【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송,https://www.youtube.com/watch?v=2mCSYvcfhtc
 🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Taiwan News 24hr 台湾世界中のニュースを24時間配信中 대만24시간뉴스채널 55台,https://www.youtube.com/watch?v=m_dhMSvUCIc
 【LIVE】20250411國安基金進場?台股急拉 台積電震盪 川普對中國145%關稅 美中誰先低頭｜FOCUS世界新聞,https://www.youtube.com/watch?v=yLBsmiL_Ab4
+<<<<<<< Updated upstream
 寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송,https://www.youtube.com/watch?v=6IquAgfvYmc
 🔴Live／真的是謝謝了！關稅暫停90天「台股反彈噴漲」 川普狂發文邀功：現在是買進絕佳時機,https://www.youtube.com/watch?v=1gNfLjBm9oM
 中世貿表達關切 批美關稅開錯方吃錯藥｜美中貿易戰加劇 美財長不排除中概股除牌｜寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news,https://www.youtube.com/watch?v=Ej3LQM_lTEw
+=======
+中世貿表達關切 批美關稅開錯方吃錯藥｜美中貿易戰加劇 美財長不排除中概股除牌｜寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news,https://www.youtube.com/watch?v=Ej3LQM_lTEw
+🔴Live／真的是謝謝了！關稅暫停90天「台股反彈噴漲」 川普狂發文邀功：現在是買進絕佳時機,https://www.youtube.com/watch?v=1gNfLjBm9oM
+寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송,https://www.youtube.com/watch?v=6IquAgfvYmc
+>>>>>>> Stashed changes
 寰宇新聞台灣台 24小時直播｜TaiwanNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中  @globalnewstw,https://www.youtube.com/watch?v=w87VGpgd90U
 立法院第11屆第3會期第7次會議 行政院長針對美國關稅政策因應作為報告並備質詢【CNEWS】20250411,https://www.youtube.com/watch?v=g1lqa8V-xRE
 新唐人LIVE 24小時直播 @新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=WIhgU_mc05A
@@ -51,10 +86,17 @@ EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 
 【#投資看非凡】股市絕佳操作指南｜操盤高手即時分析 ｜台股開盤日 07:00-24:00 線上直播   @ustv,https://www.youtube.com/watch?v=6YLkmv0_-EE
 「運通財經台」直播,https://www.youtube.com/watch?v=AXVIrEWsCeY
 SBN全球財經台,https://www.youtube.com/watch?v=tB3jW23qqg0
+<<<<<<< Updated upstream
 NOWnews新聞AI主播倪珍Nikki 24小時直播｜ AI News Anchor Taiwan News Streaming/台湾のニュースHD24時間配信中(生放送)｜대만24시간뉴스채널|,https://www.youtube.com/watch?v=7aonZ8I4DKQ
 AI主播Niki 倪珍24小時氣象直播 Weather non-stop,https://www.youtube.com/watch?v=9KG5DM38yg0
 Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=lQDSbIlC5G4
 AI Anchor Ni Zhen(Nikki)  24-Hour Non-Stop Taiwan News Live/NOWnews/Global News,https://www.youtube.com/watch?v=yv_fWHEYrzI
+=======
+AI主播Niki 倪珍24小時氣象直播 Weather non-stop,https://www.youtube.com/watch?v=9KG5DM38yg0
+AI Anchor Ni Zhen(Nikki)  24-Hour Non-Stop Taiwan News Live/NOWnews/Global News,https://www.youtube.com/watch?v=yv_fWHEYrzI
+NOWnews新聞AI主播倪珍Nikki 24小時直播｜ AI News Anchor Taiwan News Streaming/台湾のニュースHD24時間配信中(生放送)｜대만24시간뉴스채널|,https://www.youtube.com/watch?v=7aonZ8I4DKQ
+Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=lQDSbIlC5G4
+>>>>>>> Stashed changes
 對華關稅加到145%！ 美股美債先崩！｜暫緩關稅有內幕！有人狂轉25億！？｜無視美國警告 西班牙首相抵達北京  中歐再通話！#焦點哲學苑,https://www.youtube.com/watch?v=awtmndZ8aGo
 鳳凰衛視資訊台24小时直播｜海關總署公佈對美加徵84%關稅執行細則｜特朗普發文呼籲入市 引發操縱市場懷疑｜中歐領導人在關稅大戰背景下通話會談｜美軍空襲荷台達及扎馬爾非軍事目標｜BreakingNews,https://www.youtube.com/watch?v=HFib76ySpbU
 【鳳凰衛視資訊台24小時直播】07:00《鳳凰早班車》｜12:00《鳳凰午間專列》｜19:00《華聞大直播》｜21:00《時事直通車》｜24:00《鳳凰洲際快車》,https://www.youtube.com/watch?v=LNux6O0Fj6A
@@ -78,8 +120,13 @@ AI Anchor Ni Zhen(Nikki)  24-Hour Non-Stop Taiwan News Live/NOWnews/Global News,
 【非凡大探索】高雄美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=ZN2naHsV94M
 【非凡大探索】台中美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=Im3P69GqV90
 《掌声响起》24小时不间断 马拉松直播｜BIF相信未来,https://www.youtube.com/watch?v=EVATvtQHjyg
+<<<<<<< Updated upstream
 Popular Food Market You MUST VISIT and Street Food You MUST TRY in Vietnam,https://www.youtube.com/watch?v=tWY9LDyFec8
 Friendly-Budget! DELICIOUS Street Food for Under $5 Recommended by Taste The World,https://www.youtube.com/watch?v=WwUCPY95KA4
+=======
+Friendly-Budget! DELICIOUS Street Food for Under $5 Recommended by Taste The World,https://www.youtube.com/watch?v=WwUCPY95KA4
+Popular Food Market You MUST VISIT and Street Food You MUST TRY in Vietnam,https://www.youtube.com/watch?v=tWY9LDyFec8
+>>>>>>> Stashed changes
 POPULAR! Asian Street Food Video Collection - DON'T MISS OUT in 2025,https://www.youtube.com/watch?v=fgQFmcs_jdY
 BEST Street Food Compilation 2025 with Satisfying Cooking Skills,https://www.youtube.com/watch?v=01cDlmlN2Oc
 靖天電視台旅遊系節目 《台灣漁港風情系列》帶您台灣各地漁港風景走透透！！ ｜ 靖天電視台📺,https://www.youtube.com/watch?v=0HEfsznOlXQ
@@ -87,6 +134,7 @@ BEST Street Food Compilation 2025 with Satisfying Cooking Skills,https://www.you
 
 影劇,#genre#
 🔴 你的童年回來啦！懷舊戲說台灣大合集 熟悉的味道就在這裡！｜戲說台灣｜24小時不間斷直播｜24 hours Non-Stop,https://www.youtube.com/watch?v=_OQnjeFiDIc
+<<<<<<< Updated upstream
 🔴回味經典歌仔戲 《梁山伯與祝英台》#楊麗花 #許秀年 #黃香蓮 #青蓉  #小鳳仙  #柯玉枝 #吳梅芳 #洪秀玉 #潘麗麗 #張文彬 #林麗安,https://www.youtube.com/watch?v=ngpMOcIQ6O4
 🔴《神機妙算劉伯溫》全集馬拉松！再現神威！| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=Xo1I92hrxCg
 🔴1984年  經典歌仔戲 《風流才子唐伯虎》  #楊麗花  #許秀年 #青蓉 #柯玉枝 #張文彬 #洪秀美 #吳梅芳 #許仙姬 #翠娥  #小鳳仙  #紀麗如  #潘麗溱  #陳麗真,https://www.youtube.com/watch?v=73rs0t0ebmA
@@ -106,6 +154,27 @@ BEST Street Food Compilation 2025 with Satisfying Cooking Skills,https://www.you
 經典長壽劇【親戚不計較】24H不斷電鬥嘴鼓馬拉松LIVE | 卓勝利 李王羅 潘麗麗 沛小嵐 | 四季線上,https://www.youtube.com/watch?v=GjXBXz5dl6E
 【台灣霹靂火】重拾番仔火的記憶🔥 劉文聰不喜歡輸的感覺！苗可麗快嘴重現「公車萍」經典對罵 陳昭榮 張鳳書創最高八點檔收視｜24小時不間斷直播｜三立電視 (EP1-320),https://www.youtube.com/watch?v=0EgZW36EUZw
 【世間情】毒婦郭佳佳的愛恨情仇 比潘茵茵更瘋的角色 世間男女 情關難過 八點檔影后們集結了｜24HR LIVE直播(EP1-437),https://www.youtube.com/watch?v=zluYU6_z9vk
+=======
+🔴1984年 楊麗花歌仔戲  《狸貓換太子》#楊麗花 #許秀年 #柯玉枝 #青蓉  #吳梅芳 #黃香蓮 #洪秀玉 #小鳳仙 #紀麗如 #張文彬 #呂福祿 #林麗安# 鄭麗霞 #潘麗麗,https://www.youtube.com/watch?v=PmFdk-qFVmw
+🔴#蛇年大吉！一起來看 【#新白娘子傳奇】🐍🐍🐍 #趙雅芝、#葉童、#陳美琪,https://www.youtube.com/watch?v=MEdYt10b2mc
+🔴回味經典歌仔戲 《梁山伯與祝英台》#楊麗花 #許秀年 #黃香蓮 #青蓉  #小鳳仙  #柯玉枝 #吳梅芳 #洪秀玉 #潘麗麗 #張文彬 #林麗安,https://www.youtube.com/watch?v=ngpMOcIQ6O4
+🔴《神機妙算劉伯溫》全集馬拉松！再現神威！| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=Xo1I92hrxCg
+🔴1984年  經典歌仔戲 《風流才子唐伯虎》  #楊麗花  #許秀年 #青蓉 #柯玉枝 #張文彬 #洪秀美 #吳梅芳 #許仙姬 #翠娥  #小鳳仙  #紀麗如  #潘麗溱  #陳麗真,https://www.youtube.com/watch?v=73rs0t0ebmA
+🔴挑戰你的極限！精彩類戲劇一次看個夠！【#玫瑰瞳鈴眼】【#紫色蔓陀蘿】【#蝴蝶密碼】【#台灣真女人】#台灣風雲【#藍色蜘蛛網】| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=y3iEItIO1Rs
+【緬懷瓊瑤女士】 經典戲劇不斷電一次看 #雪珂 #望夫崖 #青青河邊草 #梅花三弄 #梅花烙 #鬼丈夫 #水雲間,https://www.youtube.com/watch?v=vdGQsHqYvlo
+🔴【過年檔期來啦！】現在開始看光陰的故事，就會在除夕夜跟陳怡蓉、賴雅妍一起吃年夜飯🧨CTV 中視戲劇｜24小時不斷電直播｜ Ctvdrama Classic 24 Hours Live｜,https://www.youtube.com/watch?v=jkF7cseHZ5s
+【包青天 LIVE】全劇24小時不斷電 一起跟包公辦案!!,https://www.youtube.com/watch?v=OIj2iQ3QHA4
+【台灣靈異事件 LIVE】24 小時不斷電 一起追劇來辦案,https://www.youtube.com/watch?v=Nnpig_Lis9w
+藍色水玲瓏 Taiwan Mystery－台灣鄉野奇談 ‧24H馬拉松不間斷直播 [即時申訴、報錯LINE社群：https://reurl.cc/Z4AK56],https://www.youtube.com/watch?v=rTcTVZBZtYs
+廉政英雄 Justice Heroes‧24H馬拉松不間斷直播 [即時申訴、報錯LINE社群：https://reurl.cc/Z4AK56],https://www.youtube.com/watch?v=b35xJXmJ-8I
+新玫瑰瞳鈴眼‧24H馬拉松不間斷直播 [即時申訴、報錯LINE社群：https://reurl.cc/Z4AK56],https://www.youtube.com/watch?v=qJMFuMRLee4
+新兵日記 #高清修復版 全球首播 & 特戰英雄 Rookies' Diary 全集‧24H馬拉松不間斷直播 [即時申訴、報錯LINE社群：https://reurl.cc/Z4AK56],https://www.youtube.com/watch?v=032kEdR9Lic
+直播中 ▶ #我的老師叫小賀‧24H馬拉松不間斷直播 [即時申訴、報錯LINE社群：https://reurl.cc/Z4AK56],https://www.youtube.com/watch?v=6CQZxYpW9q4
+經典長壽劇【親戚不計較】24H不斷電鬥嘴鼓馬拉松LIVE | 卓勝利 李王羅 潘麗麗 沛小嵐 | 四季線上,https://www.youtube.com/watch?v=GjXBXz5dl6E
+【飛龍在天】 24H飛上天馬拉松LIVE | 經典劇 | 江宏恩 黃少祺 賈靜雯 張鳳書 黃維德 | 四季線上 FASTTV,https://www.youtube.com/watch?v=oXTIu3aqr9Y
+【世間情】毒婦郭佳佳的愛恨情仇 比潘茵茵更瘋的角色 世間男女 情關難過 八點檔影后們集結了｜24HR LIVE直播(EP1-437),https://www.youtube.com/watch?v=zluYU6_z9vk
+【台灣霹靂火】重拾番仔火的記憶🔥 劉文聰不喜歡輸的感覺！苗可麗快嘴重現「公車萍」經典對罵 陳昭榮 張鳳書創最高八點檔收視｜24小時不間斷直播｜三立電視 (EP1-320),https://www.youtube.com/watch?v=0EgZW36EUZw
+>>>>>>> Stashed changes
 狼王子重返人類社會 意外找到失散父母 為愛學習從頭開始 從野性到柔情 征服心愛女人的芳心｜Prince Of Wolf｜24HR不間斷直播｜安心亞 張軒睿 薛仕凌 林明禎,https://www.youtube.com/watch?v=T-OwN2ZhMw0
 放羊的星星 永遠的男神林志穎 蛻變的仲夏夜之星 開播18年 #我們的紀念 是滿滿回憶殺！｜My Lucky Star｜24HR不間斷直播｜林志穎 劉荷娜 立威廉 洪小鈴,https://www.youtube.com/watch?v=fItVVLnG1ms
 🔴《#加油喜事》第二季 開播囉 24HR直播不斷電!｜《#OhMarriage》24-Hour Non-Stop Live｜24時間ノンストップライブ配信,https://www.youtube.com/watch?v=yqLn59qBTeY
@@ -127,6 +196,7 @@ BEST Street Food Compilation 2025 with Satisfying Cooking Skills,https://www.you
 #三十而已 前传！🍷童谣酒后狠狠拿捏李泽锋，这一世，许幻山不再是渣男🤣 | 有你的时光里 With Love With You| MangoTV Moonsoon,https://www.youtube.com/watch?v=J4GwffMhyKw
 《大侦探·拾光季》08案：细思极恐！ 何炅刘昊然童年噩梦被揭开 | 约定的木马岛 | Who's The Murderer · Season of Memories | MangoTV,https://www.youtube.com/watch?v=OD_1r2DZxPI
 🔴24H LIVE Only for Love Full Movie - Love between pretty journalist & boss《以爱为营》大电影 | MangoTV,https://www.youtube.com/watch?v=tVGrB5zdtE8
+<<<<<<< Updated upstream
 24h马拉松直播🏃‍♂️【中英双语全集🔥】《武林外传My Own Swordsman》另类喜剧 戏说江湖 【CCTV电视剧直播】,https://www.youtube.com/watch?v=6xXDj9mW9uk
 24h马拉松直播🏃‍♂️【ENG SUB】《雍正王朝The Era of Emperor Yongzheng》九子夺嫡 💥皇家的权谋之术【CCTV电视剧直播】,https://www.youtube.com/watch?v=VEW_BRTp-TM
 24h马拉松直播🏃‍♂️【ENG SUB】《康熙王朝Kangxi Dynasty》千古一帝💥康熙帝的传奇一生【CCTV电视剧直播】,https://www.youtube.com/watch?v=rDHbRQHqeo8
@@ -134,6 +204,15 @@ BEST Street Food Compilation 2025 with Satisfying Cooking Skills,https://www.you
 24h马拉松直播🏃‍♂️《红楼梦》【4K高清修复87版】致敬经典 岁月激流中的潜心之作！【CCTV电视剧直播】,https://www.youtube.com/watch?v=xiPwIkHOogY
 朱一龙安以轩甜蜜互怼！富家女嘲笑保姆穷酸 下一秒身份曝光惊呆众人！【全36集】【CCTV电视剧直播】,https://www.youtube.com/watch?v=SkBcj95zDPw
 【Eng Sub】大圣归来 经典再现！86版《西游记》直播 带你感受原版魅力！🔥《西游记Journey to the West 》【全40集】【CCTV电视剧直播】,https://www.youtube.com/watch?v=ihlGNUljNp8
+=======
+24h马拉松直播🏃‍♂️《红楼梦》【4K高清修复87版】致敬经典 岁月激流中的潜心之作！【CCTV电视剧直播】,https://www.youtube.com/watch?v=xiPwIkHOogY
+24h马拉松直播🏃‍♂️【ENG SUB】《康熙王朝Kangxi Dynasty》千古一帝💥康熙帝的传奇一生【CCTV电视剧直播】,https://www.youtube.com/watch?v=rDHbRQHqeo8
+24h马拉松直播🏃‍♂️【ENG SUB】《雍正王朝The Era of Emperor Yongzheng》九子夺嫡 💥皇家的权谋之术【CCTV电视剧直播】,https://www.youtube.com/watch?v=VEW_BRTp-TM
+随来随看 周一围 郭京飞主演高分武侠剧《少林问道》！古装武侠迷的福音！【全38集】【CCTV电视剧直播】,https://www.youtube.com/watch?v=cjVw-SGrUXU
+24h马拉松直播🏃‍♂️【中英双语全集🔥】《武林外传My Own Swordsman》另类喜剧 戏说江湖 【CCTV电视剧直播】,https://www.youtube.com/watch?v=6xXDj9mW9uk
+【Eng Sub】大圣归来 经典再现！86版《西游记》直播 带你感受原版魅力！🔥《西游记Journey to the West 》【全40集】【CCTV电视剧直播】,https://www.youtube.com/watch?v=ihlGNUljNp8
+朱一龙安以轩甜蜜互怼！富家女嘲笑保姆穷酸 下一秒身份曝光惊呆众人！【全36集】【CCTV电视剧直播】,https://www.youtube.com/watch?v=SkBcj95zDPw
+>>>>>>> Stashed changes
 【男人帮经典重映🎬】《极限挑战1-4》TOP10名场面！豆瓣评分平均9.6！这才是国内综艺天花板！#孙红雷 #黄渤 #张艺兴 #罗志祥 #黄磊 #王迅,https://www.youtube.com/watch?v=-llwIg3sWdE
 【24小时 LIVE直播】一口气看完欢乐喜剧人第二季，小沈阳、文松、岳云鹏让你乐不停！,https://www.youtube.com/watch?v=Ea_qck96wk4
 【24小时 LIVE直播】肖战——让人听到心动的歌曲神级舞台纯享，哪首最令你着迷？,https://www.youtube.com/watch?v=BrhOQXGKw0U
@@ -143,17 +222,28 @@ BEST Street Food Compilation 2025 with Satisfying Cooking Skills,https://www.you
 LIVE：北京卫视24h不间断直播！肖战/周深/李雪琴/宋小宝/刘宇宁/檀健次等最全集结滚动播出,https://www.youtube.com/watch?v=-DhHVnOdKfE
 【24小时直击节目现场】华山论鉴节目现场#华山论鉴 #鉴宝现场 #陕西广播电视台官方频道  #白海波  #范海洋 #田甜,https://www.youtube.com/watch?v=G5LThfqHt4Y
 【24小时直播】台湾烹饪美食家詹姆士教你在家做出各式美食,下一个大厨就是你!!#美食 #美食教程 「欢迎订阅本频道」,https://www.youtube.com/watch?v=4pSkk1uCIVI
+<<<<<<< Updated upstream
 【欢乐颂5惊喜回归🥰】22楼战火再起 矛盾升级！五美能否冲出困境，涅槃重生？【正午阳光官方频道】,https://www.youtube.com/watch?v=ji4zgpj3Wps
 【24H LIVE✨】赵丽颖冯绍峰上演古代宅门爱恋大戏《知否知否应是绿肥红瘦 The Story of Ming Lan》【正午阳光官方频道】,https://www.youtube.com/watch?v=RvG3QJ2_waM
+=======
+【24H LIVE✨】赵丽颖冯绍峰上演古代宅门爱恋大戏《知否知否应是绿肥红瘦 The Story of Ming Lan》【正午阳光官方频道】,https://www.youtube.com/watch?v=RvG3QJ2_waM
+【欢乐颂5惊喜回归🥰】22楼战火再起 矛盾升级！五美能否冲出困境，涅槃重生？【正午阳光官方频道】,https://www.youtube.com/watch?v=ji4zgpj3Wps
+>>>>>>> Stashed changes
 《#蘭陵王》#馮紹峰《#青面修羅》24小時馬拉松直播｜慶祝《封神第二部：戰火西岐》票房破千萬！觀影送限量海報特典！2D、IMAX、SCREENX 全台同步上映！☯️,https://www.youtube.com/watch?v=cXREbobB9ng
 音综情歌区统治者！张碧晨封神live一次听过瘾,颠覆改编周华健《花心》太有才了！#宝藏音乐特辑,https://www.youtube.com/watch?v=_EuqP7LkbVk
 勤深深虐心情歌盘点！李克勤周深封神和音演绎华语金曲,音综最传奇搭档！#宝藏音乐特辑,https://www.youtube.com/watch?v=_Iwem1IjJvw
 
 少兒,#genre#
 YOYO金曲✕熱門卡通✨24HR不間斷｜LIVE｜唱跳｜金曲｜兒歌｜MV｜Kids Songs,https://www.youtube.com/watch?v=YuOJqILB8Js
+<<<<<<< Updated upstream
 聽聽成語故事 & 一起學成語｜聽故事學成語｜哥哥姐姐說故事｜民間傳說｜寓言故事｜童話故事｜兒童節目｜#momo親子台,https://www.youtube.com/watch?v=fB7x7fnYtkc
 #歡樂谷【專輯1-13】 ► 132首MV合輯｜歡樂歌曲不間斷｜帶小孩、塞車神曲｜小朋友跳舞｜兒歌童｜兒童律動｜幼兒舞蹈｜momo愛唱歌｜#momo親子台,https://www.youtube.com/watch?v=Us2fxb2Ok7U
 #MOMO這一家 S3 ►【全集數 馬拉松直播】歡樂不間斷｜第三季｜家庭校園喜劇｜趣味短劇｜兒童電視節目【親子台｜官方HD網路短版】#momokids,https://www.youtube.com/watch?v=3OQOWV1K2-4
+=======
+#MOMO這一家 S3 ►【全集數 馬拉松直播】歡樂不間斷｜第三季｜家庭校園喜劇｜趣味短劇｜兒童電視節目【親子台｜官方HD網路短版】#momokids,https://www.youtube.com/watch?v=3OQOWV1K2-4
+#歡樂谷【專輯1-13】 ► 132首MV合輯｜歡樂歌曲不間斷｜帶小孩、塞車神曲｜小朋友跳舞｜兒歌童｜兒童律動｜幼兒舞蹈｜momo愛唱歌｜#momo親子台,https://www.youtube.com/watch?v=Us2fxb2Ok7U
+聽聽成語故事 & 一起學成語｜聽故事學成語｜哥哥姐姐說故事｜民間傳說｜寓言故事｜童話故事｜兒童節目｜#momo親子台,https://www.youtube.com/watch?v=fB7x7fnYtkc
+>>>>>>> Stashed changes
 [ LIVE 🔴 ] 兒童節快樂！貝貝彬 人氣兒歌 直播 ＋更多 好習慣養成 恐龍 Baby Shark 經典兒歌 | 台灣配音 中文 兒歌 童謠 連續播放 | Bebefinn 繁體中文,https://www.youtube.com/watch?v=P7SwxQKz5Sg
 🔴【LIVE】🎉 動物朋友派對！唱跳樂趣無窮！🐒🦒 | 趣味兒歌和互動遊戲！| Kids Song | 童謠 | 寶貝多米 Domi Kids,https://www.youtube.com/watch?v=i_j9gU1XyYc
 Talking Tom Shorts 直播 🔴 第 1 & 2 季超大合集 🐱 快乐不停歇,https://www.youtube.com/watch?v=g2OYVMFgHhs
@@ -162,6 +252,7 @@ Talking Tom Shorts 直播 🔴 第 1 & 2 季超大合集 🐱 快乐不停歇,ht
 🔴直播！ 🐾 我们的宠物太有趣了！ 👨‍👩‍👧‍👦米利基家族,https://www.youtube.com/watch?v=2vxixVxm0Mo
 🔴LIVE  貝樂虎警長扮演游戲 | 警察抓小偷 | 職業認知 | 卡通動畫 | 兒童游戲｜🔥最新最火幼兒早教視頻🔥,https://www.youtube.com/watch?v=tF7t66beQgQ
 🔴【LIVE】貝樂虎兒童直播 | 熱門童謠不間斷，歡樂24小時！💫 小毛驢 +更多兒歌 | 兒歌童謠 | Kids Cartoon | 卡通動畫 | 貝樂虎 BarryTiger,https://www.youtube.com/watch?v=E2E6FHFb7eQ
+<<<<<<< Updated upstream
 🔴LIVE  貝樂虎醫生出動！|  職業認知 | 卡通動畫 | 兒童游戲｜🔥最新最火幼兒早教視頻🔥,https://www.youtube.com/watch?v=qbYlR6HUxOU
 🔴LIVE 🐘 叢林探險開始啦！貝樂虎動物兒歌直播🎶  | 幼兒音樂 | 童謠串燒 | 兩只老虎&拔蘿蔔 | Kids Song | 貝樂虎 BarryTiger,https://www.youtube.com/watch?v=5PC1Y-dczeM
 小猪佩奇 🔴 最新视频 | 粉红猪小妹 直播 | Peppa Pig | 动画,https://www.youtube.com/watch?v=e5CR6WuZSoE
@@ -180,6 +271,26 @@ Live! | 神奇鸡仔 - 兒歌童謠 - 卡通動畫,https://www.youtube.com/watch
 🔴JunyTony LIVE🔴 朱妮托尼精选职业儿歌 | 芭蕾舞者 | 臭烘烘的动物公寓 | 小兔子乖乖 | 想当像爸爸一样的人+更多好听好看的儿歌 | Kids Song | JunyTony,https://www.youtube.com/watch?v=JSUT70Zp0Pw
 🔴JunyTony LIVE🔴 警察 | 医生 | 消防员 | 厨师 | 朱妮托尼职业儿歌 | Kids Song in Chinese | 兒歌童謠 | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=pdmv7iiYObk
 🔴JunyTony LIVE🔴 不想妈妈去上班 | 我的好妈妈好爸爸 | 朱妮托尼儿歌 | Kids Song in Chinese | 兒歌童謠 | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=fxZXWZGmNpg
+=======
+🔴LIVE 🐘 叢林探險開始啦！貝樂虎動物兒歌直播🎶  | 幼兒音樂 | 童謠串燒 | 兩只老虎&拔蘿蔔 | Kids Song | 貝樂虎 BarryTiger,https://www.youtube.com/watch?v=5PC1Y-dczeM
+🔴LIVE  貝樂虎醫生出動！|  職業認知 | 卡通動畫 | 兒童游戲｜🔥最新最火幼兒早教視頻🔥,https://www.youtube.com/watch?v=qbYlR6HUxOU
+小猪佩奇 🔴 最新视频 | 粉红猪小妹 直播 | Peppa Pig | 动画,https://www.youtube.com/watch?v=e5CR6WuZSoE
+Yummy Yummy Juicy Peach |Giligilis' Greatest Collection About Yummy Fruits and Vegetables| Learn ABC,https://www.youtube.com/watch?v=9PQbeWxneuY
+🍅 Baby Shark Tomato Remix – Learn Fruits & Veggies Names with Giligilis’ Catchy Tunes! 🎶,https://www.youtube.com/watch?v=7f8pv-gC3EI
+Phonics Song - Toddler learning video , Learn Alphabets | Kids Songs Nursery Rhymes | ABC Song,https://www.youtube.com/watch?v=8eh9SSu5pC0
+Yummy Yummy Mango | Giligilis' Greatest Collection About Fruits and Vegetables | Best Melodies,https://www.youtube.com/watch?v=BEIkg3pgZWA
+Yummy Yummy Coconut | Giligilis' Greatest Collection About Yummy Fruits and Vegetables | Learn ABC,https://www.youtube.com/watch?v=U2wISGicfOc
+English Alphabet Learn A to Z | ABC Song | Alphabet Song & Phonics Songs | Kids Songs - Giligilis,https://www.youtube.com/watch?v=Z4AjdGcssbs
+Yummy Yummy Pineapple | Giligilis' Greatest Collection About Fruits and Vegetables | Best Melodies,https://www.youtube.com/watch?v=kdnk_3DH9FU
+Alphabet Songs + More ABC Phonics Song, ABC Songs | Learning Letters and Number for Toddlers,https://www.youtube.com/watch?v=lKukm5x3P7Q
+Yummy Yummy Watermelon | Giligilis' Greatest Collection About Fruits and Vegetables | Best Melodies,https://www.youtube.com/watch?v=L6tZf4JHJMc
+🔴【LIVE】精選汽車兒歌合集 | 車車技能大賽 🌈 🌈 | 汽車兒歌 | 交通工具認知 | 汽車動畫片 | Kids Song | Super Car | 超級汽車,https://www.youtube.com/watch?v=Ccoa6fN3Zms
+Live! | 神奇鸡仔 - 兒歌童謠 - 卡通動畫,https://www.youtube.com/watch?v=vG3KUDW1TKM
+🔴JunyTony LIVE🔴 美甲师 | 海底化妆师 | 和朱妮托尼一起变得更美！+ 更多朱妮托尼好习惯儿歌 | 公主儿歌 | Kids Song | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=pxBeUz9-Atg
+🔴JunyTony LIVE🔴 警察 | 医生 | 消防员 | 厨师 | 朱妮托尼职业儿歌 | Kids Song in Chinese | 兒歌童謠 | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=pdmv7iiYObk
+🔴JunyTony LIVE🔴 不想妈妈去上班 | 我的好妈妈好爸爸 | 朱妮托尼儿歌 | Kids Song in Chinese | 兒歌童謠 | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=fxZXWZGmNpg
+🔴JunyTony LIVE🔴 朱妮托尼精选职业儿歌 | 芭蕾舞者 | 臭烘烘的动物公寓 | 小兔子乖乖 | 想当像爸爸一样的人+更多好听好看的儿歌 | Kids Song | JunyTony,https://www.youtube.com/watch?v=JSUT70Zp0Pw
+>>>>>>> Stashed changes
 《擁有超常技能的異世界流浪美食家》馬拉松直播🍗 第二季將於2025播出！｜Muse木棉花,https://www.youtube.com/watch?v=8Icr_SuXPDc
 《我們這一家》🍢馬拉松直播｜Muse木棉花 闔家歡 免費看,https://www.youtube.com/watch?v=WHednLn-HjA
 【Live | ENGSUB】🌠冷宫皇子失心疯？他只是遇到了仙女《君子无疾》 “Everything is Fine with the Emperor“ EP1-8【Made By Bilibili】,https://www.youtube.com/watch?v=zoflBaCtJgM
@@ -187,17 +298,27 @@ Live! | 神奇鸡仔 - 兒歌童謠 - 卡通動畫,https://www.youtube.com/watch
 
 體育,#genre#
 114年自由盃國小組個人桌球錦標賽丨第十球檯丨4月11日賽程,https://www.youtube.com/watch?v=UPVA1MP0wdA
+<<<<<<< Updated upstream
 113學年度國小棒球聯賽硬式組｜三十二強｜嘉市垂楊 vs 高雄壽天,https://www.youtube.com/watch?v=Ls7iRZu77-4
 113學年度國小棒球聯賽硬式組｜三十二強｜臺北東園 vs 臺南安慶,https://www.youtube.com/watch?v=XNvOcMct_C4
 114年自由盃國小組個人桌球錦標賽丨第一球檯丨4月11日賽程,https://www.youtube.com/watch?v=w-zoqSNIj7Q
 🔴 ᴴᴰ HOP Sports 24 小時｜Taiwan HOP Sports 24h Marathon Talk｜台湾 HOP スポーツ 24 時間｜대만 스포츠 채팅 @HOPSports,https://www.youtube.com/watch?v=JaGd4Yy_xjA
 【第42屆鯨鯊隊長盃全國UTR排名網球分級賽】LIVE》4/11(五)09:00,https://www.youtube.com/watch?v=TAr-jRnjPac
 【114年度全國協會盃曲棍球錦標賽】LIVE》4/11(五)09:30,https://www.youtube.com/watch?v=1DQ2mbGnPZw
+=======
+114年自由盃國小組個人桌球錦標賽丨第一球檯丨4月11日賽程,https://www.youtube.com/watch?v=w-zoqSNIj7Q
+113學年度國小棒球聯賽硬式組｜三十二強｜嘉市垂楊 vs 高雄壽天,https://www.youtube.com/watch?v=Ls7iRZu77-4
+113學年度國小棒球聯賽硬式組｜三十二強｜臺北東園 vs 臺南安慶,https://www.youtube.com/watch?v=XNvOcMct_C4
+🔴 ᴴᴰ HOP Sports 24 小時｜Taiwan HOP Sports 24h Marathon Talk｜台湾 HOP スポーツ 24 時間｜대만 스포츠 채팅 @HOPSports,https://www.youtube.com/watch?v=JaGd4Yy_xjA
+【114年度全國協會盃曲棍球錦標賽】LIVE》4/11(五)09:30,https://www.youtube.com/watch?v=1DQ2mbGnPZw
+【第42屆鯨鯊隊長盃全國UTR排名網球分級賽】LIVE》4/11(五)09:00,https://www.youtube.com/watch?v=TAr-jRnjPac
+>>>>>>> Stashed changes
 Best of WrestleMania: Full Match Marathon,https://www.youtube.com/watch?v=7XaKw9eVI88
 LIVE: WrestleMania VI – Hulk Hogan vs. Ultimate Warrior and MORE!,https://www.youtube.com/watch?v=VkOw8cKPPXA
 
 音樂,#genre#
 🔥🎵 #KJJadiDJ 🎧 Layan Strim Hot FM, Stesen Radio No. 1 Di Malaysia! 🔥🔥🔥,https://www.youtube.com/watch?v=ulcLwqt9_7k
+<<<<<<< Updated upstream
 2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=u_hGvcGZua4
 2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=KNUURWRfHkg
 2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=f2Qm6ynnHiI
@@ -229,6 +350,39 @@ KKBOX華語單曲排行週榜 | 愛就一個字，若月亮没来，花海，最
 【無廣告】2025抖音四十大熱門歌曲💖【三月熱門歌曲最火】🔥 Tiktok 抖音感動洗腦精選神曲必聽 ：這是你期盼的長大嗎, 善變, 这是你期盼的长大吗, 單人券, 在你的身邊,https://www.youtube.com/watch?v=lu00jjocw1E
 2025抖音熱播不中斷連續播放🔥【抖音破億神曲】40首超好聽的流行歌曲 🌼Tiktok 抖音感動洗腦精選神曲必聽『目及皆是你, 未发送, 萬卷傳奇, 刪了吧, 拥有过就值得』,https://www.youtube.com/watch?v=a1ZOj6z1H9w
 三月熱門歌曲最火🍀2025流行歌曲【抖音破億神曲】Tiktok 抖音感動洗腦精選神曲必聽💖『这是你期盼的长大吗, 美好予你, 從你的世界消失, 與我無關, 禮貌距離』2025抖音四十大熱門歌曲,https://www.youtube.com/watch?v=wQ1SyX53kXM
+=======
+2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=CsV-u5Ksw5Y
+2025 九年級生還在聽的經典流行歌曲 | 2025不能不聽的100首歌 [ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=6QX8Mx2yCtw
+[ 無廣告 ] 2010-2025年經典流行歌曲 | 80分鐘串燒系列 | 八年級生50首經典流行歌曲 || 我好嗎,雪落下的聲音,不曾回來過,信爱成瘾,月牙湾,https://www.youtube.com/watch?v=3EiLnRSIgjY
+[ 無廣告 ] 2010-2025年經典流行歌曲 | 80分鐘串燒系列 | 八年級生50首經典流行歌曲 || 我好嗎,雪落下的聲音,不曾回來過,信爱成瘾,月牙湾,https://www.youtube.com/watch?v=4NdJCv-Dj48
+2025 九年級生還在聽的經典流行歌曲 | 2025不能不聽的100首歌 [ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=krQd0ryEaOo
+2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=f2Qm6ynnHiI
+2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=u_hGvcGZua4
+2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以,說好不會分手,演员,我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=KNUURWRfHkg
+四月熱門歌曲最火🔥2025流行歌曲【抖音破億神曲】Tiktok 抖音感動洗腦精選神曲必聽 - 2025 抖音合輯 2025抖音四十大熱門歌曲,https://www.youtube.com/watch?v=VlfnKB8Bo5A
+三月熱門歌曲最火🔥2025流行歌曲【抖音破億神曲】Tiktok 抖音感動洗腦精選神曲必聽 - 2025 抖音合輯 2025抖音四十大熱門歌曲,https://www.youtube.com/watch?v=KDwkwRiBgyo
+50首超好聽的流行歌曲💖2025年 , 4月份爆火全網的歌曲💖適合讀書工作放鬆的好聽音樂｜Study Music. Work Music 🎶,https://www.youtube.com/watch?v=vtBDVIr8QCU
+2025抖音最最最火🍀🍀40首超好聽的流行歌曲 ｜無廣告背景音樂，幫助你專注於當下🎶chill mix/study/work,https://www.youtube.com/watch?v=0w4atPRk3FU
+四月熱門歌曲最火🔥2025流行歌曲【抖音破億神曲】Tiktok 抖音感動洗腦精選神曲必聽 - 2025 抖音合輯 2025抖音四十大熱門歌曲,https://www.youtube.com/watch?v=Gl54XkF9qjg
+2025抖音最最最火🍀🍀40首超好聽的流行歌曲 ｜無廣告背景音樂，幫助你專注於當下🎶chill mix/study/work,https://www.youtube.com/watch?v=Yp6FTeV_jX0
+KKBOX華語單曲排行週榜 💖2025年 , 4月份爆火全網的歌曲💖適合讀書工作放鬆的好聽音樂｜Study Music. Work Music 🎶,https://www.youtube.com/watch?v=AbKzAABepJY
+50首超好聽的流行歌曲💖2025年 , 4月份爆火全網的歌曲💖適合讀書工作放鬆的好聽音樂｜Study Music. Work Music 🎶,https://www.youtube.com/watch?v=0tYu0wQ8PPU
+50首超好聽的流行歌曲💖2025年 , 3月份爆火全網的歌曲💖適合讀書工作放鬆的好聽音樂｜Study Music. Work Music 🎶,https://www.youtube.com/watch?v=eHdXu1tJcZ0
+KKBOX華語單曲排行週榜 | douyin 抖音歌曲2025 🍀「無廣告」2025流行歌曲【2025抖音热歌】愛就一個字，若月亮没来，花海，最偉大的作品，如果可以 孤勇者，門沒鎖|周杰倫 ,王嘉尔,https://www.youtube.com/watch?v=vBLdfhjMIoI
+KKBOX華語單曲排行週榜 | 愛就一個字，若月亮没来，花海，最偉大的作品，如果可以 孤勇者，Letting Go，門沒鎖|周杰倫 ,王嘉尔、Eric 周興哲、林俊傑 JJ Lin,G.E.M.鄧紫棋,https://www.youtube.com/watch?v=0NmaXNsHONI
+KKBOX華語單曲排行週榜 | 愛就一個字，若月亮没来，花海，最偉大的作品，如果可以 孤勇者，Letting Go，門沒鎖|周杰倫 ,王嘉尔、Eric 周興哲、林俊傑 JJ Lin,G.E.M.鄧紫棋,https://www.youtube.com/watch?v=6iY-t0-dnKo
+40首超好聽的流行歌曲💝2025 年三月熱門歌曲大全抖音最火歌: 司南- 冬眠, 羊羊- 用情, 向思思- 總會有人, 王靖雯- 淪陷, en - 囂張💝好歌推薦/抖音熱門音樂,https://www.youtube.com/watch?v=ak0Tm56qksE
+抖音熱播🎶 2025最火60首神曲排行，不容錯過的超洗腦熱門歌曲🔥en - 你不知道的事, 于冬然 - 其實都沒有, 周星星 - 毒藥, 戴羽彤 - 騙子,https://www.youtube.com/watch?v=6LOI4xD_fgs
+抖音神曲2025 🎵【2025抖音热歌】douyin 抖音歌曲2025💥 若月亮沒來 - 王宇宙Leto, 向思思 - 總會有人, 可能是風太大了吧, 承桓 - 我會等🔥2025 年不流行新歌,https://www.youtube.com/watch?v=SfLhzt6NHHs
+2025抖音熱播不中斷連續播放 [ Douyin 抖音歌曲2025 ] 2025 不能不聽的四十首歌 🍒 Tiktok 抖音感動洗腦精選神曲必聽: 其實都沒有, 總會有人, 是你, 嘉賓, 淪陷,https://www.youtube.com/watch?v=eORWM1szMxc
+KKBOX華語單曲排行週榜 | 愛就一個字，若月亮没来，花海，最偉大的作品，如果可以 孤勇者，Letting Go，門沒鎖|周杰倫 ,王嘉尔、Eric 周興哲、林俊傑 JJ Lin,G.E.M.鄧紫棋,https://www.youtube.com/watch?v=-vjXk5z7gNM
+心情難過的時候聽聽這些歌曲 | 心情花音樂 | 最好聽的中國傷感歌曲: 盧盧快閉嘴 - 慢冷, 閉文思 - P.S.我愛你, 阮妍霏 - 我再也不會, 范茹 - 等一個對的人 😭😭😭,https://www.youtube.com/watch?v=kd3AYrlv67U
+【無廣告】2025抖音四十大熱門歌曲💖【三月熱門歌曲最火】🔥 Tiktok 抖音感動洗腦精選神曲必聽 ：這是你期盼的長大嗎, 善變, 这是你期盼的长大吗, 單人券, 在你的身邊,https://www.youtube.com/watch?v=lu00jjocw1E
+抖音神曲2025 🎵【2025抖音热歌】douyin 抖音歌曲2025💥Goo Goo - 可能是風太大了吧, 向思思 - 總會有人, 王宇宙Leto喬浚丞 - 若月亮沒來🔥2025 年四月不流行新歌,https://www.youtube.com/watch?v=7S5oCuRJoag
+KKBOX華語單曲排行週榜 | 愛就一個字，若月亮没来，花海，最偉大的作品，如果可以 孤勇者，Letting Go，門沒鎖|周杰倫 ,王嘉尔、Eric 周興哲、林俊傑 JJ Lin,G.E.M.鄧紫棋,https://www.youtube.com/watch?v=WsZZVx6N5-A
+三月熱門歌曲最火🍀2025流行歌曲【抖音破億神曲】Tiktok 抖音感動洗腦精選神曲必聽💖『这是你期盼的长大吗, 美好予你, 從你的世界消失, 與我無關, 禮貌距離』2025抖音四十大熱門歌曲,https://www.youtube.com/watch?v=wQ1SyX53kXM
+2025抖音熱播不中斷連續播放🔥【抖音破億神曲】40首超好聽的流行歌曲 🌼Tiktok 抖音感動洗腦精選神曲必聽『目及皆是你, 未发送, 萬卷傳奇, 刪了吧, 拥有过就值得』,https://www.youtube.com/watch?v=a1ZOj6z1H9w
+>>>>>>> Stashed changes
 Nightcore Radio 24/7 | Top Nightcore Songs Of All Time ♪,https://www.youtube.com/watch?v=bRsYAJbtPcg
 【Official】 アニソン24時間365日ラジオ｜Anileap アニリープ｜24/7 anime song live stream🌏,https://www.youtube.com/watch?v=4FBW3mkdKOs
 24/7 Korean Underground Indie/R&B/Hip-hop Radio,https://www.youtube.com/watch?v=IUT1qAhMY4w
@@ -237,6 +391,7 @@ Chillout Lounge - Calm & Relaxing Background Music | Study, Work, Sleep, Meditat
 Morning Vibes 🌅 Chillout Morning Music To Start Your Day with Good Vibes and Positive Energy,https://www.youtube.com/watch?v=VOy2RBWYCYI
 Deep House Radio • 24/7 Live Radio | Relaxing, Chill Deep House, Summer Mix 2025, Gym, Workout Music,https://www.youtube.com/watch?v=IkmLXvBfVv0
 The Good Life Radio • 24/7 Live Radio | Best Relax House, Chillout, Study, Running, Gym, Happy Music,https://www.youtube.com/watch?v=36YnV9STBqc
+<<<<<<< Updated upstream
 Rock Classics ⚡ [ LIVE ] Timeless Rock Hits of the 70s, 80s, and 90s | Best of Rock Music Anthems,https://www.youtube.com/watch?v=Nt27aBceerI
 Rock 2000s ⚡ [ LIVE ] Best of 2000's Rock Hits | Top 2000s Rock Songs | 2000s Rock Playlist,https://www.youtube.com/watch?v=VbTYnJshTas
 Rock 90s ⚡ [ LIVE ] Best of 90's Rock Hits | Top 90s Rock Songs | 90s Rock Playlist,https://www.youtube.com/watch?v=njqkg8o4C84
@@ -244,6 +399,15 @@ Pop Rock ⚡ [ LIVE ] Best Pop Rock Songs | Top Popular Rock Music Hits | Trendi
 Radio POP Mix 2025 [ 24/7 Live ] Best POP Hits Radio | English Popular Songs - Pop Playlist 2025,https://www.youtube.com/watch?v=x-JC7sJJUW8
 Best Radio 1 POP Hits [ 24/7 Live ] Best of POP 2025 Songs | 2025 Pop Playlist | Hits Music,https://www.youtube.com/watch?v=b-bK2Vn3D38
 Dance Radio Mix [ 24/7 Live ] Best of Dance 2025 Songs | 2025 Pop Playlist | Hit Music,https://www.youtube.com/watch?v=hXyRD5vbKpo
+=======
+Pop Rock ⚡ [ LIVE ] Best Pop Rock Songs | Top Popular Rock Music Hits | Trending Pop Rock Playlist,https://www.youtube.com/watch?v=2Sn6nqruOB8
+Rock Classics ⚡ [ LIVE ] Timeless Rock Hits of the 70s, 80s, and 90s | Best of Rock Music Anthems,https://www.youtube.com/watch?v=Nt27aBceerI
+Rock 90s ⚡ [ LIVE ] Best of 90's Rock Hits | Top 90s Rock Songs | 90s Rock Playlist,https://www.youtube.com/watch?v=njqkg8o4C84
+Rock 2000s ⚡ [ LIVE ] Best of 2000's Rock Hits | Top 2000s Rock Songs | 2000s Rock Playlist,https://www.youtube.com/watch?v=VbTYnJshTas
+Radio POP Mix 2025 [ 24/7 Live ] Best POP Hits Radio | English Popular Songs - Pop Playlist 2025,https://www.youtube.com/watch?v=x-JC7sJJUW8
+Dance Radio Mix [ 24/7 Live ] Best of Dance 2025 Songs | 2025 Pop Playlist | Hit Music,https://www.youtube.com/watch?v=hXyRD5vbKpo
+Best Radio 1 POP Hits [ 24/7 Live ] Best of POP 2025 Songs | 2025 Pop Playlist | Hits Music,https://www.youtube.com/watch?v=b-bK2Vn3D38
+>>>>>>> Stashed changes
 
 政論,#genre#
 🔴【精選直播】川普關稅政策解析：川普關稅大逆轉？全球免稅90天風暴！中國關稅飆到125%！｜Analysis of Trump's Tariff Policy24-Hour Non-Stop Live,https://www.youtube.com/watch?v=Bz8BTuEmnmE
@@ -261,6 +425,7 @@ momo購物一台 48頻道 24小時線上直播,https://www.youtube.com/watch?v=_
 momo購物二台 35頻道 24小時線上直播,https://www.youtube.com/watch?v=xbNWkUyxQGM
 美好購物2台線上看,https://www.youtube.com/watch?v=lEXITHxcagI
 美好購物1台線上看,https://www.youtube.com/watch?v=7IyxOiGMLgw
+<<<<<<< Updated upstream
 CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
 CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
 CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
@@ -289,10 +454,41 @@ CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
 【Taipei Live Cam】大佳河濱公園 - 4K即時影像 | Taipei Dajia Riverside Park | 台北大佳河濱公園,https://www.youtube.com/watch?v=fP4ecxfsJos
 【Taipei Live Cam】貓空指南宮 - 4K即時影像,https://www.youtube.com/watch?v=215ahZ_0rTg
 【Taipei Live Cam】大稻埕碼頭 - 4K即時影像 | Taipei Dadaocheng Wharf | 台北大稲埕埠頭,https://www.youtube.com/watch?v=Ndo_8RuefH4
+=======
+CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
+CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
+CH47,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+CH34,https://www.youtube.com/watch?v=_Vlzn9qAHD4
+
+國會,#genre#
+紀律委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=KyHM5yvcLU4
+交通委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=teud7KwyEPw
+國會頻道１ | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=4HysYHJ6GkY
+立法院會議 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=tDg3bJFYLzI
+國會頻道２ | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=Lj8OWF6nzcg
+司法及法制委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=KUhidt89DVo
+內政委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=vGX0bMBVa4k
+黨團協商 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=yUx5lB4mhZk
+社會福利及衛生環境委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=DdUWlWZVOi8
+經費稽核委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=nkejc54RyDU
+國家發展基金不當投資暨管理失職調查委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=1s_XWr7KzVE
+教育及文化委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=Qo9QwuCpV3s
+經濟委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=xfikIGtkQeA
+外交及國防委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=Af0TFVbxvAQ
+程序委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=IvAXtzx5cUI
+財政委員會 | 國會頻道-立法院議事轉播,https://www.youtube.com/watch?v=Cidl9JoRtGk
+
+風景,#genre#
+[4K] 和平島公園即時影像 Heping Island Park Live Camera,https://www.youtube.com/watch?v=ZNxEYgQ945s
+【Taipei Live Cam】大稻埕碼頭 - 4K即時影像 | Taipei Dadaocheng Wharf | 台北大稲埕埠頭,https://www.youtube.com/watch?v=Ndo_8RuefH4
+【Taipei Live Cam】大佳河濱公園 - 4K即時影像 | Taipei Dajia Riverside Park | 台北大佳河濱公園,https://www.youtube.com/watch?v=fP4ecxfsJos
+【Taipei Live Cam】貓空指南宮 - 4K即時影像,https://www.youtube.com/watch?v=215ahZ_0rTg
+>>>>>>> Stashed changes
 【Taipei Live Cam】劍潭山微風平台 - 4K即時影像 | Jiantanshan Weifeng Observatory | 剣潭山微風デッキ,https://www.youtube.com/watch?v=34h_Cy_n0Ok
 【Taipei Live Cam】象山看台北 - 4K即時影像 | Overlooking Taipei at the top of Xiangshan | 象山から望む台北,https://www.youtube.com/watch?v=z_fY1pj1VBw
 【Taipei Live Cam】碧山巖 - 4K即時影像 | Bishan Temple | 碧山巌開漳聖王廟 | TAIPEI 101,https://www.youtube.com/watch?v=uvwfYzwY8tg
 大屯自然公園,https://www.youtube.com/watch?v=6ghffcNt3Nw
+<<<<<<< Updated upstream
 小油坑停車場,https://www.youtube.com/watch?v=kKD-ZBLs8-4
 二子坪停車場,https://www.youtube.com/watch?v=d9KuXrPCWYU
 陽明書屋遠眺台北盆地,https://www.youtube.com/watch?v=RttyIGHbN_w
@@ -422,4 +618,135 @@ KP【4K】#南方澳 第三漁港 #即時影像 漁村生活 - [4K] #nanfang'ao 
 大漢據點遠景,https://www.youtube.com/watch?v=SIgwGSA9bx4
 南竿鐵堡,https://www.youtube.com/watch?v=NVf3j-5I1Fk
 東引遊客中心外平台,https://www.youtube.com/watch?v=5Hc_6uiokds
+=======
+遠眺七星山,https://www.youtube.com/watch?v=PvJr2efA6n0
+小油坑停車場,https://www.youtube.com/watch?v=kKD-ZBLs8-4
+擎天崗草原,https://www.youtube.com/watch?v=yF2LAyOvq0Q
+【Live】陽明山國家公園 擎天崗 360 4K 全景即時影像 #360看見台灣 #陽明山國家公園 #擎天崗,https://www.youtube.com/watch?v=Vzqb7wZMDvo
+冷水坑停車場,https://www.youtube.com/watch?v=GB64WeZZQPQ
+陽明書屋遠眺台北盆地,https://www.youtube.com/watch?v=RttyIGHbN_w
+二子坪停車場,https://www.youtube.com/watch?v=d9KuXrPCWYU
+【LIVE Cam】新北市碧潭Bitan - 即時影像,https://www.youtube.com/watch?v=ZaPX6G7PV4Y
+淡水漁人碼頭即時影像 Tamsui Fisherman's Wharf Live Camera | 新北觀光即時影像,https://www.youtube.com/watch?v=xwAWSh35uuw
+烘爐地即時影像 Hunglodei Live Camera | 新北觀光即時影像,https://www.youtube.com/watch?v=xxMRjVwCQ3o
+九份即時影像 Jiufen Live Camera 실시간 주펀 라이브캠  | 新北觀光即時影像 | ライブカメラ,https://www.youtube.com/watch?v=XSD5ptYisw8
+十分瀑布公園即時影像 Shifen Waterfall Live Camera 스펀폭포공원 | 新北觀光即時影像,https://www.youtube.com/watch?v=HirBQsQEUeA
+新北市淡水區 #即時路況 車流直播---#淡水竹圍雙向 #紅樹林往台北 #水源街二段與淡金路口,https://www.youtube.com/watch?v=w2UFe1weBrQ
+新北市淡水區景點(即時影像) 淡水渡船頭 直播 #淡水河 #夕陽 #觀音山 #台北港 #淡水老街河岸 #淡水渡し船乗り場  Du Chuan Tou, Tamsui,https://www.youtube.com/watch?v=rI7cZh2RCRY
+[LIVE即時影像] 玩樂東北角-外澳沙灘 Wai’ao Beach,https://www.youtube.com/watch?v=UgoT-QTbYvo
+[LIVE即時影像] 玩樂東北角-福隆海水浴場,https://www.youtube.com/watch?v=zU8RFoggAeQ
+[LIVE即時影像] 玩樂東北角-鼻頭服務區 Bitou Service Area,https://www.youtube.com/watch?v=pxMGB7o8wy8
+[4K] 野柳地質公園即時影像 Yehliu Geopark Live Camera,https://www.youtube.com/watch?v=psWKqzzvWA4
+Hutoushan Owl Forest School Live Cam 虎頭山奧爾森林學堂即時影像,https://www.youtube.com/watch?v=yQSmajHyMhU
+Shihmen Reservoir Live Cam 石門水庫即時影像,https://www.youtube.com/watch?v=GUCaVR88ZFU
+Hutoushan Environmental Park Live Cam 桃園虎頭山環保公園即時影像,https://www.youtube.com/watch?v=tu_gsIkNt-w
+Jiaobanshan Siqin Pavilion Live Cam 角板山思親亭即時影像,https://www.youtube.com/watch?v=3Za9y4z_Lzc
+Daxi Old Street Live Cam 大溪老街即時影像,https://www.youtube.com/watch?v=XUWjAsajKXg
+Jiaobanshan Plum Orchard Live Cam 角板山梅園即時影像,https://www.youtube.com/watch?v=-xT1bZhWLuU
+Xiao Wulai Panoramic Lookout Live Cam 小烏來寰宇平台即時影像,https://www.youtube.com/watch?v=hcGGNRfPvjM
+Yongan Fishing Harbor 永安漁港即時影像,https://www.youtube.com/watch?v=tD_a03trUvE
+【4K】Taiwan Taoyuan International Airport (TPE/RCTP)｜ Live Camera ｜桃園國際機場｜桃園國際機場凱悅酒店,https://www.youtube.com/watch?v=68GFgzQxrXs
+Taoyuan Baling Live Cam 上巴陵即時影像,https://www.youtube.com/watch?v=nV-DKquUjFs
+Cihu Memorial Sculpture Park Live Cam 慈湖水岸廣場即時影像,https://www.youtube.com/watch?v=pSQ0e-ZTZ5g
+【2K】Taiwan Taoyuan International Airport (TPE/RCTP)｜Dual View with Flight Info｜桃園國際機場｜凱悅酒店｜動態資訊頻道,https://www.youtube.com/watch?v=0D6QgDOdI6c
+Three Swimming Turtles Live Cam 三龜戲水觀景平台即時影像,https://www.youtube.com/watch?v=5YDXZ1aiR5Y
+【4K】Taiwan Taoyuan International Airport (TPE/RCTP) Live Camera 24/7 桃園國際機場即時影像｜桃園機場,https://www.youtube.com/watch?v=91PfFoqvuUk
+Daxi Bridge Live Cam 大溪橋即時影像,https://www.youtube.com/watch?v=oFJ6gCaBb_Q
+Jiaobanshan Eco Pond Live Cam 角板山生態池即時影像,https://www.youtube.com/watch?v=XEbo8NzMTbQ
+Lala Mountain Live Cam 拉拉山遊客中心即時影像,https://www.youtube.com/watch?v=YkIUZjVlhv4
+Xiao Wulai Skywalk Live Cam 小烏來天空步道即時影像,https://www.youtube.com/watch?v=neaiCec1kec
+雪霸國家公園-武陵遊憩區 24 小時 HD 直播 Wuling Recreation Area Live Stream,https://www.youtube.com/watch?v=dH1KL2ugm5c
+雪霸國家公園-雪見遊憩區 24 小時 HD 直播 Xuejian Recreation Area Live Stream,https://www.youtube.com/watch?v=bf8MMQvwyuY
+雪霸國家公園-汶水遊客中心 24 小時 HD 直播 Wenshui Visitor Center Live Stream,https://www.youtube.com/watch?v=VgmWVBUsfGo
+雪霸國家公園-觀霧遊憩區 24 小時 HD 直播 Guanwu Recreation Area Live Stream,https://www.youtube.com/watch?v=Isp6RQiuxNo
+【獅頭山美景4K Live cam】峨眉湖即時影像｜彌勒大佛｜大埔水庫,https://www.youtube.com/watch?v=AE1wiaqDZjw
+【梨山美景4K Live cam】梨山賓館即時影像｜Lishan Hotel｜梨山ホテル,https://www.youtube.com/watch?v=U6YyZFUJhyc
+虎山巖金針花_日落美景,https://www.youtube.com/watch?v=g0xj7zwbSTM
+【梨山美景4K Live cam】攬勝樓即時影像｜Lishan Range Rover Building｜攬勝楼,https://www.youtube.com/watch?v=JZ-R9aCTlRE
+【梨山美景4K Live cam】櫻緣丘即時影像｜Lishan Sakuraen Hill｜桜園の丘,https://www.youtube.com/watch?v=vBgohSKh_ew
+【梨山美景4K Live cam】德基水庫即時影像｜梨山佳陽沖積扇｜Techi Dam Live Cam,https://www.youtube.com/watch?v=ZayKvJKDPWc
+【獅頭山美景4K Live cam】峨眉湖即時影像｜黃花風鈴木 | 細茅埔吊橋 |  峨眉湖多功能廣場 | 彌勒大佛｜黃花風鈴木即時花況｜即時花況,https://www.youtube.com/watch?v=L9y1pwGktQg
+虎山巖金針花,https://www.youtube.com/watch?v=0UJTu7mPIw4
+【八卦山美景4K Live cam】彰化平原即時影像｜夕陽美景｜彰化夜景,https://www.youtube.com/watch?v=RaTbGYKMUtk
+【4K Live Camera】台中高美濕地4K即時影像 | Taichung Gaomei Wetland 4K Live Camera,https://www.youtube.com/watch?v=fjhg3gAnMFg
+【4K Live Camera】台中望高寮4K即時影像｜Taichung Wang Gao Liao 4K Live Camera,https://www.youtube.com/watch?v=lhXXhDyjFtI
+[Live][03] 墾丁南灣即時影像 kenting South Bay Taiwan #南灣 #墾丁南灣,https://www.youtube.com/watch?v=KMkVIY2z_Dc
+[Live][02] 合歡山武嶺附近區域即時影像 #合歡山昆陽停車場 #合歡山遊客服務中心 #仁愛鄉小風口合歡山管理站,https://www.youtube.com/watch?v=BiBNiJAW3dY
+[Live][01] 合歡山武嶺亭即時影像 Wuling Hehuanshan Taiwan #武嶺 #合歡山武嶺亭,https://www.youtube.com/watch?v=2lVMTs_Fj0M
+台灣彰化溪湖西面(羊葡小鎮) 即時天氣影像 (颱風/天氣/災害/地震) ，Formosa Taiwan Changhua City Weather Livestream Video .WEST,https://www.youtube.com/watch?v=woENxW8O050
+台灣彰化溪湖東面(羊葡小鎮) 即時天氣影像 (颱風/天氣/災害/地震) ，Formosa Taiwan Changhua City Weather Livestream Video .EAST,https://www.youtube.com/watch?v=K25ISlukXxg
+台灣彰化溪湖即時天氣影像 (颱風/天氣/災害/地震) ，Formosa Taiwan Changhua City Weather Livestream Video .,https://www.youtube.com/watch?v=57mZkwnyXKg
+太平山國家森林遊樂區蹦蹦車站即時影像,https://www.youtube.com/watch?v=UculfFVe2Oo
+阿里山國家森林遊樂區小笠原平台觀日出直播,https://www.youtube.com/watch?v=TLYtmJHJJN4
+太平山國家森林遊樂區景觀平台即時影像,https://www.youtube.com/watch?v=9ZSou7K7uXU
+阿里山國家森林遊樂區林業鐵路即時影像,https://www.youtube.com/watch?v=POCEfetPpD0
+滿月圓國家森林遊樂區即時影像,https://www.youtube.com/watch?v=USrPa5SSadw
+內洞國家森林遊樂區即時影像,https://www.youtube.com/watch?v=lX2MYEFomK0
+東眼山國家森林遊樂區即時影像,https://www.youtube.com/watch?v=rZy5D-33Xe8
+墾丁國家森林遊樂區觀海樓即時影像,https://www.youtube.com/watch?v=wRleP2_WaPc
+八仙山國家森林遊樂區即時影像,https://www.youtube.com/watch?v=r4sDElBxafE
+Live cam-Alishan【阿里山美景直播】-太平雲梯 Taiping Suspension Bridge,https://www.youtube.com/watch?v=dY2cRNr5Buw
+Live cam-Alishan【阿里山美景直播】-生力農場 Sheng-Li Farm,https://www.youtube.com/watch?v=agEzlv9n9Eg
+4K Live cam-Alishan【阿里山美景4K直播】-二延平步道 Eryanping Trail,https://www.youtube.com/watch?v=j2L_559nCjc
+Live cam-Alishan【阿里山美景直播】-阿里山國家風景區管理處(觸口遊客中心)Alishan National Scenic Area Administration,https://www.youtube.com/watch?v=8KnqJBf_dow
+Live cam-Alishan【阿里山美景直播】-牛埔仔愛情大草原Highway 18 Love silk road (Niupuzai Grassland),https://www.youtube.com/watch?v=hMYs60qtkK8
+Live cam-Alishan【阿里山美景直播】-里佳資訊站 Lijia Information station,https://www.youtube.com/watch?v=zDt8FBPozZQ
+4K Live cam-Alishan【阿里山美景4K直播】-奮起湖 Fenqihu,https://www.youtube.com/watch?v=B6eki-0-w0g
+(Live)即時美景-台南北門井仔腳(by凱擘南天Home Security服務),https://www.youtube.com/watch?v=HV9d-KwG76I
+【台江】台江國家公園線上直播 - 北汕尾水鳥生態保護區影像｜【Taijiang】Beishanwei Waterfowl Ecological Protected Area Live Stream,https://www.youtube.com/watch?v=FES0gWTFUHQ
+【台江】台江國家公園線上直播 - 六孔碼頭影像｜【Taijiang】Liukong Wharf Live Stream,https://www.youtube.com/watch?v=oNL7o865EiY
+【台江】台江國家公園線上直播 - 七股賞鳥亭黑琵影像｜【Taijiang】Qigu Black-faced Spoonbill Watching Pavilion Live Stream,https://www.youtube.com/watch?v=5KJe2gCTngA
+高雄壽山情人觀景台 4K即時影像 | Kaohsiung Shoushan Lovers' Viewing Platform 4K Live Camera,https://www.youtube.com/watch?v=C03Itx8iSC0
+高雄旗津海水浴場 4K即時影像 | Kaohsiung Cijin (Qijin) Beach 4K Live Camera,https://www.youtube.com/watch?v=ka7FV0sCvxQ
+高雄蓮池潭4K即時影像 Kaohsiung Lianchihtan (Lotus Pond)  4K Live Camera,https://www.youtube.com/watch?v=BnPoNatG-HE
+【茂林國家風景區4K直播】－ 龍頭山  4K Live Maolin-nsa,https://www.youtube.com/watch?v=S-InQ5Yotdo
+【茂林國家風景區4K直播】－ 屏東平原眺景 4K Live Maolin-nsa,https://www.youtube.com/watch?v=tEy9Wi7bcDU
+【茂林國家風景區4K直播】－ 彩虹山大佛 4K Live Maolin-nsa,https://www.youtube.com/watch?v=X4feE60jy88
+【茂林國家風景區4K直播】－ 寶山部落 4K Live Maolin-nsa,https://www.youtube.com/watch?v=GTxavCAFP0I
+【茂林國家風景區4K直播】－ 禮納里遊客中心 4K Live Maolin-nsa,https://www.youtube.com/watch?v=gshzyMDlJ_A
+【茂林國家風景區4K直播】－ 桃花心木步道 4K Live Maolin-nsa,https://www.youtube.com/watch?v=qYi0IJ_qmlM
+【茂林國家風景區4K直播】－ 諦願寺六龜眺景 4K Live Maolin-nsa,https://www.youtube.com/watch?v=V-_j0pvU_I0
+【墾丁LIVE】龍鑾潭即時影像/Kenting Longluantan Live Camera Taiwan/The South 南喃夕語 提供,https://www.youtube.com/watch?v=1Zvo9Lik5b8
+船帆石沙灘即時影像4K,https://www.youtube.com/watch?v=f8yo_osMxAg
+船帆石即時影像,https://www.youtube.com/watch?v=3Wb_Lgw7Ltc
+後壁湖即時影像,https://www.youtube.com/watch?v=r9m1Mx-2ChQ
+墾丁大灣即時影像,https://www.youtube.com/watch?v=0V_9uQhdibU
+KP【4K】#南方澳、#內埤仔海邊、#情人灣。即時影像【4K】#Nanfang'ao, Neipi Beach, Lover's Bay  #WeCafe #coffeeShop  TO  #烏岩角,https://www.youtube.com/watch?v=qqAJRgye8dM
+KP【4K】南方澳、南天宮、第一漁港。媽祖文化 ,[4K] Nanfang'ao, Nantian Temple, and the First Fishing Port. Mazu culture,,https://www.youtube.com/watch?v=DQds2FgPTns
+KP【4K】#南方澳 第二漁港 即時影像 #漁村生活 = 【4K】Nanfangao Second Fishing Port Live Cam - fisherman life,https://www.youtube.com/watch?v=Ev9Gl01hTFU
+KP【4K】#南方澳、#進安宮天上聖母、#寶石珊瑚媽祖、 #大殿 媽祖文化、  #遠端參拜 。Nanfang'ao,  Main Hall Mazu Culture, Remote Worship.,https://www.youtube.com/watch?v=XfYW5iE1DRU
+KP【4K】南方澳、進安宮天上聖母、#寶石珊瑚媽祖、 大門  媽祖文化、江夏路、第三漁港、跨海大橋、遊覽車、香客紀錄、自動巡航 Tour Bus, Pilgrim Records, Automatic,https://www.youtube.com/watch?v=j6CIzZGAa3M
+KP【4K】南方澳、內埤仔海邊、情人灣。天使之眼【4K】Nanfang'ao, Neipi Beach, Lover's Bay #南安國中 #NanAn Junior To #賊仔澳,https://www.youtube.com/watch?v=CyE58sW4xXs
+KP【4K】#南方澳 第三漁港 #即時影像 漁村生活 - [4K] #nanfang'ao Third Fishing Port Live Fishing Village Life,https://www.youtube.com/watch?v=xlTH56CwuVg
+【Live Cam】東海岸即時影像 - 大石鼻山｜Dashshibi Hill｜大石鼻山 2160p,https://www.youtube.com/watch?v=JkoXcXI04Qk
+【Live Cam】東海岸即時影像 - 加路蘭遊憩區｜Jialulan｜加路蘭休憩区 2160p,https://www.youtube.com/watch?v=AKl3F6cAY2Q
+【Live Cam】東海岸即時影像 - 三仙台｜Sanxiantai｜三仙台（さんせんたい）風景区 2160p,https://www.youtube.com/watch?v=dQ7Sd6PGLdA
+【Live Cam】東海岸即時影像 - 長虹橋｜Changhong Bridge｜長虹橋 2160p,https://www.youtube.com/watch?v=JnD8Rk3o0BM
+【Live Cam】東海岸即時影像 - 綠島柴口浮潛區｜Chaikou Snorkeling Area｜柴口スノーケリングスポット 2160p｜台東綠島｜Green Island,https://www.youtube.com/watch?v=a8nJQr5rBGs
+【Live Cam】東海岸即時影像 - 綠島帆船鼻｜Fanchuanbi Grassland in Green Island｜緑島帆船鼻の大草原 2160p,https://www.youtube.com/watch?v=pLdBc8PvZko
+【Live Cam】東海岸即時影像 - 金樽遊憩區｜Jinzun｜金樽休憩エリア 2160p,https://www.youtube.com/watch?v=ZdqHgQwvZOw
+【Live Cam】東海岸即時影像 - 石梯坪｜Shitiping｜石梯坪 2160p,https://www.youtube.com/watch?v=mXnigLvIL0Q
+【Live Cam】東海岸即時影像 - 綠島南寮漁港｜Green Island Nanliao Fishing Harbor｜緑島南寮漁港 2160p｜台東綠島｜石朗潛水區,https://www.youtube.com/watch?v=wTHhv7M0vCI
+【Live Cam】東海岸即時影像 - 都歷遊客中心｜Torik Visitor Center｜都歷ビジターセンター 2160p,https://www.youtube.com/watch?v=JhQuR77AR7U
+【4K】台東華源曙光觀景台即時影像 Taitung Huayuan Live Camera,https://www.youtube.com/watch?v=TY4qQElcUrA
+【4K】台東多良車站即時影像 Taitung Duoliang Station Live Camera,https://www.youtube.com/watch?v=UCG1aXVO8H8
+【4K】台東杉原灣即時影像 Taitung Shanyuan Bay Live Camera,https://www.youtube.com/watch?v=VqS_Y8ZCj6M
+【4K】台東金崙大橋即時影像 Taitung Jinlun Bridge Live Camera,https://www.youtube.com/watch?v=9QqBz3kNHis
+【4K】台東富山即時影像 Taitung Fushan Area Live Camera,https://www.youtube.com/watch?v=Rsq95SQ26bY
+【4K】台東金樽 即時影像 Taitung Jinzun Live Camera,https://www.youtube.com/watch?v=q3KJt-SZc2s
+【4K】台東池上天堂路即時影像 Taitung Chihshang Live Camera,https://www.youtube.com/watch?v=6kUEK3LVrro
+【4K】台東南橫埡口即時影像 Taitung Southern Cross-Island Yakou Live Camera,https://www.youtube.com/watch?v=LSkq-wHMxQY
+【4K】台東富岡漁港即時影像 Taitung Fugang Fishing Port Live Camera,https://www.youtube.com/watch?v=D945F_dauls
+【Live】鹿野高台-花東縱谷即時影像｜Taitung Luye Highland｜Live Camera,https://www.youtube.com/watch?v=rvc1klNIgQc
+【4K Live】六十石山 - 花東縱谷即時影像｜Hualien Liushishi Mountain｜4K Live Camera,https://www.youtube.com/watch?v=DliL9uMtPrI
+【4K Live】鯉魚潭-花東縱谷即時影像｜Hualien Liyu Lake｜4K Live Camera｜Lofi Music/Study/Relax,https://www.youtube.com/watch?v=aaKOV4qkDHw
+【Live】赤科山-花東縱谷即時影像｜Hualien Chike Mountain｜Live Camera,https://www.youtube.com/watch?v=5GTFLN9gZrc
+摩西分海即時影像-北寮奎壁山,https://www.youtube.com/watch?v=Atj8nVie05k
+【Kinmen Live】金門建功嶼即時影像｜Kinmen Jiangong Islet 4K Live Camera,https://www.youtube.com/watch?v=uh_yNAE01w8
+【Kinmen Live】金門134高地即時影像｜Kinmen 134 Highland 4K Live Camera,https://www.youtube.com/watch?v=-srNHTE-Nf0
+大漢據點遠景,https://www.youtube.com/watch?v=SIgwGSA9bx4
+東引遊客中心外平台,https://www.youtube.com/watch?v=5Hc_6uiokds
+南竿鐵堡,https://www.youtube.com/watch?v=NVf3j-5I1Fk
+北海坑道(印地安人頭岩),https://www.youtube.com/watch?v=KpAsazSyB68
+>>>>>>> Stashed changes
 
