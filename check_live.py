@@ -7,6 +7,9 @@ import os
 # 設定你的 YouTube Data API key
 API_KEY = os.environ.get("YOUTUBE_API_KEY", "YOUR_API_KEY")
 
+if not API_KEY or API_KEY == "YOUR_API_KEY":
+    raise ValueError("請設定正確的 YouTube API 金鑰。")
+
 # 頻道分類
 CATEGORIES = {
     "台灣,#genre#": {
@@ -90,7 +93,9 @@ CATEGORIES = {
         "Taste The World": "https://www.youtube.com/@TasteTheWorld66/streams",
         "現在宅知道": "https://www.youtube.com/@cbotaku/streams",
         "靖天電視台": "https://www.youtube.com/@goldentvdrama/streams",
-        "綜藝一級棒": "https://www.youtube.com/@NO1TVSHOW/streams",		
+        "綜藝一級棒": "https://www.youtube.com/@NO1TVSHOW/streams",
+        "靈異錯別字": "https://www.youtube.com/@靈異錯別字ctiwugei/streams",
+        "下面一位": "https://www.youtube.com/@ytnextone_1/streams",		
         "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams",
         "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/streams",
         "爆梗TV": "https://www.youtube.com/@爆梗PunchlineTV/streams",
@@ -122,7 +127,7 @@ CATEGORIES = {
         "愛爾達綜合台": "https://www.youtube.com/@ELTAWORLD/streams",
         "愛爾達影劇台": "https://www.youtube.com/@eltadrama/streams",
         "VBL Series": "https://www.youtube.com/@variety_between_love/streams",	
-        "精选大剧": "https://www.youtube.com/@精选大剧/streams",	
+        "精选大剧": "https://www.youtube.com/@精选大剧/streams",		
         "百纳经典独播剧场": "https://www.youtube.com/@BainationTVSeriesOfficial/streams",
         "华录百納熱播劇場": "https://www.youtube.com/@Baination/streams",	
         "iQIYI 爱奇艺": "https://www.youtube.com/@iQIYIofficial/streams",
@@ -154,7 +159,9 @@ CATEGORIES = {
         "喜剧大联盟": "https://www.youtube.com/@SuperComedyLeague/streams",		
         "正午阳光官方频道": "https://www.youtube.com/@DaylightEntertainmentDrama/streams",		
         "超級影迷 正版電影免費看": "https://www.youtube.com/@MegaFilmLovers/streams",
-        "電影想飛 正版電影免費看": "https://www.youtube.com/@moviesintheair/streams",			
+        "電影想飛 正版電影免費看": "https://www.youtube.com/@moviesintheair/streams",
+        "MadHouse 免費電影": "https://www.youtube.com/@MadHouseFreeMovie/streams",
+        "FAST 免費電影": "https://www.youtube.com/@FASTMOVIE168/streams",		
         "SMG音乐频道": "https://www.youtube.com/@SMGMusic/streams"				
     },
     "少兒,#genre#": {
@@ -197,7 +204,8 @@ CATEGORIES = {
         "GoHoops": "https://www.youtube.com/@GoHoops/streams",
         "P.LEAGUE+": "https://www.youtube.com/@PLEAGUEofficial/streams",
         "CPBL 中華職棒": "https://www.youtube.com/@CPBL/streams",		
-        "日本B聯盟": "https://www.youtube.com/@b.leagueinternational/streams",	
+        "日本B聯盟": "https://www.youtube.com/@b.leagueinternational/streams",
+        "MotoGP": "https://www.youtube.com/@motogp/streams",		
         "WWE": "https://www.youtube.com/@WWE/streams",
 	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
@@ -237,6 +245,7 @@ CATEGORIES = {
         "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
+        "新聞龍捲風": "https://www.youtube.com/@新聞龍捲風NewsTornado/streams",		
         "頭條開講": "https://www.youtube.com/@頭條開講HeadlinesTalk/streams",		
 	"少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
         "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams",
@@ -344,11 +353,12 @@ def process_channel(category, channel_name, url):
         info = get_live_video_info(vid)
         if info:
             title = info["snippet"].get("title", "無標題")
+            sanitized_title = title.replace(",", "")  # 移除逗號
             video_url = f"https://www.youtube.com/watch?v={vid}"
             if category not in live_results:
                 live_results[category] = []
-            live_results[category].append(f"{title},{video_url}")
-            print(f"找到直播：{title} - {video_url}")
+            live_results[category].append(f"{sanitized_title},{video_url}")
+            print(f"找到直播：{sanitized_title} - {video_url}")
 
 def main():
     for category, channels in CATEGORIES.items():
