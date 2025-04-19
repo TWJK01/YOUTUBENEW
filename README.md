@@ -14,3 +14,5 @@ YouTube Data API v3 數量不足
 如何申請YouTube Data API v3 KEY
 
 https://ithelp.ithome.com.tw/articles/10224252
+
+https://developers.google.com/youtube/v3/getting-started?hl=zh-tw
