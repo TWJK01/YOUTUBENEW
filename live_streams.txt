@@ -1,10 +1,16 @@
 台灣,#genre#
 台灣地震監視(地震速報、強震即時警報),https://www.youtube.com/watch?v=Owke6Quk7T0
-2025.04.26 整點大頭條：426凱道集結「戰獨裁」 藍白支持者冒雨集結【台視1300整點新聞】,https://www.youtube.com/watch?v=JKoVJ7vmJWQ
 台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브,https://www.youtube.com/watch?v=xL0ch83RAK8
+<<<<<<< Updated upstream
 🔴【LIVE直播】426凱道戰獨裁全紀錄│中視新聞 20250426,https://www.youtube.com/watch?v=6VXvdqAKrIM
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널,https://www.youtube.com/watch?v=AGdxQWYSrI8
 #中視午間新聞線上看 20250426 (週六),https://www.youtube.com/watch?v=TU6vvP3XnlA
+=======
+2025.04.26 整點大頭條：426凱道集結「戰獨裁」 藍白支持者冒雨集結【台視1300整點新聞】,https://www.youtube.com/watch?v=JKoVJ7vmJWQ
+#中視午間新聞線上看 20250426 (週六),https://www.youtube.com/watch?v=TU6vvP3XnlA
+🔴【LIVE直播】426凱道戰獨裁全紀錄│中視新聞 20250426,https://www.youtube.com/watch?v=6VXvdqAKrIM
+中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널,https://www.youtube.com/watch?v=AGdxQWYSrI8
+>>>>>>> Stashed changes
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널  | (生放送),https://www.youtube.com/watch?v=TCnaIE_SAtM
 地震即時警報與監測直播｜華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=7lxXN3zIr-I
 【LIVE】0426 藍白大咖集結凱道426戰獨裁大遊行｜民視快新聞｜,https://www.youtube.com/watch?v=X8COCQtsdg4
@@ -13,6 +19,7 @@
 公視新聞 PTS News  24小時線上直播 ｜PNN Taiwan News 24h Live｜台湾の最新ニュース24時間配信中｜대만 뉴스 라이브 스트리밍 #live,https://www.youtube.com/watch?v=quwqlazU-c8
 公視台語台網路直播 |  PTS Tai-gi Live,https://www.youtube.com/watch?v=6KlRR_DGhmI
 TaiwanPlus TV Livestream | News & Shows from Taiwan | 台湾のニュースと番組を24時間配信 | 대만채널뉴스 24/7시간 생방송,https://www.youtube.com/watch?v=gvV_mJsKLWQ
+<<<<<<< Updated upstream
 大愛二臺HD Live 臺灣直播  | 現正播映：好戲成雙_曾經我們一起12歲 (27集),https://www.youtube.com/watch?v=OKvWtVoDR8I
 大愛二臺HD Live 全球直播  | 現正播映：好戲成雙_曾經我們一起12歲 (27集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛一臺HD Live 全球直播 | 現正播映：大愛迷你劇場_大愛迷你劇院-浮生若夢 (1集),https://www.youtube.com/watch?v=MIqUplvSRWA
@@ -21,4 +28,18 @@ EBC 東森新聞 51 頻道 24小時線上直播｜Taiwan EBC 24h live news｜台
 🔴海外直播 三立新聞 24小時LIVE │SET Live NEWS│SET LIVE ニュースオンライン放送│대만 채널SET뉴스 24시간 생방송 @setinews,https://www.youtube.com/watch?v=hGJkDZDchYI
 LIVE直播│真的? 426凱道至少五萬人? 國民黨成果發表會 喊"反綠共戰獨裁"  │三立新聞台,https://www.youtube.com/watch?v=nsd3oE5pZFM
 【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송,https://www.youtube.com/watch?v=2mCSYvcfhtc
+=======
+大愛一臺HD Live 全球直播 | 現正播映：大愛迷你劇場_大愛迷你劇院-浮生若夢 (1集),https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛二臺HD Live 全球直播  | 現正播映：好戲成雙_曾經我們一起12歲 (27集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
+大愛二臺HD Live 臺灣直播  | 現正播映：好戲成雙_曾經我們一起12歲 (27集),https://www.youtube.com/watch?v=OKvWtVoDR8I
+鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan News 24H Live｜台湾のニュース24時間オンライン放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
+【國民黨426凱道大遊行】🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=V1p33hqPrUk
+EBC 東森新聞 51 頻道 24小時線上直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=E0zhe2gkXBs
+🔴Live／國民黨426凱道大遊行「反綠共戰獨裁」！韓國瑜、盧秀燕、馬英九號召民眾挺身而出,https://www.youtube.com/watch?v=1vTu9Eq4exM
+iNEWS新聞LIVE│三立iNEWS 24小時 CH48新聞直播 ON AIR │SET iNEWS LIVE│SET iNEWS ニュースオンライン生放送,https://www.youtube.com/watch?v=pF507BLtbqU
+LIVE直播｜線上全程直播426魔幻舞台 藍白凱道大集結戰獨裁 ｜三立新聞台,https://www.youtube.com/watch?v=CmysAuhkw7c
+🔴海外直播 三立新聞 24小時LIVE │SET Live NEWS│SET LIVE ニュースオンライン放送│대만 채널SET뉴스 24시간 생방송 @setinews,https://www.youtube.com/watch?v=hGJkDZDchYI
+【中天直播#LIVE】告別"人民的教宗"方濟各 梵蒂岡聖伯多祿廣場全球同哀 殯葬彌撒全程直播 20250426 @中天新聞CtiNews,https://www.youtube.com/watch?v=lln1FwB04zc
+Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=lQDSbIlC5G4
+>>>>>>> Stashed changes
 
