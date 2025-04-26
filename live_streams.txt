@@ -8,8 +8,11 @@
 =======
 2025.04.26 整點大頭條：426凱道集結「戰獨裁」 藍白支持者冒雨集結【台視1300整點新聞】,https://www.youtube.com/watch?v=JKoVJ7vmJWQ
 #中視午間新聞線上看 20250426 (週六),https://www.youtube.com/watch?v=TU6vvP3XnlA
-🔴【LIVE直播】426凱道戰獨裁全紀錄│中視新聞 20250426,https://www.youtube.com/watch?v=6VXvdqAKrIM
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널,https://www.youtube.com/watch?v=AGdxQWYSrI8
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+🔴【LIVE直播】426凱道戰獨裁全紀錄│中視新聞 20250426,https://www.youtube.com/watch?v=6VXvdqAKrIM
 >>>>>>> Stashed changes
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널  | (生放送),https://www.youtube.com/watch?v=TCnaIE_SAtM
 地震即時警報與監測直播｜華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=7lxXN3zIr-I
@@ -19,6 +22,7 @@
 公視新聞 PTS News  24小時線上直播 ｜PNN Taiwan News 24h Live｜台湾の最新ニュース24時間配信中｜대만 뉴스 라이브 스트리밍 #live,https://www.youtube.com/watch?v=quwqlazU-c8
 公視台語台網路直播 |  PTS Tai-gi Live,https://www.youtube.com/watch?v=6KlRR_DGhmI
 TaiwanPlus TV Livestream | News & Shows from Taiwan | 台湾のニュースと番組を24時間配信 | 대만채널뉴스 24/7시간 생방송,https://www.youtube.com/watch?v=gvV_mJsKLWQ
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 大愛二臺HD Live 臺灣直播  | 現正播映：好戲成雙_曾經我們一起12歲 (27集),https://www.youtube.com/watch?v=OKvWtVoDR8I
 大愛二臺HD Live 全球直播  | 現正播映：好戲成雙_曾經我們一起12歲 (27集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -41,5 +45,7 @@ LIVE直播｜線上全程直播426魔幻舞台 藍白凱道大集結戰獨裁 �
 🔴海外直播 三立新聞 24小時LIVE │SET Live NEWS│SET LIVE ニュースオンライン放送│대만 채널SET뉴스 24시간 생방송 @setinews,https://www.youtube.com/watch?v=hGJkDZDchYI
 【中天直播#LIVE】告別"人民的教宗"方濟各 梵蒂岡聖伯多祿廣場全球同哀 殯葬彌撒全程直播 20250426 @中天新聞CtiNews,https://www.youtube.com/watch?v=lln1FwB04zc
 Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=lQDSbIlC5G4
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
