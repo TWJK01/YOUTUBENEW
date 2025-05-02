@@ -1,9 +1,12 @@
 台灣,#genre#
 台灣地震監視(地震速報、強震即時警報),https://www.youtube.com/watch?v=Owke6Quk7T0
+<<<<<<< Updated upstream
 
 音樂,#genre#
 總會有人 可能是風太大了吧  這是你期盼的長大嗎 哪裡都是你 跳楼机🔥熱門歌曲大全/抖音最熱門歌曲『抖音破億神曲』2025流行歌曲🔥2025不能不聽的100首歌💥douyin 抖音歌曲2025,https://www.youtube.com/watch?v=VlfnKB8Bo5A
 
 風景,#genre#
 Xiao Wulai Skywalk Live Cam 小烏來天空步道即時影像,https://www.youtube.com/watch?v=neaiCec1kec
+=======
+>>>>>>> Stashed changes
 
