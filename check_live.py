@@ -216,7 +216,8 @@ CATEGORIES = {
         "Body Sports  名衍行銷運動頻道": "https://www.youtube.com/@bodysports9644/streams",		
         "日本B聯盟": "https://www.youtube.com/@b.leagueinternational/streams",
         "MotoGP": "https://www.youtube.com/@motogp/streams",
-        "The Savannah Bananas": "https://www.youtube.com/@TheSavannahBananas/streams",		
+        "The Savannah Bananas": "https://www.youtube.com/@TheSavannahBananas/streams",
+        "WCW": "https://www.youtube.com/@WCW/streams",		
         "WWE": "https://www.youtube.com/@WWE/streams",
 	"WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
