@@ -39,7 +39,8 @@ CATEGORIES = {
         "CNEWS匯流新聞網": "https://www.youtube.com/@CNEWS/streams",	
         "新唐人亞太電視台": "https://www.youtube.com/@NTDAPTV/streams",
         "八大民生新聞": "https://www.youtube.com/@gtvnews27/streams",		
-        "原視新聞網 TITV News": "https://www.youtube.com/@TITVNews16/streams",	
+        "原視新聞網 TITV News": "https://www.youtube.com/@TITVNews16/streams",
+        "飛碟聯播網": "https://www.youtube.com/@921ufonetwork/streams",		
         "三大一台": "https://www.youtube.com/@SDTV55ch/streams",	
         "中天財經頻道": "https://www.youtube.com/@中天財經頻道CtiFinance/streams",	
         "東森財經股市": "https://www.youtube.com/@57ETFN/streams",	
@@ -233,6 +234,7 @@ CATEGORIES = {
 	"水月琴音": "https://www.youtube.com/@Shuiyueqinyin/streams",	    
 	"Cherry 葵": "https://www.youtube.com/@Cherriexin/streams",			
 	"「KING AMUSEMENT CREATIVE」公式チャンネル": "https://www.youtube.com/@KAC_official/streams",
+	"FOR FUN RADIO TIME Music channel": "https://www.youtube.com/@FORFUNRADIOTIME-Relax/streams",		
 	"Mellowbeat Seeker": "https://www.youtube.com/@mellowbeatseeker/streams",
 	"The Good Life Radio x Sensual Musique": "https://www.youtube.com/@TheGoodLiferadio/streams",	
         "Best of Mix": "https://www.youtube.com/@bestofmixlive/streams",
@@ -265,6 +267,7 @@ CATEGORIES = {
         "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams",
         "萬事通事務所": "https://www.youtube.com/@sciencewillwin/streams",		
         "中天深喉嚨": "https://www.youtube.com/@ctitalkshow/streams",
+        "品觀點": "https://www.youtube.com/@pinviewmedia/streams",		
         "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"		
     },	
     "購物,#genre#": {
