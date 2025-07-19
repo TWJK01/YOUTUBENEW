@@ -1,6 +1,9 @@
 台灣,#genre#
 薇帕颱風監視,https://www.youtube.com/watch?v=AquyQrUGuU8
+<<<<<<< Updated upstream
 台灣地震監視(地震速報、強震即時警報),https://www.youtube.com/watch?v=KyT4qSK8lJo
+=======
+>>>>>>> Stashed changes
 台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널,https://www.youtube.com/watch?v=AGdxQWYSrI8
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널  | (生放送),https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -10,6 +13,7 @@
 公視新聞 PTS News  24小時線上直播 ｜PNN Taiwan News 24h Live｜台湾の最新ニュース24時間配信中｜대만 뉴스 라이브 스트리밍 #live #news,https://www.youtube.com/watch?v=quwqlazU-c8
 公視台語台網路直播 |  PTS Tai-gi Live,https://www.youtube.com/watch?v=6KlRR_DGhmI
 TaiwanPlus TV Livestream | News & Shows from Taiwan | 台湾のニュースと番組を24時間配信 | 대만채널뉴스 24/7시간 생방송,https://www.youtube.com/watch?v=XH5SyDW29ys
+<<<<<<< Updated upstream
 大愛二臺HD Live 全球直播  | 現正播映：好戲成雙_觀音對我笑 (15集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
 大愛一臺HD Live 全球直播 | 現正播映：大愛迷你劇場_老人老車老朋友 (11集),https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛二臺HD Live 臺灣直播  | 現正播映：好戲成雙_觀音對我笑 (15集),https://www.youtube.com/watch?v=OKvWtVoDR8I
@@ -38,6 +42,36 @@ iNEWS新聞LIVE│三立iNEWS 24小時 CH48新聞直播 ON AIR │SET iNEWS LIVE
 寰宇新聞台灣台 24小時直播｜TaiwanNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中  @globalnewstw,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송,https://www.youtube.com/watch?v=6IquAgfvYmc
 烏尋求中國推動停戰 稱習近平應與澤倫斯基會面｜川普腳踝腫脹引揣測 白宮：靜脈功能不全｜寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news,https://www.youtube.com/watch?v=Ej3LQM_lTEw
+=======
+大愛二臺HD Live 臺灣直播  | 現正播映：好戲成雙_觀音對我笑 (15集),https://www.youtube.com/watch?v=OKvWtVoDR8I
+大愛一臺HD Live 全球直播 | 現正播映：大愛迷你劇場_老人老車老朋友 (11集),https://www.youtube.com/watch?v=MIqUplvSRWA
+大愛二臺HD Live 全球直播  | 現正播映：好戲成雙_觀音對我笑 (15集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
+護國大遶境全程直播／護國勇腳組將完成368公里！　重返青島東與車隊會師立法院,https://www.youtube.com/watch?v=5FN6lgOh-lU
+護國大遶境全程直播／護國大遶境最後一哩路！　重返青島東與勇腳組會師立法院,https://www.youtube.com/watch?v=a9gaSiJ7gDg
+鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan News 24H Live｜台湾のニュース24時間オンライン放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
+🔴不斷更新Live／今薇帕最近台灣「進入南海強度再增」！外圍環流挾豐沛水氣 影響最劇｜停班課資訊｜最新風雨預測｜東森新聞,https://www.youtube.com/watch?v=uvxbNNZYoNw
+🔴【薇帕颱風即時資訊】東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=V1p33hqPrUk
+EBC 東森新聞 51 頻道 24小時線上直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=E0zhe2gkXBs
+iNEWS新聞LIVE│三立iNEWS 24小時 CH48新聞直播 ON AIR │SET iNEWS LIVE│SET iNEWS ニュースオンライン生放送,https://www.youtube.com/watch?v=pF507BLtbqU
+🔴海外直播 三立新聞 24小時LIVE │SET Live NEWS│SET LIVE ニュースオンライン放送│대만 채널SET뉴스 24시간 생방송 @setinews,https://www.youtube.com/watch?v=hGJkDZDchYI
+【#直播中LIVE】罷前黃金週 ！護國大遶境「大安文山」集結出發,https://www.youtube.com/watch?v=RvocMen1I8M
+【1355直播】藍委"自扣紅帽子"化身歡樂催票機? 823罷免要再開戰! 5藍委進第三階段 傅崐萁造勢現場遭直擊"空洞+冷清"?│周楷 王時齊 主持│【54陪審團 完整版】2025719│三立新聞台,https://www.youtube.com/watch?v=HkAhgDms0t8
+🔴不斷電直播｜三立新聞 24小時LIVE｜即時消息看 三立+SET+｜ 24hrs LIVE news│台湾 SET+ 24hrs ニュースオンライン放送│대만 채널 SET+ 뉴스 생방송,https://www.youtube.com/watch?v=MV9mI0GChwo
+【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv,https://www.youtube.com/watch?v=vr3XyVCR4T0
+【挺中華民國萬萬歲 我+1】主播攝影棚「楚門秀」會員專屬視角 @中天電視CtiTv,https://www.youtube.com/watch?v=rxTa74NlgWk
+【中天直播#LIVE】反惡罷戰獨裁花蓮場 韓國瑜站台力挺傅崐萁 20250719 @中天電視CtiTv,https://www.youtube.com/watch?v=zQ5SRkZIv7A
+【中天直播#LIVE】中職明星賽大巨蛋登場 球迷搶拍明星球員.啦啦隊 20250719 @中天新聞CtiNews,https://www.youtube.com/watch?v=mSOs50GaUpU
+【中天直播#LIVE】地震即時監測最速報 台.日鏡頭君總動員 各地最前線全面直擊 @中天電視CtiTv,https://www.youtube.com/watch?v=j9oO1QLzhK8
+【中天直播#LIVE】薇帕變強轉胖 大豪雨強灌花東 恆春風雨第一線直擊 不斷更新 20250719@中天新聞CtiNews,https://www.youtube.com/watch?v=hV_AGz7EnzA
+【中天直播#LIVE】盧秀燕反罷行程滿檔! 桃園陪同牛煦庭.萬美玲全力衝刺20250719@中天新聞CtiNews,https://www.youtube.com/watch?v=3dnyjEl7tVo
+【LIVE】宋晟睿.林子偉.張育成 中職明星賽球星簽名會,https://www.youtube.com/watch?v=kQInbVW8abI
+🔴【LIVE】颱風薇帕外圍環流掃！各地風雨直擊｜Typhoon Danas Taiwan,https://www.youtube.com/watch?v=2WlnQNxfWWo
+🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Taiwan News 24hr 台湾世界中のニュースを24時間配信中 대만24시간뉴스채널 55台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송,https://www.youtube.com/watch?v=2mCSYvcfhtc
+烏尋求中國推動停戰 稱習近平應與澤倫斯基會面｜川普腳踝腫脹引揣測 白宮：靜脈功能不全｜寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news,https://www.youtube.com/watch?v=Ej3LQM_lTEw
+寰宇新聞台灣台 24小時直播｜TaiwanNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中  @globalnewstw,https://www.youtube.com/watch?v=w87VGpgd90U
+寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송,https://www.youtube.com/watch?v=6IquAgfvYmc
+>>>>>>> Stashed changes
 新唐人LIVE 24小時直播 @新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=hR8_rrE0VyY
 「三大有線電視公司-三大一台」直播,https://www.youtube.com/watch?v=m738dQVCbSs
 EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 EBC 金融ニュース｜대만 뉴스 생방송,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -48,10 +82,17 @@ EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 
 【@投資看非凡  】非凡財經節目新聞24小時直播｜台股盤中即時分析｜股市現場｜全球財經世界報導 @ustv,https://www.youtube.com/watch?v=xLqt2p6Dowo
 「運通財經台」直播,https://www.youtube.com/watch?v=CoRC4A9hJuM
 SBN全球財經台,https://www.youtube.com/watch?v=9m8uWuhY-Ls
+<<<<<<< Updated upstream
 AI主播Niki 倪珍24小時氣象直播 Weather non-stop,https://www.youtube.com/watch?v=Tf3mktyg6bU
 NOWnews新聞AI主播倪珍Niki 24小時直播｜ AI News Anchor Taiwan News Streaming/台湾のニュースHD24時間配信中(生放送)｜대만24시간뉴스채널|,https://www.youtube.com/watch?v=YBgQRpZqeug
 AI Anchor Ni Zhen(Niki)  24-Hour Non-Stop Taiwan News Live/NOWnews/Global News,https://www.youtube.com/watch?v=HSImh9Pz_44
 Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=2qyeDWUQhrA
+=======
+NOWnews新聞AI主播倪珍Niki 24小時直播｜ AI News Anchor Taiwan News Streaming/台湾のニュースHD24時間配信中(生放送)｜대만24시간뉴스채널|,https://www.youtube.com/watch?v=YBgQRpZqeug
+Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=2qyeDWUQhrA
+AI主播Niki 倪珍24小時氣象直播 Weather non-stop,https://www.youtube.com/watch?v=Tf3mktyg6bU
+AI Anchor Ni Zhen(Niki)  24-Hour Non-Stop Taiwan News Live/NOWnews/Global News,https://www.youtube.com/watch?v=HSImh9Pz_44
+>>>>>>> Stashed changes
 24小時直播｜哈馬斯：若停火談判未達協議 或不再同意臨時停火｜俄軍在邊境建分層防禦體系 預警式打擊烏軍部署點｜菲律賓總統下周將訪問美國 聚焦關稅與防務合作 #BreakingNews #大事發生看鳳凰,https://www.youtube.com/watch?v=BLaQVW5oUGU
 【鳳凰資訊 #24小時直播 】美洛杉磯一警局訓練場爆炸 至少3人死亡｜中國市場監管總局要求外賣平台理性競爭｜俄國防部：一周內5次集群打擊烏軍事目標｜ #鳳凰資訊 #大事發生看鳳凰,https://www.youtube.com/watch?v=LNux6O0Fj6A
 【正在直播：CCTV中文国际（美洲）】全球新闻热点、时事点评、深度报道、纪录片、电视剧等 | LIVE NOW,https://www.youtube.com/watch?v=VNYI_V0D60Y
@@ -63,12 +104,18 @@ Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằ
 【LIVE】《大陸尋奇》跨越五千年的歷史遺跡📸尋遍大陸各地奇風異俗、人文軼事🌏｜24小時不斷電直播｜Wonders of China 24 Hours Live,https://www.youtube.com/watch?v=cOEt7MN95qo
 【LIVE】《萬秀豬王》24小時直播馬拉松不間斷 |TaiwanCTV variety show HD24h live|台湾CTVバラエティ番組 HD24h ライブ@ctvent_classic​,https://www.youtube.com/watch?v=ADDSmXoPDY8
 【#超級冰冰Show】24H馬拉松直播🎤大咖雲集 金曲不斷！,https://www.youtube.com/watch?v=3bAc9rGxNPg
+<<<<<<< Updated upstream
 《天才衝衝衝完整集數#526 -#538》  24H不間斷 馬拉松直播｜24hrs Non-Stop｜曾國城 徐乃麟 張文綺 徐凱希 #live,https://www.youtube.com/watch?v=QUcOMgw4srY
 《現代嘉慶君EP1-EP60》 24H不間斷 馬拉松直播｜24hrs Non-Stop｜豬哥亮、陳亞蘭、呂雪鳳,https://www.youtube.com/watch?v=E-SNFemPCrQ
+=======
+《現代嘉慶君EP1-EP60》 24H不間斷 馬拉松直播｜24hrs Non-Stop｜豬哥亮、陳亞蘭、呂雪鳳,https://www.youtube.com/watch?v=E-SNFemPCrQ
+《天才衝衝衝完整集數#526 -#538》  24H不間斷 馬拉松直播｜24hrs Non-Stop｜曾國城 徐乃麟 張文綺 徐凱希 #live,https://www.youtube.com/watch?v=QUcOMgw4srY
+>>>>>>> Stashed changes
 🔴綜藝大熱門猜歌王直播！不間斷猜不停讓你第一集看到最新集數！｜24H不間斷直播｜24 hours Non-Stop｜吳宗憲 LULU 陳漢典｜Hot Door Night｜ホットドアナイト・生配信,https://www.youtube.com/watch?v=GqMU4MgkvVc
 🔴【綜藝玩很大】憲哥 KID 坤達 小鬼 把不可能變可能！讓我們找出那無法被超越的感動！｜ 24小時不間斷直播 Mr.Player 24 Hours Live｜ミスター・プレイヤー｜미스터 플레이어,https://www.youtube.com/watch?v=wd-sSbL-cmA
 🔴啦啦隊私下超鬧爆料 《11點熱吵店》24H直播｜Cheerleaders live 24 hours a day｜チアリーダーは24時間ライブ｜치어리더는 하루 24시간 생활합니다,https://www.youtube.com/watch?v=anU0Ys7ENPE
 🔴《11點熱吵店》猛鬼系列來了~24小時不間斷直播｜Ghost Story Series 24-Hour Non-Stop Live｜お化けシリーズ24時間ライブ配信｜귀신 시리즈가 왔어요｜,https://www.youtube.com/watch?v=DlFSCn2IMsQ
+<<<<<<< Updated upstream
 【LIVE】🤹‍♂️🤹‍♂️《飢餓遊戲》一次播到飽 孫協志 王仁甫 許孟哲 蔡黃汝 峮峮🤹‍♂️🤹‍♂️｜24小時不斷電直播｜ Hunger Games 24 Hours Live｜,https://www.youtube.com/watch?v=lpunQRv0QvY
 【LIVE】《飢餓遊戲》點閱人氣榜｜孫協志 王仁甫 許孟哲 蔡黃汝 峮峮｜完整版馬拉松直播｜ Hunger Games 24 Hours Live｜,https://www.youtube.com/watch?v=UJgN7q6jpns
 豬哥會社 Chu Ke-Liang's Return 24H馬拉松不間斷直播[客服網址：discord.gg/DNuE7AZ],https://www.youtube.com/watch?v=v8MUGB4vst8
@@ -76,12 +123,22 @@ Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằ
 【非凡大探索】台中美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
 【非凡大探索】台北美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=useqCtn6ngE
 【非凡大探索】高雄美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
+=======
+【LIVE】《飢餓遊戲》點閱人氣榜｜孫協志 王仁甫 許孟哲 蔡黃汝 峮峮｜完整版馬拉松直播｜ Hunger Games 24 Hours Live｜,https://www.youtube.com/watch?v=UJgN7q6jpns
+【LIVE】🤹‍♂️🤹‍♂️《飢餓遊戲》一次播到飽 孫協志 王仁甫 許孟哲 蔡黃汝 峮峮🤹‍♂️🤹‍♂️｜24小時不斷電直播｜ Hunger Games 24 Hours Live｜,https://www.youtube.com/watch?v=lpunQRv0QvY
+豬哥會社 Chu Ke-Liang's Return 24H馬拉松不間斷直播[客服網址：discord.gg/DNuE7AZ],https://www.youtube.com/watch?v=v8MUGB4vst8
+【怪奇聊天室】57怪奇物語頻道24小時線上直播｜Taiwan StrangerThings 24h live program｜精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
+【非凡大探索】高雄美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
+【非凡大探索】台中美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
+【非凡大探索】台北美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=useqCtn6ngE
+>>>>>>> Stashed changes
 《掌声响起》24小时不间断 马拉松直播｜BIF相信未来,https://www.youtube.com/watch?v=EVATvtQHjyg
 【中天直播#LIVE】地震即時監測最速報 台.日鏡頭君總動員 各地最前線全面直擊 @靈異錯別字ctiwugei,https://www.youtube.com/watch?v=SN1WJXHVcbw
 【24小时直击节目现场】华山论鉴节目现场#华山论鉴 #鉴宝现场 #陕西广播电视台官方频道  #白海波  #范海洋 #田甜,https://www.youtube.com/watch?v=Bz6EZtqDmRo
 
 影劇,#genre#
 懷舊系列又來啦！跟著戲說台灣一起回味童年！｜戲說台灣｜24小時不間斷直播｜24 hours Non-Stop,https://www.youtube.com/watch?v=Y_f8oxWZYE4
+<<<<<<< Updated upstream
 🔴1984年  經典歌仔戲 《風流才子唐伯虎》  #楊麗花  #許秀年 #青蓉 #柯玉枝 #張文彬 #洪秀美 #吳梅芳 #許仙姬 #翠娥  #小鳳仙  #紀麗如  #潘麗溱  #陳麗真,https://www.youtube.com/watch?v=73rs0t0ebmA
 🔴《神機妙算劉伯溫》全集馬拉松！再現神威！| TTV Time Machine (Live Streaming),https://www.youtube.com/watch?v=TQcZw-CNHUE
 🔴#蛇年🐍🐍🐍 一起來看 【#新白娘子傳奇】🐍🐍🐍 #趙雅芝、#葉童、#陳美琪,https://www.youtube.com/watch?v=MEdYt10b2mc
@@ -109,6 +166,35 @@ Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằ
 【世間情】毒婦郭佳佳的愛恨情仇 比潘茵茵更瘋的角色 世間男女 情關難過 八點檔影后們集結了｜24HR LIVE直播(EP1-437),https://www.youtube.com/watch?v=fm34FUP_7-E
 綠光森林 Green Forest My Home 20周年限定播映！我們的青春 #蘇菲 也找到屬於自己的幸福｜24hrs Non-Stop｜阮經天 劉品言 立威廉 宋智愛｜三立華劇,https://www.youtube.com/watch?v=so7o2RkIQZE
 敗犬女王 Queen of No Marriage 15周年限定播映！誰說單身就是敗犬 #單無雙 在我心中妳是女王｜24hrs Non-Stop｜楊謹華 阮經天 温昇豪 張懷秋｜三立華劇,https://www.youtube.com/watch?v=QGwgpcOGkSc
+=======
+🔴《神機妙算劉伯溫》全集馬拉松！再現神威！| TTV Time Machine (Live Streaming),https://www.youtube.com/watch?v=TQcZw-CNHUE
+🔴1980年 經典歌仔戲 《薛平貴》 #楊麗花 #許秀年 #郭美珠 #司馬玉嬌 #青蓉 #高玉珊 #李如鄰 #小鳳仙 #陳聰明 #洪秀美 #石文戶 #吳梅芳 #王琦 #陸一蟬,https://www.youtube.com/watch?v=3ej73RGIBFw
+🔴#蛇年🐍🐍🐍 一起來看 【#新白娘子傳奇】🐍🐍🐍 #趙雅芝、#葉童、#陳美琪,https://www.youtube.com/watch?v=MEdYt10b2mc
+🔴挑戰你的極限！精彩類戲劇一次看個夠！【#玫瑰瞳鈴眼】【#紫色蔓陀蘿】【#蝴蝶密碼】【#台灣真女人】#台灣風雲【#藍色蜘蛛網】| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=_yvqESSzr6w
+🔴回味經典歌仔戲 《梁山伯與祝英台》#楊麗花 #許秀年 #黃香蓮 #青蓉  #小鳳仙  #柯玉枝 #吳梅芳 #洪秀玉 #潘麗麗 #張文彬 #林麗安,https://www.youtube.com/watch?v=yjAEc_gPj4Q
+🔴1984年  經典歌仔戲 《風流才子唐伯虎》  #楊麗花  #許秀年 #青蓉 #柯玉枝 #張文彬 #洪秀美 #吳梅芳 #許仙姬 #翠娥  #小鳳仙  #紀麗如  #潘麗溱  #陳麗真,https://www.youtube.com/watch?v=73rs0t0ebmA
+🔴【過年檔期來啦！】現在開始看光陰的故事，就會在除夕夜跟陳怡蓉、賴雅妍一起吃年夜飯🧨CTV 中視戲劇｜24小時不斷電直播｜ Ctvdrama Classic 24 Hours Live｜,https://www.youtube.com/watch?v=jkF7cseHZ5s
+【包青天 LIVE】全劇24小時不斷電 一起跟包公辦案!!,https://www.youtube.com/watch?v=RHMz_BSYVrw
+【台灣靈異事件 LIVE】24 小時不斷電 一起追劇來辦案,https://www.youtube.com/watch?v=Nnpig_Lis9w
+#台灣奇案‧民視戲劇馬拉松,https://www.youtube.com/watch?v=vR19P3As6_g
+#新兵日記 & #特戰英雄 Rookies' Diary  高清修復版‧民視戲劇馬拉松,https://www.youtube.com/watch?v=032kEdR9Lic
+#新玫瑰瞳鈴眼‧民視戲劇馬拉松,https://www.youtube.com/watch?v=qJMFuMRLee4
+#藍色水玲瓏‧民視戲劇馬拉松,https://www.youtube.com/watch?v=rTcTVZBZtYs
+#廉政英雄 Justice Heroes‧民視戲劇馬拉松,https://www.youtube.com/watch?v=TXKWbIPgD_8
+#我的老師叫小賀‧民視戲劇馬拉松,https://www.youtube.com/watch?v=6CQZxYpW9q4
+2025/7/19(六)12:30 台中向上 vs 大神岡社區  | U15晉級賽 | 114年全國社區學生棒球大賽  |  四季線上,https://www.youtube.com/watch?v=3zXqjlYEd4M
+經典長壽劇【親戚不計較】24H不斷電鬥嘴鼓馬拉松LIVE | 卓勝利 李王羅 潘麗麗 沛小嵐 | 四季線上,https://www.youtube.com/watch?v=GjXBXz5dl6E
+【意難忘】 24H忘不了馬拉松LIVE | 經典劇 | 王識賢 李興文 李李仁 張鳳書 韓瑜  | 四季線上,https://www.youtube.com/watch?v=sdtaF2gH9gc
+【真命天子】 24H傳奇馬拉松LIVE | 朱元璋 趙匡胤傳奇| 王耿豪 林佑星  | 四季線上,https://www.youtube.com/watch?v=UOtzp3STNeE
+【世間情】毒婦郭佳佳的愛恨情仇 比潘茵茵更瘋的角色 世間男女 情關難過 八點檔影后們集結了｜24HR LIVE直播(EP1-437),https://www.youtube.com/watch?v=fm34FUP_7-E
+【犀利人妻】24HR不間斷直播 不被愛的才是第三者！可是瑞凡，我回不去了🍛｜三立電視,https://www.youtube.com/watch?v=3gbydOFPAZ8
+【天之驕女】洗嘞哈囉～連體嬰姊妹墜入愛河 她們該如何談戀愛呢？ 409集不間斷直播中！｜三立電視,https://www.youtube.com/watch?v=trIjP-1aFns
+【阿爸的願望】漁村阿爸苦撐一生只為孩子活得好！如今只想完成一個願望｜台灣好戲 24HR不間斷直播｜三立電視｜廖峻 應采靈 黃文星 吳申梅,https://www.youtube.com/watch?v=noBiKwKWnsI
+【台灣龍捲風】甘～安～捏～高清版本24小時不間斷直播 台灣吵架第一品牌出爐 懷念金句挖○哩企系｜三立電視 (EP1-320),https://www.youtube.com/watch?v=jih_rNsWXZ4
+【台灣霹靂火】重拾番仔火的記憶🔥 劉文聰不喜歡輸的感覺！苗可麗快嘴重現「公車萍」經典對罵 陳昭榮 張鳳書創最高八點檔收視｜24小時不間斷直播｜三立電視 (EP1-320),https://www.youtube.com/watch?v=0EgZW36EUZw
+敗犬女王 Queen of No Marriage 15周年限定播映！誰說單身就是敗犬 #單無雙 在我心中妳是女王｜24hrs Non-Stop｜楊謹華 阮經天 温昇豪 張懷秋｜三立華劇,https://www.youtube.com/watch?v=QGwgpcOGkSc
+綠光森林 Green Forest My Home 20周年限定播映！我們的青春 #蘇菲 也找到屬於自己的幸福｜24hrs Non-Stop｜阮經天 劉品言 立威廉 宋智愛｜三立華劇,https://www.youtube.com/watch?v=so7o2RkIQZE
+>>>>>>> Stashed changes
 《終極三部曲》24HR馬拉松直播🔥Party time!! 24 hours non-stop🔥 @KOONERETURN,https://www.youtube.com/watch?v=HKDuzWlyGts
 🔴【16個夏天】 開播囉！24HR直播不斷電｜《The Way We Were》24-Hour Non-Stop Live｜24時間ノンストップライブ配信,https://www.youtube.com/watch?v=qruBQcct7KI
 🔴《女兵日記》第二季 24小時不間斷馬拉松直播｜24-Hour Non-Stop Live｜24時間ドラマノンストップマラソンライブ配信｜劉香慈、陳謙文、羅平、楊晴、小嫻｜TVBS精彩戲劇,https://www.youtube.com/watch?v=stsCN0PXAro
@@ -121,6 +207,7 @@ Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằ
 【#甄嬛传 24小时LIVE】滴血验亲名场面丨中英双语 #孙俪 #陈建斌 #唐艺昕 #蔡少芬 #蒋欣 #中国电视剧 #engsub,https://www.youtube.com/watch?v=jEj0FNMNHb0
 《悬崖》24h直播 张嘉益、宋佳假扮夫妻潜伏哈尔滨,https://www.youtube.com/watch?v=oVKcvHvNE4k
 华语最经典的宫斗剧，堪比《甄嬛传》，《孝庄秘史》24h不间断直播,https://www.youtube.com/watch?v=VSCGyrulGAc
+<<<<<<< Updated upstream
 24h 马拉松直播🏃‍♀️【潜伏 全集】高清不卡｜孙红雷和姚晨假扮夫妻，演绎一曲险象环生的谍战情缘 ｜百纳独播剧场,https://www.youtube.com/watch?v=8W3zj7oaQ4I
 24h 马拉松直播🏃‍♀️【黎明之前 全集】高清不卡｜天花板国产谍战剧，全程高能美剧节奏，悬念重重，一起重温吴秀波成名之作（沉浸式体验）｜百纳独播剧场,https://www.youtube.com/watch?v=nbzM1QIBbL4
 24H LIVE独播【神断狄仁杰·悬疑直播】高清无静音版｜经典古装悬疑高分神剧，原汁原味的大唐神探传奇，梁冠华×张子健×钱雁秋 黄金三角重聚！熟悉的配方，不可复制的经典！狄仁杰智破奇案，新增恋爱线！,https://www.youtube.com/watch?v=VMS21oerUZA
@@ -129,6 +216,16 @@ Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằ
 24h马拉松直播🏃‍♂️【ENG SUB】《康熙王朝Kangxi Dynasty》千古一帝💥康熙帝的传奇一生【CCTV电视剧直播】,https://www.youtube.com/watch?v=4a76KPurdeg
 【Eng Sub】大圣归来 经典再现！86版《西游记》直播 带你感受原版魅力！🔥《西游记Journey to the West 》【全40集】【CCTV电视剧直播】,https://www.youtube.com/watch?v=vwk5tZu4zYM
 24h马拉松直播🏃‍♂️【中英双语全集🔥】《武林外传My Own Swordsman》另类喜剧 戏说江湖 【CCTV电视剧直播】,https://www.youtube.com/watch?v=zZiEPe4zzIg
+=======
+24H LIVE独播【神断狄仁杰·悬疑直播】高清无静音版｜经典古装悬疑高分神剧，原汁原味的大唐神探传奇，梁冠华×张子健×钱雁秋 黄金三角重聚！熟悉的配方，不可复制的经典！狄仁杰智破奇案，新增恋爱线！,https://www.youtube.com/watch?v=VMS21oerUZA
+24h 马拉松直播🏃‍♀️【黎明之前 全集】高清不卡｜天花板国产谍战剧，全程高能美剧节奏，悬念重重，一起重温吴秀波成名之作（沉浸式体验）｜百纳独播剧场,https://www.youtube.com/watch?v=nbzM1QIBbL4
+24h 马拉松直播🏃‍♀️【潜伏 全集】高清不卡｜孙红雷和姚晨假扮夫妻，演绎一曲险象环生的谍战情缘 ｜百纳独播剧场,https://www.youtube.com/watch?v=8W3zj7oaQ4I
+周末必看高分音综！陈立农“追星”薛之谦成功 单依纯方文山合作中国风 | 音乐缘计划 LIVE | Melody Journey | iQIYI慢综艺,https://www.youtube.com/watch?v=up97Ogy1zBM
+【爆梗一“夏”】用脱口秀重生！房主任“出走的决心”看哭全场😭嘻哈吐槽空姐穿丝袜太荒谬 | 喜剧之王单口季 2 | The King of Stand-up Comedy 2 | iQIYI爆笑宇宙,https://www.youtube.com/watch?v=w4JGxS5ULxY
+24h马拉松直播🏃‍♂️【中英双语全集🔥】《武林外传My Own Swordsman》另类喜剧 戏说江湖 【CCTV电视剧直播】,https://www.youtube.com/watch?v=zZiEPe4zzIg
+24h马拉松直播🏃‍♂️【ENG SUB】《康熙王朝Kangxi Dynasty》千古一帝💥康熙帝的传奇一生【CCTV电视剧直播】,https://www.youtube.com/watch?v=4a76KPurdeg
+【Eng Sub】大圣归来 经典再现！86版《西游记》直播 带你感受原版魅力！🔥《西游记Journey to the West 》【全40集】【CCTV电视剧直播】,https://www.youtube.com/watch?v=vwk5tZu4zYM
+>>>>>>> Stashed changes
 【男人帮经典重映🎬】《极限挑战1-4》TOP10名场面！豆瓣评分平均9.6！这才是国内综艺天花板！#孙红雷 #黄渤 #张艺兴 #罗志祥 #黄磊 #王迅,https://www.youtube.com/watch?v=7X7JxMfecYU
 【24小时 LIVE直播】憨豆先生惊喜现身，郭德纲太坏了欺负他不懂中文，张小斐现场表白郭麒麟！#欢乐喜剧人第三季 FULL,https://www.youtube.com/watch?v=A-kSierAs3w
 【24小时 LIVE直播】肖战——让人听到心动的歌曲神级舞台纯享，哪首最令你着迷？,https://www.youtube.com/watch?v=VLsA1u-qvQA
@@ -157,6 +254,7 @@ Talking Tom Shorts 直播 🔴 第 1 & 2 季超大合集 🐱 快乐不停歇,ht
 🔴LIVE 🐘 叢林探險開始啦！貝樂虎動物兒歌直播🎶  | 幼兒音樂 | 童謠串燒 | 兩只老虎&拔蘿蔔 | Kids Song | 貝樂虎 BarryTiger,https://www.youtube.com/watch?v=SSi8ga0TE4U
 🔴LIVE  貝樂虎醫生出動！|  職業認知 | 卡通動畫 | 兒童游戲｜🔥最新最火幼兒早教視頻🔥,https://www.youtube.com/watch?v=4Ir1-e3iXbU
 小猪佩奇 🔴 最新视频 | 粉红猪小妹 直播 | Peppa Pig | 动画,https://www.youtube.com/watch?v=AAunz8Yzuqw
+<<<<<<< Updated upstream
 🎶 Giligilis Learning Songs – Sing and Explore ABCs Shapes Colors & Numbers in Daily Smart Playtime,https://www.youtube.com/watch?v=P-cw5PkNRiI
 ✏️ Let's Learn at School! | Giligilis Teach ABC Numbers & Colors in a Happy School Day Song! 🏫🌈,https://www.youtube.com/watch?v=-9L5-UH-LG0
 🎵 Green Pepper Party with Giligilis - A Joyful Song About Colors Vegetables & Learning for Toddlers,https://www.youtube.com/watch?v=_MJ0J3WQeFk
@@ -179,6 +277,30 @@ Live! | 神奇鸡仔 - 兒歌童謠 - 卡通動畫,https://www.youtube.com/watch
 🔴JunyTony LIVE🔴 🌈尝尝彩虹色零食 | 五颜六色的零食 | 颜色儿歌 | 美食儿歌 | 史莱姆果冻 | 蜂蜜软糖 | Kids Song | 兒歌童謠 | JunyTony,https://www.youtube.com/watch?v=Yd15VyYuR34
 🔴JunyTony LIVE🔴 我的心情小怪物 | 不一样的心情 | 好习惯儿歌 | 朱妮托尼儿歌 | Kids Song in Chinese | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=59SYJHzv1tE
 🔴JunyTony LIVE🔴 吃便便的兔子 | 臭烘烘的动物公寓 | 小兔子乖乖 | 朱妮托尼儿歌 | Kids Song in Chinese | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=pWd7YtRZpdg
+=======
+🥥 Coconut Song Fiesta! Giligilis Play Music Dance & Sing with Tropical Fruits and Happy Tunes 🎶🎉,https://www.youtube.com/watch?v=ybntYv4ctXM
+Explore the Fun Alphabet in a Colorful Classroom – The Learning Journey of the Adorable Letters,https://www.youtube.com/watch?v=9gvfD_L9FSI
+🍌 Yummy Yummy Banana! | Giligilis’ Best Fruit & Veggie Songs with ABC Learning for Little Learners,https://www.youtube.com/watch?v=z7iS9SE7Xes
+🎶 Giligilis Learning Songs – Sing and Explore ABCs Shapes Colors & Numbers in Daily Smart Playtime,https://www.youtube.com/watch?v=P-cw5PkNRiI
+Giligilis' Greatest Collection About Yummy Fruits and Vegetables | More and More Harmonious Melodies,https://www.youtube.com/watch?v=IIWgW9ww4uE
+🍅 Let’s Sing with Tomatoes! Learn Numbers Words & Sounds with Giligilis’ Fiesta Adventure 🎶🎩,https://www.youtube.com/watch?v=U7xj61Ec4V4
+🍓 Yummy Fruits & Veggies Show! | Giligilis Groove with Peachy Songs That Make Learning Delicious!,https://www.youtube.com/watch?v=Ef_4c0-vNQY
+🎵 Green Pepper Party with Giligilis - A Joyful Song About Colors Vegetables & Learning for Toddlers,https://www.youtube.com/watch?v=_MJ0J3WQeFk
+🍓 Giligilis’ ABC & Fruit Party 🎶 Sing Learn Letters & Explore Tasty Fruits Together with Fun Songs!,https://www.youtube.com/watch?v=E61jEDQKisg
+🎵 Colorful ABC & Phonics Songs | Giligilis Make Learning Letters Easy for Toddlers & Preschool Kids,https://www.youtube.com/watch?v=HciU1nUpvNY
+✏️ Let's Learn at School! | Giligilis Teach ABC Numbers & Colors in a Happy School Day Song! 🏫🌈,https://www.youtube.com/watch?v=-9L5-UH-LG0
+Giligilis Teach ABCs & 123s🎶 Explore the Alphabet & Numbers with Cute Animal Friends and Happy Songs,https://www.youtube.com/watch?v=8yJIUr0TuXo
+🎶 Five Colorful Giligili Birds | Learn Counting & Colors with Baby Songs & Fun Educational Cartoons,https://www.youtube.com/watch?v=K6nRE-OMNck
+🍒 Giligilis’ Cherry Fiesta – Dance Sing and Celebrate with Guitars Sombreros & Juicy Latin Beats!,https://www.youtube.com/watch?v=qvjMTh_-iK4
+Join Giligilis to Learn ABC and 123 – A Colorful Happy World Full of Smiles and Knowledge!,https://www.youtube.com/watch?v=Ww4shxgz4v4
+Yummy Yummy Mango | Giligilis' Greatest Collection About Fruits and Vegetables | Best Melodies,https://www.youtube.com/watch?v=cFHHTE6dyUA
+🍎 A is for Apple P is for Papaya! | Giligilis ABC & Fruit Songs for Kids to Learn Sing & Explore,https://www.youtube.com/watch?v=ddyFzyOgLi0
+【LIVE】💥 超級汽車第三季全集 💫 開啟救援大冒險！| 24小時輪播 | 汽車兒歌 | 交通工具認知 | 汽車動畫片 | Kids Song | Super Car | 超級汽車,https://www.youtube.com/watch?v=r2MzsHQ01uc
+Live! | 神奇鸡仔 - 兒歌童謠 - 卡通動畫,https://www.youtube.com/watch?v=Xbj48TTmX40
+🔴JunyTony LIVE🔴 🌈尝尝彩虹色零食 | 五颜六色的零食 | 颜色儿歌 | 美食儿歌 | 史莱姆果冻 | 蜂蜜软糖 | Kids Song | 兒歌童謠 | JunyTony,https://www.youtube.com/watch?v=Yd15VyYuR34
+🔴JunyTony LIVE🔴 吃便便的兔子 | 臭烘烘的动物公寓 | 小兔子乖乖 | 朱妮托尼儿歌 | Kids Song in Chinese | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=pWd7YtRZpdg
+🔴JunyTony LIVE🔴 我的心情小怪物 | 不一样的心情 | 好习惯儿歌 | 朱妮托尼儿歌 | Kids Song in Chinese | 朱妮托尼童話故事 | JunyTony,https://www.youtube.com/watch?v=59SYJHzv1tE
+>>>>>>> Stashed changes
 🔴JunyTony LIVE🔴 放屁家族 | 朱妮托尼人气儿歌 | Kids Song in Chinese | 兒歌童謠 | 卡通動畫 | 朱妮托尼儿歌 | JunyTony,https://www.youtube.com/watch?v=ZoIYMr4wShQ
 《獵人 HUNTER×HUNTER 劇場版 緋色幻影+最終任務》馬拉松直播🔥｜獵人x貪婪之島主題路跑🏃活動詳情請見資訊欄🔍｜Muse木棉花,https://www.youtube.com/watch?v=z6BeI8KPz7s
 《蠟筆小新TV版》🖍️馬拉松直播 ｜🖍️每週一至五 17:00~19:20 直播休息，一起在台視看小新｜Muse木棉花,https://www.youtube.com/watch?v=N6lNLi8AKI4
@@ -189,22 +311,33 @@ Live! | 神奇鸡仔 - 兒歌童謠 - 卡通動畫,https://www.youtube.com/watch
 
 體育,#genre#
 【宇宙啦啦隊】7/19 台北場海選 | LIVE,https://www.youtube.com/watch?v=ILv0S-sHsk4
+<<<<<<< Updated upstream
 【2025台中銀行亞洲沙灘排球公開賽-屏東站】7/19(六)Day3 l 13:30 l LIVE,https://www.youtube.com/watch?v=K-VKYWDqmA0
 【2025威廉瓊斯盃】7/19 男子組 | #澳洲 VS #馬來西亞 | #AUS VS #MAS | LIVE,https://www.youtube.com/watch?v=yIMARb54Df4
+=======
+【2025威廉瓊斯盃】7/19 男子組 | #澳洲 VS #馬來西亞 | #AUS VS #MAS | LIVE,https://www.youtube.com/watch?v=yIMARb54Df4
+【2025台中銀行亞洲沙灘排球公開賽-屏東站】7/19(六)Day3 l 13:30 l LIVE,https://www.youtube.com/watch?v=K-VKYWDqmA0
+>>>>>>> Stashed changes
 7/19 (六) 13:21｜女子4強｜2025亞洲沙灘排球公開賽屏東站,https://www.youtube.com/watch?v=CUYCetdwBTs
 7/19(六)  14:00｜台中向上 VS. 大神岡社區｜114年全國社區學生棒球大賽U15｜萬壽棒球場｜★中17,https://www.youtube.com/watch?v=6fTYG4fAjyU
 20250719 || 114年全國社區棒球大賽 || U15 晉級賽 || 中16 || 台中向上 vs 大神岡社區 ||台中萬壽棒球場 ||,https://www.youtube.com/watch?v=RxgOkuYCNVQ
 07/19(六) 13:30 LIVE ｜2025台中銀行亞洲沙灘排球公開賽 - 屏東站｜Day 3,https://www.youtube.com/watch?v=SdxY7mMp1Fk
 2025第十八屆勝求盃全國少棒邀請賽丨閉幕/頒獎典禮,https://www.youtube.com/watch?v=GaOfdsqxMBs
 2025台灣女子棒球聯賽丨Game 8丨臺南漁光 vs 向日葵,https://www.youtube.com/watch?v=UhcfeuJA6Ew
+<<<<<<< Updated upstream
 07/19(六) 13:21 LIVE ｜2025台中銀行亞洲沙灘排球公開賽 - 屏東站｜Day 3,https://www.youtube.com/watch?v=8nlt4xPndAk
 🔴 ᴴᴰ HOP Sports 24 小時｜Taiwan HOP Sports 24h Marathon Talk｜台湾 HOP スポーツ 24 時間｜대만 스포츠 채팅 @HOPSports,https://www.youtube.com/watch?v=JaGd4Yy_xjA
+=======
+🔴 ᴴᴰ HOP Sports 24 小時｜Taiwan HOP Sports 24h Marathon Talk｜台湾 HOP スポーツ 24 時間｜대만 스포츠 채팅 @HOPSports,https://www.youtube.com/watch?v=JaGd4Yy_xjA
+07/19(六) 13:21 LIVE ｜2025台中銀行亞洲沙灘排球公開賽 - 屏東站｜Day 3,https://www.youtube.com/watch?v=8nlt4xPndAk
+>>>>>>> Stashed changes
 【2025台灣女子棒球聯賽】LIVE》7/19(六)14:00｜G8 臺南漁光 V.S 向日葵｜,https://www.youtube.com/watch?v=BmNafApP83w
 20250719 數媒盃 14:00 統一數網-黑武士 VS 信創廣告-頑皮豹,https://www.youtube.com/watch?v=t86Dt7T_JYc
 Best of Dominik Mysterio: Full Match Marathon,https://www.youtube.com/watch?v=EjTZ_yJFU4w
 
 音樂,#genre#
 🔴 LIVE! 廣東熱播歌24小時 Radio 無間斷直播 | Cantopop Hits non-stop Radio Livestream (持續更新),https://www.youtube.com/watch?v=jvA5rGcxO20
+<<<<<<< Updated upstream
 🔥🎵 #KJJadiDJ 🎧 Layan Strim Hot FM Stesen Radio No. 1 Di Malaysia! 🔥🔥🔥,https://www.youtube.com/watch?v=augOnkJkrHY
 2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以說好不會分手演员我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=u_hGvcGZua4
 2025不能不聽的100首歌 | 2025 九年級生還在聽的經典流行歌曲[ 無廣告 ] 八年級生80首經典流行歌曲 🌹如果可以說好不會分手演员我好嗎，浪子回頭 ，信爱成瘾，《你就不要想起我》,https://www.youtube.com/watch?v=CsV-u5Ksw5Y
@@ -436,4 +569,10 @@ KP【4K】南方澳、進安宮天上聖母、#寶石珊瑚媽祖、 大門  媽
 【Kinmen Live】金門134高地即時影像｜Kinmen 134 Highland 4K Live Camera,https://www.youtube.com/watch?v=-srNHTE-Nf0
 東引遊客中心外平台,https://www.youtube.com/watch?v=vD26YEUBkJI
 南竿鐵堡,https://www.youtube.com/watch?v=NVf3j-5I1Fk
+=======
+
+風景,#genre#
+墾丁國家森林遊樂區觀海樓即時影像,https://www.youtube.com/watch?v=wRleP2_WaPc
+【Live】赤科山-花東縱谷即時影像｜Hualien Chike Mountain｜Live Camera,https://www.youtube.com/watch?v=5GTFLN9gZrc
+>>>>>>> Stashed changes
 
