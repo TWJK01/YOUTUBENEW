@@ -3,8 +3,13 @@
 台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브,https://www.youtube.com/watch?v=xL0ch83RAK8
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널,https://www.youtube.com/watch?v=AGdxQWYSrI8
 中視新聞LIVE直播頻道24小時線上直播｜Taiwan CTV news HD 24h live news |台湾のCTV ニュースHD 대만 24시간 뉴스채널  | (生放送),https://www.youtube.com/watch?v=TCnaIE_SAtM
+<<<<<<< Updated upstream
 地震即時警報與監測直播｜華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
 #LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+=======
+#LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+地震即時警報與監測直播｜華視公眾安全資訊觀測站,https://www.youtube.com/watch?v=meHTKm4XBS8
+>>>>>>> Stashed changes
 🟢LIVE 民視新聞 FTV 新聞直播｜Taiwan News Live｜台湾ニュース Live｜대만 뉴스 방송 Live @FTV_News,https://www.youtube.com/watch?v=ylYJSBUgaMA
 公共電視 13頻道 網路直播 PTS Live,https://www.youtube.com/watch?v=C6gYqSHLRw4
 公視新聞 PTS News  24小時線上直播 ｜PNN Taiwan News 24h Live｜台湾の最新ニュース24時間配信中｜대만 뉴스 라이브 스트리밍 #live #news,https://www.youtube.com/watch?v=quwqlazU-c8
@@ -14,6 +19,7 @@ TaiwanPlus TV Livestream | News & Shows from Taiwan | 台湾のニュースと�
 大愛一臺HD Live 全球直播 | 現正播映：人間菩提 (9974集),https://www.youtube.com/watch?v=MIqUplvSRWA
 大愛二臺HD Live 全球直播  | 現正播映：大愛全紀實 (119集),https://www.youtube.com/watch?v=DTNkEm6jaqQ
 鏡新聞 線上看 24小時 新聞直播｜mnews Taiwan News 24H Live｜台湾のニュース24時間オンライン放送,https://www.youtube.com/watch?v=5n0y6b0Q25o
+<<<<<<< Updated upstream
 🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=V1p33hqPrUk
 ⚾【U12世界盃看東森】中華小將出戰韓國力拼銅牌！8/3(日) 09:55｜直播聊天室,https://www.youtube.com/watch?v=cIWLL1xIFtc
 EBC 東森新聞 51 頻道 24小時線上直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=E0zhe2gkXBs
@@ -31,6 +37,25 @@ LIVE直播｜注意！雨神還沒走 今早中南部又有大雨、豪雨! ｜�
 【川普關稅拍板】川普宣布台灣20%關稅！比日韓高5% 賴總統喊：只是暫時？｜Analysis of Trump's Tariff Policy Update｜24-Hour Non-Stop Live,https://www.youtube.com/watch?v=1ROHAiEQMtg
 【台灣關稅20％】寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송,https://www.youtube.com/watch?v=6IquAgfvYmc
 【台灣關稅20％】寰宇新聞台灣台 24小時直播｜TaiwanNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中  @globalnewstw,https://www.youtube.com/watch?v=w87VGpgd90U
+=======
+⚾【U12世界盃看東森】中華小將出戰韓國力拼銅牌！8/3(日) 09:55｜直播聊天室,https://www.youtube.com/watch?v=cIWLL1xIFtc
+🔴東森新聞 51 頻道 24 小時直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=V1p33hqPrUk
+EBC 東森新聞 51 頻道 24小時線上直播｜Taiwan EBC 24h live news｜台湾 EBC ニュース24 時間オンライン放送｜대만 뉴스 생방송,https://www.youtube.com/watch?v=E0zhe2gkXBs
+iNEWS新聞LIVE│三立iNEWS 24小時 CH48新聞直播 ON AIR │SET iNEWS LIVE│SET iNEWS ニュースオンライン生放送,https://www.youtube.com/watch?v=pF507BLtbqU
+🔴海外直播 三立新聞 24小時LIVE │SET Live NEWS│SET LIVE ニュースオンライン放送│대만 채널SET뉴스 24시간 생방송 @setinews,https://www.youtube.com/watch?v=hGJkDZDchYI
+LIVE直播｜注意！雨神還沒走 今早中南部又有大雨、豪雨! ｜三立新聞台,https://www.youtube.com/watch?v=68_oFMq3uHk
+🔴不斷電直播｜三立新聞 24小時LIVE｜即時消息看 三立+SET+｜ 24hrs LIVE news│台湾 SET+ 24hrs ニュースオンライン放送│대만 채널 SET+ 뉴스 생방송,https://www.youtube.com/watch?v=MV9mI0GChwo
+【🔴LIVE直播中】大雷雨往北移動!何博文挖水溝擺拍?綠救災造謠衝罷免?曹興誠槓上游盈隆!鄭麗君曝關稅談判!海軍爆霸凌退伍?｜劉又嘉/林宸佑報新聞 20250803 @中天新聞CtiNews,https://www.youtube.com/watch?v=0aviJZInnoU
+【中天直播#LIVE】地震即時監測最速報 台.日鏡頭君總動員 各地最前線全面直擊 @中天電視CtiTv,https://www.youtube.com/watch?v=j9oO1QLzhK8
+【挺中華民國萬萬歲 我+1】主播攝影棚「楚門秀」會員專屬視角 @中天電視CtiTv,https://www.youtube.com/watch?v=rxTa74NlgWk
+【#中天新聞不斷電直播Live】 CTI中天新聞24小時HD新聞直播 │ CTITV Taiwan News HD Live｜台湾のHDニュース放送｜ 대만 HD 뉴스 방송@中天電視CtiTv,https://www.youtube.com/watch?v=vr3XyVCR4T0
+【中天直播#LIVE】西南風增強雨區擴大 山區慎防土石流 低窪地區警戒淹水 20250803 @中天新聞CtiNews,https://www.youtube.com/watch?v=ywGe85mK9Nk
+🔴LIVE：TVBS NEWS網路獨家新聞24小時直播 Taiwan News 24hr 台湾世界中のニュースを24時間配信中 대만24시간뉴스채널 55台,https://www.youtube.com/watch?v=m_dhMSvUCIc
+【ON AIR】TVBS新聞台 24 小時直播 |Taiwan News Live|台湾TVBS NEWS世界中のニュースを24時間配信中 | 대만 TVBS뉴스 24시간 생방송,https://www.youtube.com/watch?v=2mCSYvcfhtc
+【川普關稅拍板】川普宣布台灣20%關稅！比日韓高5% 賴總統喊：只是暫時？｜Analysis of Trump's Tariff Policy Update｜24-Hour Non-Stop Live,https://www.youtube.com/watch?v=1ROHAiEQMtg
+【台灣關稅20％】寰宇新聞台灣台 24小時直播｜TaiwanNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中  @globalnewstw,https://www.youtube.com/watch?v=w87VGpgd90U
+【台灣關稅20％】寰宇新聞台 24小時線上直播｜GlobalNewsTV 24h live news｜ 台湾のニュース24時間ライブ配信中 ｜대만 뉴스 생방송,https://www.youtube.com/watch?v=6IquAgfvYmc
+>>>>>>> Stashed changes
 川普8/1起課印度25%關稅 加碼額外罰款｜中俄8月舉行海上軍演 結束繼續聯合巡航｜寰宇新聞台Global News TV ｜GlobalNewsTV 24h live news,https://www.youtube.com/watch?v=Ej3LQM_lTEw
 新唐人LIVE 24小時直播 @新唐人亞太電視台NTDAPTV,https://www.youtube.com/watch?v=hR8_rrE0VyY
 「三大有線電視公司-三大一台」直播,https://www.youtube.com/watch?v=m738dQVCbSs
@@ -43,9 +68,15 @@ EBC 東森財經新聞24小時線上直播｜Taiwan EBC Financial News｜台湾 
 「運通財經台」直播,https://www.youtube.com/watch?v=CoRC4A9hJuM
 SBN全球財經台,https://www.youtube.com/watch?v=9m8uWuhY-Ls
 AI Anchor Ni Zhen(Niki)  24-Hour Non-Stop Taiwan News Live/NOWnews/Global News,https://www.youtube.com/watch?v=HSImh9Pz_44
+<<<<<<< Updated upstream
 AI主播Niki 倪珍24小時氣象直播 Weather non-stop,https://www.youtube.com/watch?v=Tf3mktyg6bU
 NOWnews新聞AI主播倪珍Niki 24小時直播｜ AI News Anchor Taiwan News Streaming/台湾のニュースHD24時間配信中(生放送)｜대만24시간뉴스채널|,https://www.youtube.com/watch?v=YBgQRpZqeug
 Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=2qyeDWUQhrA
+=======
+Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằng tiếng Việt|NOWnews台灣新聞越南台24小時直播,https://www.youtube.com/watch?v=2qyeDWUQhrA
+AI主播Niki 倪珍24小時氣象直播 Weather non-stop,https://www.youtube.com/watch?v=Tf3mktyg6bU
+NOWnews新聞AI主播倪珍Niki 24小時直播｜ AI News Anchor Taiwan News Streaming/台湾のニュースHD24時間配信中(生放送)｜대만24시간뉴스채널|,https://www.youtube.com/watch?v=YBgQRpZqeug
+>>>>>>> Stashed changes
 24 小時直播｜巴西法官罕見發聲:不會屈服於美國制裁｜波蘭:今年向烏克蘭提供軍事援助抗俄｜特朗普關稅吃官司 白宮強調即便敗訴照推不誤｜#BreakingNews #大事發生看鳳凰,https://www.youtube.com/watch?v=BLaQVW5oUGU
 【鳳凰資訊 #24小時直播 】解放軍公佈聯合演練指揮導調畫面 由“鏈”到“網”豐富作戰思路｜美國考慮向烏克蘭供應“阿姆拉姆”導彈｜俄羅斯提議與烏克蘭成立政治軍事問題工作組｜#鳳凰資訊 #大事發生看鳳凰,https://www.youtube.com/watch?v=LNux6O0Fj6A
 【正在直播：CCTV中文国际（亚洲）】全球新闻热点、时事点评、深度报道、纪录片、电视剧等 | LIVE NOW,https://www.youtube.com/watch?v=SdzewdkJa-o
@@ -65,15 +96,22 @@ Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằ
 【LIVE】🤹‍♂️🤹‍♂️《飢餓遊戲》一次播到飽 孫協志 王仁甫 許孟哲 蔡黃汝 峮峮🤹‍♂️🤹‍♂️｜24小時不斷電直播｜ Hunger Games 24 Hours Live｜,https://www.youtube.com/watch?v=lpunQRv0QvY
 豬哥會社 Chu Ke-Liang's Return 24H馬拉松不間斷直播[客服網址：discord.gg/DNuE7AZ],https://www.youtube.com/watch?v=v8MUGB4vst8
 【怪奇聊天室】57怪奇物語頻道24小時線上直播｜Taiwan StrangerThings 24h live program｜精選合集,https://www.youtube.com/watch?v=k0uJVhYX12Y
+<<<<<<< Updated upstream
 【非凡大探索】高雄美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
 【非凡大探索】台北美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=useqCtn6ngE
 【非凡大探索】台中美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
+=======
+【非凡大探索】台中美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=EZ8GQ8hH6GI
+【非凡大探索】台北美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=useqCtn6ngE
+【非凡大探索】高雄美食篇-24hr直播不間斷,https://www.youtube.com/watch?v=Qx-PTaNRC7Y
+>>>>>>> Stashed changes
 《掌声响起》24小时不间断 马拉松直播｜BIF相信未来,https://www.youtube.com/watch?v=EVATvtQHjyg
 【中天直播#LIVE】地震即時監測最速報 台.日鏡頭君總動員 各地最前線全面直擊 @靈異錯別字ctiwugei,https://www.youtube.com/watch?v=SN1WJXHVcbw
 
 影劇,#genre#
 懷舊系列又來啦！跟著戲說台灣一起回味童年！｜戲說台灣｜24小時不間斷直播｜24 hours Non-Stop,https://www.youtube.com/watch?v=Y_f8oxWZYE4
 🔴1980年 經典歌仔戲 《薛平貴》 #楊麗花 #許秀年 #郭美珠 #司馬玉嬌 #青蓉 #高玉珊 #李如鄰 #小鳳仙 #陳聰明 #洪秀美 #石文戶 #吳梅芳 #王琦 #陸一蟬,https://www.youtube.com/watch?v=3ej73RGIBFw
+<<<<<<< Updated upstream
 🔴《神機妙算劉伯溫》全集馬拉松！再現神威！| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=fH2POwXR-xw
 🔴#蛇年🐍🐍🐍 一起來看 【#新白娘子傳奇】🐍🐍🐍 #趙雅芝、#葉童、#陳美琪,https://www.youtube.com/watch?v=MEdYt10b2mc
 🔴挑戰你的極限！精彩類戲劇一次看個夠！【#玫瑰瞳鈴眼】【#紫色蔓陀蘿】【#蝴蝶密碼】【#台灣真女人】#台灣風雲【#藍色蜘蛛網】| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=_yvqESSzr6w
@@ -101,4 +139,34 @@ Người dẫn chương trình AI tin tức Đài Loan phát sóng 24 giờ bằ
 《終極三部曲》24HR馬拉松直播🔥Party time!! 24 hours non-stop🔥 @KOONERETURN,https://www.youtube.com/watch?v=HKDuzWlyGts
 古裝仙俠虐戀《花千骨》| 24小時馬拉松全劇直播 | @龍華電視,https://www.youtube.com/watch?v=Zt8LlZ0vSm8
 【金庸經典-射鵰三部曲之三】倚天屠龍記LIVE爆肝直播-曾舜晞、陳鈺琪、祝緒丹、林雨申、周海媚、曹曦月、黑子、宗峰岩、楊明娜｜The Heaven Sword and the Dragon Saber,https://www.youtube.com/watch?v=7syefcmbpFE
+=======
+🔴挑戰你的極限！精彩類戲劇一次看個夠！【#玫瑰瞳鈴眼】【#紫色蔓陀蘿】【#蝴蝶密碼】【#台灣真女人】#台灣風雲【#藍色蜘蛛網】| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=_yvqESSzr6w
+🔴#蛇年🐍🐍🐍 一起來看 【#新白娘子傳奇】🐍🐍🐍 #趙雅芝、#葉童、#陳美琪,https://www.youtube.com/watch?v=MEdYt10b2mc
+🔴1984年  經典歌仔戲 《風流才子唐伯虎》  #楊麗花  #許秀年 #青蓉 #柯玉枝 #張文彬 #洪秀美 #吳梅芳 #許仙姬 #翠娥  #小鳳仙  #紀麗如  #潘麗溱  #陳麗真,https://www.youtube.com/watch?v=73rs0t0ebmA
+🔴《神機妙算劉伯溫》全集馬拉松！再現神威！| TTV Time Machine (Live Streaming ),https://www.youtube.com/watch?v=fH2POwXR-xw
+🔴【過年檔期來啦！】現在開始看光陰的故事，就會在除夕夜跟陳怡蓉、賴雅妍一起吃年夜飯🧨CTV 中視戲劇｜24小時不斷電直播｜ Ctvdrama Classic 24 Hours Live｜,https://www.youtube.com/watch?v=jkF7cseHZ5s
+【台灣靈異事件 LIVE】24 小時不斷電 一起追劇來辦案,https://www.youtube.com/watch?v=Nnpig_Lis9w
+【包青天 LIVE】全劇24小時不斷電 一起跟包公辦案!!,https://www.youtube.com/watch?v=RHMz_BSYVrw
+#藍色水玲瓏‧民視戲劇馬拉松,https://www.youtube.com/watch?v=rTcTVZBZtYs
+#廉政英雄 Justice Heroes‧民視戲劇馬拉松,https://www.youtube.com/watch?v=TXKWbIPgD_8
+#我的老師叫小賀‧民視戲劇馬拉松,https://www.youtube.com/watch?v=6CQZxYpW9q4
+#新玫瑰瞳鈴眼‧民視戲劇馬拉松,https://www.youtube.com/watch?v=qJMFuMRLee4
+#新兵日記 & #特戰英雄 Rookies' Diary  高清修復版‧民視戲劇馬拉松,https://www.youtube.com/watch?v=032kEdR9Lic
+#台灣奇案‧民視戲劇馬拉松,https://www.youtube.com/watch?v=vR19P3As6_g
+經典長壽劇【親戚不計較】24H不斷電鬥嘴鼓馬拉松LIVE | 卓勝利 李王羅 潘麗麗 沛小嵐 | 四季線上,https://www.youtube.com/watch?v=GjXBXz5dl6E
+【日正當中】 我是角頭 24H馬拉松LIVE  | 張晨光 崔浩然 王識賢 霍正奇  | 四季線上,https://www.youtube.com/watch?v=wYbY8aEwglo
+【意難忘】 24H忘不了馬拉松LIVE | 經典劇 | 王識賢 李興文 李李仁 張鳳書 韓瑜  | 四季線上,https://www.youtube.com/watch?v=sdtaF2gH9gc
+【犀利人妻】24HR不間斷直播 不被愛的才是第三者！可是瑞凡，我回不去了🍛｜三立電視,https://www.youtube.com/watch?v=3gbydOFPAZ8
+【台灣龍捲風】甘～安～捏～高清版本24小時不間斷直播 台灣吵架第一品牌出爐 懷念金句挖○哩企系｜三立電視 (EP1-320),https://www.youtube.com/watch?v=jih_rNsWXZ4
+【台灣霹靂火】重拾番仔火的記憶🔥 劉文聰不喜歡輸的感覺！苗可麗快嘴重現「公車萍」經典對罵 陳昭榮 張鳳書創最高八點檔收視｜24小時不間斷直播｜三立電視 (EP1-320),https://www.youtube.com/watch?v=0EgZW36EUZw
+【天之驕女】洗嘞哈囉～連體嬰姊妹墜入愛河 她們該如何談戀愛呢？ 409集不間斷直播中！｜三立電視,https://www.youtube.com/watch?v=trIjP-1aFns
+【世間情】毒婦郭佳佳的愛恨情仇 比潘茵茵更瘋的角色 世間男女 情關難過 八點檔影后們集結了｜24HR LIVE直播(EP1-437),https://www.youtube.com/watch?v=fm34FUP_7-E
+【阿爸的願望】漁村阿爸苦撐一生只為孩子活得好！如今只想完成一個願望｜台灣好戲 24HR不間斷直播｜三立電視｜廖峻 應采靈 黃文星 吳申梅,https://www.youtube.com/watch?v=noBiKwKWnsI
+兩個爸爸｜爸爸節快樂！溫蒂20歲了～小孩才做選擇 兩個把拔我全都要！｜24H不間斷直播｜24hrs Non-Stop｜林佑威 楊一展 賴雅妍 樂樂 梁靖｜Two Fathers,https://www.youtube.com/watch?v=nSqd6CYF4uo
+愛上哥們｜賴雅妍粉必看 哥們男分男捨～霸總戀上秘書 直球對決開吻囉！｜24H不間斷直播｜24hrs Non-Stop｜賴雅妍 陳楚河 畢書盡 陳語安 邵翔｜Bromance,https://www.youtube.com/watch?v=guNFqqcUs_A
+《終極三部曲》24HR馬拉松直播🔥Party time!! 24 hours non-stop🔥 @KOONERETURN,https://www.youtube.com/watch?v=HKDuzWlyGts
+🔴【唯一繼承者】開播囉！24HR直播不斷電｜《Taste of Love》24-Hour Non-Stop Live｜24時間ノンストップライブ配信,https://www.youtube.com/watch?v=RdZVFIO37Wk
+🔴【16個夏天】 開播囉！24HR直播不斷電｜《The Way We Were》24-Hour Non-Stop Live｜24時間ノンストップライブ配信,https://www.youtube.com/watch?v=AUw4hPj9UQU
+瓊瑤經典系列馬拉松直播｜三朵花｜婉君｜啞妻｜💗 一起回味那些年,https://www.youtube.com/watch?v=-3sFFHKkvcM
+>>>>>>> Stashed changes
 
