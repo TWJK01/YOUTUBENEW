@@ -1,5 +1,3 @@
 台灣,#genre#
 台灣地震監視(地震速報、強震即時警報),https://www.youtube.com/watch?v=KyT4qSK8lJo
-台視新聞台HD 24 小時線上直播｜TAIWAN TTV NEWS HD (Live)｜台湾のTTV ニュースHD (生放送)｜대만 뉴스 라이브,https://www.youtube.com/watch?v=xL0ch83RAK8
-#LIVE: 華視新聞直播 CH52 | Taiwan CTS News | 台湾のニュースを24時間配信 | 대만 24시간 뉴스채널 | 24小時 線上看 LIVE新聞【On Air】,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 
