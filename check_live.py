@@ -14,6 +14,7 @@ if not API_KEY or API_KEY == "YOUR_API_KEY":
 CATEGORIES = {
     "台灣,#genre#": {
         "台灣地震監視": "https://www.youtube.com/@台灣地震監視/streams",
+        "台灣颱風論壇": "https://www.youtube.com/@twtybbs2009/streams",		
         "台視新聞": "https://www.youtube.com/@TTV_NEWS/streams",
         "中視新聞": "https://www.youtube.com/@chinatvnews/streams",
         "中視新聞 HD": "https://www.youtube.com/@twctvnews/streams",
@@ -232,7 +233,8 @@ CATEGORIES = {
 	"抖音音樂台": "https://www.youtube.com/@douyinyinyuetai/streams",
 	"青春音乐铺": "https://www.youtube.com/@青春音乐铺/streams",
 	"水月琴音": "https://www.youtube.com/@Shuiyueqinyin/streams",	    
-	"Cherry 葵": "https://www.youtube.com/@Cherriexin/streams",			
+	"Cherry 葵": "https://www.youtube.com/@Cherriexin/streams",
+	"CMIX - Chill Mix": "https://www.youtube.com/@ChillMix-CMIX/streams",		
 	"「KING AMUSEMENT CREATIVE」公式チャンネル": "https://www.youtube.com/@KAC_official/streams",
 	"FOR FUN RADIO TIME Music channel": "https://www.youtube.com/@FORFUNRADIOTIME-Relax/streams",		
 	"Mellowbeat Seeker": "https://www.youtube.com/@mellowbeatseeker/streams",
@@ -247,7 +249,8 @@ CATEGORIES = {
         "庶民大頭家": "https://www.youtube.com/@庶民大頭家/streams",
         "TVBS 優選頻道": "https://www.youtube.com/@tvbschannel/streams",
         "街頭麥克風": "https://www.youtube.com/@street-mic/streams",
-        "全球大視野": "https://www.youtube.com/@全球大視野Global_Vision/streams",	
+        "全球大視野": "https://www.youtube.com/@全球大視野Global_Vision/streams",
+        "鄉民監察院": "https://www.youtube.com/@FTControlYuan/streams",		
         "民視讚夯": "https://www.youtube.com/@FTV_Forum/streams",
         "新台派上線": "https://www.youtube.com/@NewTaiwanonline/streams",	
         "94要客訴": "https://www.youtube.com/@94politics/streams",	
@@ -267,10 +270,12 @@ CATEGORIES = {
         "文茜的世界周報": "https://www.youtube.com/@tvbssisysworldnews/streams",
         "萬事通事務所": "https://www.youtube.com/@sciencewillwin/streams",		
         "中天深喉嚨": "https://www.youtube.com/@ctitalkshow/streams",
-        "品觀點": "https://www.youtube.com/@pinviewmedia/streams",		
+        "品觀點": "https://www.youtube.com/@pinviewmedia/streams",
+        "52新聞聚樂部 ": "https://www.youtube.com/@52newsclub/streams",		
+        "觀點": "https://www.youtube.com/@%E8%A7%80%E9%BB%9E/streams",		
         "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"		
     },	
-    "購物,#genre#": {
+	"購物,#genre#": {
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
 	"momo購物二台": "https://www.youtube.com/@momoch3571/streams",
 	"ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
@@ -310,7 +315,7 @@ CATEGORIES = {
 	"交通部觀光署澎湖國家風景區管理處": "https://www.youtube.com/@交通部觀光署澎湖國家/streams",		
 	"樂遊金門": "https://www.youtube.com/@kinmentravel/streams",
 	"馬祖國家風景區": "https://www.youtube.com/@matsunationalscenicarea9539/streams"		
-    }	
+    }
 }
 
 # 用來儲存直播結果
