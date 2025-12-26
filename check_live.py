@@ -53,11 +53,10 @@ CATEGORIES = {
         "AI主播倪珍Nikki 播新聞": "https://www.youtube.com/@NOWnews-sp2di/streams",
         "BNE TV - 新西兰中文国际频道": "https://www.youtube.com/@BNETVNZ/streams",	
         "POP Radio聯播網": "https://www.youtube.com/@917POPRadio/streams",
-        "Eight FM": "https://www.youtube.com/@eight-audio/streams",	
-        "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvhk/streams",
-        "鳳凰資訊 PhoenixTVNews": "https://www.youtube.com/@phoenixtvnews7060/streams",
+        "LIVE NOW": "https://www.youtube.com/@LiveNow24H/streams",	
+        "鳳凰衛視PhoenixTV": "https://www.youtube.com/@phoenixtvglobal/streams",
         "HOY 資訊台 × 有線新聞": "https://www.youtube.com/@HOYTVHK/streams",		
-        "CCTV中文": "https://www.youtube.com/@LiveNow24H/streams",
+        "CCTV中文": "https://www.youtube.com/@CCTVCH/featured",
         "8world": "https://www.youtube.com/@8worldSG/streams"
     },
     "綜藝,#genre#": {
@@ -78,8 +77,8 @@ CATEGORIES = {
         "飢餓遊戲": "https://www.youtube.com/@HungerGames123/streams",	
         "豬哥會社": "https://www.youtube.com/@FTV_ZhuGeClub/streams",
         "百變智多星": "https://www.youtube.com/@百變智多星/streams",	
-        "東森綜合台": "https://www.youtube.com/@中天娛樂CtiEntertainment/streams",
-        "中天娛樂頻道": "https://www.youtube.com/@ettv32/streams",		
+        "東森綜合台": "https://www.youtube.com/@ettv32/streams",
+        "中天娛樂頻道": "https://www.youtube.com/@中天娛樂CtiEntertainment/streams",		
         "57怪奇物語": "https://www.youtube.com/@57StrangerThings/streams",
         "命運好好玩": "https://www.youtube.com/@eravideo004/streams",	
         "TVBS娛樂頭條": "https://www.youtube.com/@tvbsenews/streams",	
@@ -108,6 +107,7 @@ CATEGORIES = {
         "公共電視-我們的島": "https://www.youtube.com/@ourislandTAIWAN/streams",
         "WeTV 綜藝經典": "https://www.youtube.com/@WeTV-ClassicVariety/streams",
         "爆梗TV": "https://www.youtube.com/@爆梗PunchlineTV/streams",
+		"緯來新聞網": "https://www.youtube.com/@videolandnews/streams",
         "灿星官方频道": "https://www.youtube.com/@CanxingMediaOfficialChannel/streams",
         "陕西广播电视台官方频道": "https://www.youtube.com/@chinashaanxitvofficialchan2836/streams",		
         "北京廣播電視台生活頻道": "https://www.youtube.com/@btvfinance/streams"		
@@ -173,7 +173,8 @@ CATEGORIES = {
         "China Zone 剧乐部": "https://www.youtube.com/@ChinaZoneDrama/streams",
         "China Zone 流金岁月": "https://www.youtube.com/@ChinaZone-ClassicDrama/streams",
         "China Zone梦想剧场": "https://www.youtube.com/@ChinaZone-DreamDrama/streams",		
-        "欢娱影视官方频道": "https://www.youtube.com/@chinahuanyuent.officialchannel/streams",		
+        "欢娱影视官方频道": "https://www.youtube.com/@chinahuanyuent.officialchannel/streams",
+        "乐视视频官方频道": "https://www.youtube.com/@letvdramas/streams",		
         "正午阳光官方频道": "https://www.youtube.com/@DaylightEntertainmentDrama/streams",		
         "超級影迷 正版電影免費看": "https://www.youtube.com/@MegaFilmLovers/streams",
         "電影想飛 正版電影免費看": "https://www.youtube.com/@moviesintheair/streams",
@@ -200,7 +201,6 @@ CATEGORIES = {
         "超級汽車-卡通動畫": "https://www.youtube.com/@Supercar_Cartoon/streams",	
         "神奇鸡仔": "https://www.youtube.com/@como_cn/streams",
         "朱妮托尼 - 动画儿歌": "https://www.youtube.com/@JunyTonyCN/streams",	
-        "會說話的湯姆貓家族": "https://www.youtube.com/@TalkingFriendsCN/streams",
         "Muse木棉花-TW": "https://www.youtube.com/@MuseTW/streams",	
         "Muse木棉花-闔家歡": "https://www.youtube.com/@Muse_Family/streams",
         "Ani-One中文官方動畫頻道": "https://www.youtube.com/@AniOneAnime/streams",
@@ -208,7 +208,8 @@ CATEGORIES = {
         "嘀嘀漫畫站": "https://www.youtube.com/@嘀嘀漫畫站DidiComic/streams",			
         "嗶哩嗶哩動畫Anime Made By Bilibili": "https://www.youtube.com/@MadeByBilibili/streams",	
         "回歸線娛樂": "https://www.youtube.com/@tropicsanime/streams",
-        "愛奇藝國漫": "https://www.youtube.com/@iQIYIAnimation/streams",	
+        "愛奇藝國漫": "https://www.youtube.com/@iQIYIAnimation/streams",
+        "艾瑪愛學習": "https://www.youtube.com/@EmmaLearning/streams",		
         "超人官方 YouTube 粵語頻道": "https://www.youtube.com/@ultraman_cantonese_official/streams"				
     },
     "體育,#genre#": {
@@ -236,7 +237,9 @@ CATEGORIES = {
 	    "WWE Vault": "https://www.youtube.com/@WWEVault/streams"   
     },
 	"音樂,#genre#": {
-	    "Eight FM 线上收听！": "https://www.youtube.com/@eight-audio/streams",
+	    "Eight无限": "https://www.youtube.com/@eight-audio/streams",
+	    "相信音樂BinMusic": "https://www.youtube.com/@binmusictaipei/streams",
+	    "周杰倫 Jay Chou": "https://www.youtube.com/@jaychou/streams",		
 	    "Sony Music Entertainment Hong Kong": "https://www.youtube.com/@sonymusichk/streams",		
 	    "Hot TV": "https://www.youtube.com/@hotfm976/streams",		
 	    "KKBOX 华语新歌周榜": "https://www.youtube.com/@KKBOX-baidu6868/streams",
@@ -253,7 +256,8 @@ CATEGORIES = {
 	    "The Good Life Radio x Sensual Musique": "https://www.youtube.com/@TheGoodLiferadio/streams",	
         "Best of Mix": "https://www.youtube.com/@bestofmixlive/streams",
         "Rock FM": "https://www.youtube.com/@rockfm1/streams",
-        "Radio Mix": "https://www.youtube.com/@liveradiomix/streams",		
+        "Radio Mix": "https://www.youtube.com/@liveradiomix/streams",
+        "Too Music": "https://www.youtube.com/@toomusicc/streams",		
 	    "Radio Hits Music": "https://www.youtube.com/@LiveMusicRadio/streams"		
     },	
     "政論,#genre#": {
@@ -273,9 +277,12 @@ CATEGORIES = {
         "中天深喉嚨": "https://www.youtube.com/@ctitalkshow/streams",		
         "新聞挖挖哇！": "https://www.youtube.com/@newswawawa/streams",	
         "前進新台灣": "https://www.youtube.com/@SETTaiwanGo/streams",
-        "哏傳媒": "https://www.youtube.com/@funseeTW/streams",	
+        "哏傳媒": "https://www.youtube.com/@funseeTW/streams",
+        "董事長開講": "https://www.youtube.com/@dongsshow/streams",
+        "政經關不了": "https://www.youtube.com/@truevoiceoftaiwan/streams",			
         "57爆新聞": "https://www.youtube.com/@57BreakingNews/streams",
         "關鍵時刻": "https://www.youtube.com/@ebcCTime/streams",
+		"郭正亮頻道": "https://www.youtube.com/@Guovision-TV/streams",
         "新聞龍捲風": "https://www.youtube.com/@新聞龍捲風NewsTornado/streams",		
         "頭條開講": "https://www.youtube.com/@頭條開講HeadlinesTalk/streams",		
 	    "少康戰情室": "https://www.youtube.com/@tvbssituationroom/streams",
@@ -288,6 +295,13 @@ CATEGORIES = {
         "金臨天下": "https://www.youtube.com/@tvbsmoney/streams"		
     },	
 	"購物,#genre#": {
+        "海豚多媒體": "https://www.youtube.com/@24811001/streams",
+        "玉麟網路電視台": "https://www.youtube.com/@YuLinNetworkTelevision/streams",		
+        "寶島文化台": "https://www.youtube.com/@bdtvbest/streams",
+        "三聖電視台": "https://www.youtube.com/@tsimtv-01/streams",		
+        "桐瑛台中電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E5%8F%B0%E4%B8%AD%E9%9B%BB%E8%A6%96%E8%87%BA/streams",
+        "桐瑛虎尾電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E8%99%8E%E5%B0%BE%E9%9B%BB%E8%A6%96%E8%87%BA/streams",
+        "桐瑛台南電視臺": "https://www.youtube.com/@%E6%A1%90%E7%91%9B%E5%8F%B0%E5%8D%97%E9%9B%BB%E8%A6%96%E8%87%BA/streams",		
         "momo購物一台": "https://www.youtube.com/@momoch4812/streams",
 	    "momo購物二台": "https://www.youtube.com/@momoch3571/streams",
 	    "ViVa TV美好家庭購物": "https://www.youtube.com/@ViVaTVtw/streams",
@@ -295,8 +309,18 @@ CATEGORIES = {
     },
     "國會,#genre#": {
         "國會頻道": "https://www.youtube.com/@parliamentarytv/streams"
-    },	
+    },
+    "宗教,#genre#": {
+        "淨土宗": "https://www.youtube.com/@plbtp/streams",
+        "中華傳統文化教育中心": "https://www.youtube.com/@520wtv/streams",
+        "修心時刻": "https://www.youtube.com/@Practicetime7/streams",
+        "華藏衛視直播2台": "https://www.youtube.com/@hztv2212/streams",		
+        "佛光山梵唄讚頌團": "https://www.youtube.com/@VG_MUSICAL/streams",
+        "生命電視台": "https://www.youtube.com/@LIFETV_HaiTao/streams",		
+        "遠東良友": "https://www.youtube.com/@febc/streams"		
+    },		
     "風景,#genre#": {
+        "TW Live Cam": "https://www.youtube.com/@DanjiangBridge/streams",	
         "和平島公園即時影像": "https://www.youtube.com/@和平島公園即時影像/streams",
 		"台北觀光即時影像": "https://www.youtube.com/@taipeitravelofficial/streams",
 		"陽明山國家公園": "https://www.youtube.com/@ymsnpinfo/streams",
